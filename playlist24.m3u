@@ -1,1000 +1,995 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1group-title= "FILMES E SERIES",A&E FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",A&E FHD
 http://cdn.arrascacrf.site:80/180490/180490/208146.ts
-#EXTINF:-1group-title= "FILMES E SERIES",A&E FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",A&E FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785134.ts
-#EXTINF:-1group-title= "FILMES E SERIES",A&E HD
+#EXTINF:-1 group-title= "FILMES E SERIES",A&E HD
 http://cdn.arrascacrf.site:80/180490/180490/208147.ts
-#EXTINF:-1group-title= "FILMES E SERIES",A&E SD
+#EXTINF:-1 group-title= "FILMES E SERIES",A&E SD
 http://cdn.arrascacrf.site:80/180490/180490/208382.ts
-#EXTINF:-1group-title= "ESPORTES",AMAZON PRIME VIDEO 01
+#EXTINF:-1 group-title= "ESPORTES",AMAZON PRIME VIDEO 01
 http://cdn.arrascacrf.site:80/180490/180490/785263.ts
-#EXTINF:-1group-title= "ESPORTES",AMAZON PRIME VIDEO 02
+#EXTINF:-1 group-title= "ESPORTES",AMAZON PRIME VIDEO 02
 http://cdn.arrascacrf.site:80/180490/180490/3520298.ts
-#EXTINF:-1group-title= "ESPORTES",AMAZON PRIME VIDEO 03
+#EXTINF:-1 group-title= "ESPORTES",AMAZON PRIME VIDEO 03
 http://cdn.arrascacrf.site:80/180490/180490/3520299.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AMAZON PRIME VIDEO 04
+#EXTINF:-1 group-title= "FILMES E SERIES",AMAZON PRIME VIDEO 04
 http://cdn.arrascacrf.site:80/180490/180490/3520300.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AMC 4K
+#EXTINF:-1 group-title= "FILMES E SERIES",AMC 4K
 http://cdn.arrascacrf.site:80/180490/180490/100712.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AMC FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",AMC FHD
 http://cdn.arrascacrf.site:80/180490/180490/208150.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AMC HD
+#EXTINF:-1 group-title= "FILMES E SERIES",AMC HD
 http://cdn.arrascacrf.site:80/180490/180490/208151.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AMC SD
+#EXTINF:-1 group-title= "FILMES E SERIES",AMC SD
 http://cdn.arrascacrf.site:80/180490/180490/208383.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",ANIMAL PLANET FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",ANIMAL PLANET FHD
 http://cdn.arrascacrf.site:80/180490/180490/94203.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",ANIMAL PLANET FHD [H265]
+#EXTINF:-1 group-title= "DOCUMENTARIOS",ANIMAL PLANET FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785135.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",ANIMAL PLANET HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",ANIMAL PLANET HD
 http://cdn.arrascacrf.site:80/180490/180490/94204.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",ANIMAL PLANET SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",ANIMAL PLANET SD
 http://cdn.arrascacrf.site:80/180490/180490/94205.ts
-#EXTINF:-1group-title= "DIVERSSOS",ARTE 1  SD
+#EXTINF:-1 group-title= "DIVERSSOS",ARTE 1  SD
 http://cdn.arrascacrf.site:80/180490/180490/99934.ts
-#EXTINF:-1group-title= "DIVERSSOS",ARTE 1 FHD
+#EXTINF:-1 group-title= "DIVERSSOS",ARTE 1 FHD
 http://cdn.arrascacrf.site:80/180490/180490/99935.ts
-#EXTINF:-1group-title= "DIVERSSOS",Arte 1 FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",Arte 1 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785136.ts
-#EXTINF:-1group-title= "DIVERSSOS",ARTE 1 HD
+#EXTINF:-1 group-title= "DIVERSSOS",ARTE 1 HD
 http://cdn.arrascacrf.site:80/180490/180490/99936.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AXN 4K
+#EXTINF:-1 group-title= "FILMES E SERIES",AXN 4K
 http://cdn.arrascacrf.site:80/180490/180490/100711.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AXN FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",AXN FHD
 http://cdn.arrascacrf.site:80/180490/180490/101974.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AXN FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",AXN FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785137.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AXN HD
+#EXTINF:-1 group-title= "FILMES E SERIES",AXN HD
 http://cdn.arrascacrf.site:80/180490/180490/101975.ts
-#EXTINF:-1group-title= "FILMES E SERIES",AXN SD
+#EXTINF:-1 group-title= "FILMES E SERIES",AXN SD
 http://cdn.arrascacrf.site:80/180490/180490/101976.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",BAND MG FHD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",BAND MG FHD
 http://cdn.arrascacrf.site:80/180490/180490/102791.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",BAND MG HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",BAND MG HD
 http://cdn.arrascacrf.site:80/180490/180490/102792.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",BAND MG SD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",BAND MG SD
 http://cdn.arrascacrf.site:80/180490/180490/208437.ts
-#EXTINF:-1group-title= "ESPORTES",BAND SPORTS  SD
+#EXTINF:-1 group-title= "ESPORTES",BAND SPORTS  SD
 http://cdn.arrascacrf.site:80/180490/180490/101016.ts
-#EXTINF:-1group-title= "ESPORTES",BAND SPORTS FHD
+#EXTINF:-1 group-title= "ESPORTES",BAND SPORTS FHD
 http://cdn.arrascacrf.site:80/180490/180490/101014.ts
-#EXTINF:-1group-title= "ESPORTES",BAND SPORTS FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",BAND SPORTS FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785139.ts
-#EXTINF:-1group-title= "ESPORTES",BAND SPORTS HD
+#EXTINF:-1 group-title= "ESPORTES",BAND SPORTS HD
 http://cdn.arrascacrf.site:80/180490/180490/101015.ts
-#EXTINF:-1group-title= "DIVERSSOS",BIS FHD
+#EXTINF:-1 group-title= "DIVERSSOS",BIS FHD
 http://cdn.arrascacrf.site:80/180490/180490/99937.ts
-#EXTINF:-1group-title= "DIVERSSOS",BIS FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",BIS FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785140.ts
-#EXTINF:-1group-title= "DIVERSSOS",BIS HD
+#EXTINF:-1 group-title= "DIVERSSOS",BIS HD
 http://cdn.arrascacrf.site:80/180490/180490/99938.ts
-#EXTINF:-1group-title= "DIVERSSOS",BIS SD
+#EXTINF:-1 group-title= "DIVERSSOS",BIS SD
 http://cdn.arrascacrf.site:80/180490/180490/99939.ts
-#EXTINF:-1group-title= "FILMES E SERIES",CANAL SONY FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",CANAL SONY FHD
 http://cdn.arrascacrf.site:80/180490/180490/101980.ts
-#EXTINF:-1group-title= "FILMES E SERIES",CANAL SONY FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",CANAL SONY FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785142.ts
-#EXTINF:-1group-title= "FILMES E SERIES",CANAL SONY HD
+#EXTINF:-1 group-title= "FILMES E SERIES",CANAL SONY HD
 http://cdn.arrascacrf.site:80/180490/180490/101981.ts
-#EXTINF:-1group-title= "FILMES E SERIES",CANAL SONY SD
+#EXTINF:-1 group-title= "FILMES E SERIES",CANAL SONY SD
 http://cdn.arrascacrf.site:80/180490/180490/101982.ts
-#EXTINF:-1group-title= "RELIGIOSO",CANCAO NOVA FHD
+#EXTINF:-1 group-title= "RELIGIOSO",CANCAO NOVA FHD
 http://cdn.arrascacrf.site:80/180490/180490/99345.ts
-#EXTINF:-1group-title= "RELIGIOSO",CANCAO NOVA HD
+#EXTINF:-1 group-title= "RELIGIOSO",CANCAO NOVA HD
 http://cdn.arrascacrf.site:80/180490/180490/99363.ts
-#EXTINF:-1group-title= "RELIGIOSO",CANCAO NOVA SD
+#EXTINF:-1 group-title= "RELIGIOSO",CANCAO NOVA SD
 http://cdn.arrascacrf.site:80/180490/180490/99379.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOON NETWORK FHD
+#EXTINF:-1 group-title= "INFANTIS",CARTOON NETWORK FHD
 http://cdn.arrascacrf.site:80/180490/180490/94576.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOON NETWORK HD
+#EXTINF:-1 group-title= "INFANTIS",CARTOON NETWORK HD
 http://cdn.arrascacrf.site:80/180490/180490/94577.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOON NETWORK SD
+#EXTINF:-1 group-title= "INFANTIS",CARTOON NETWORK SD
 http://cdn.arrascacrf.site:80/180490/180490/94578.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOONITO FHD
+#EXTINF:-1 group-title= "INFANTIS",CARTOONITO FHD
 http://cdn.arrascacrf.site:80/180490/180490/94579.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOONITO HD
+#EXTINF:-1 group-title= "INFANTIS",CARTOONITO HD
 http://cdn.arrascacrf.site:80/180490/180490/94580.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOONITO SD
+#EXTINF:-1 group-title= "INFANTIS",CARTOONITO SD
 http://cdn.arrascacrf.site:80/180490/180490/94581.ts
-#EXTINF:-1group-title= "ESPORTES",CAZE TV 1
+#EXTINF:-1 group-title= "ESPORTES",CAZE TV 1
 http://cdn.arrascacrf.site:80/180490/180490/785274.ts
-#EXTINF:-1group-title= "ESPORTES",CAZE TV 2
+#EXTINF:-1 group-title= "ESPORTES",CAZE TV 2
 http://cdn.arrascacrf.site:80/180490/180490/785275.ts
-#EXTINF:-1group-title= "ESPORTES",CAZE TV 3
+#EXTINF:-1 group-title= "ESPORTES",CAZE TV 3
 http://cdn.arrascacrf.site:80/180490/180490/785276.ts
-#EXTINF:-1group-title= "ESPORTES",CAZE TV 4
+#EXTINF:-1 group-title= "ESPORTES",CAZE TV 4
 http://cdn.arrascacrf.site:80/180490/180490/785277.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",CENTRALTV BRASIL
+#EXTINF:-1 group-title= "FILMEES E SERIES",CENTRALTV BRASIL
 http://cdn.arrascacrf.site:80/180490/180490/727313.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",CINE BRASIL TV HD
+#EXTINF:-1 group-title= "FILMEES E SERIES",CINE BRASIL TV HD
 http://cdn.arrascacrf.site:80/180490/180490/727279.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 01
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 01
 http://cdn.arrascacrf.site:80/180490/180490/3456091.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 02
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 02
 http://cdn.arrascacrf.site:80/180490/180490/3456092.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 03
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 03
 http://cdn.arrascacrf.site:80/180490/180490/3456093.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 04
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 04
 http://cdn.arrascacrf.site:80/180490/180490/3456094.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 05
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 05
 http://cdn.arrascacrf.site:80/180490/180490/3456095.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 06
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 06
 http://cdn.arrascacrf.site:80/180490/180490/3456096.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 07
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 07
 http://cdn.arrascacrf.site:80/180490/180490/3456097.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 08
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 08
 http://cdn.arrascacrf.site:80/180490/180490/3456098.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 09
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 09
 http://cdn.arrascacrf.site:80/180490/180490/3456099.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 10
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 10
 http://cdn.arrascacrf.site:80/180490/180490/3456100.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 11
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 11
 http://cdn.arrascacrf.site:80/180490/180490/3456101.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 12
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 12
 http://cdn.arrascacrf.site:80/180490/180490/3456102.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 13
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 13
 http://cdn.arrascacrf.site:80/180490/180490/3456103.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 14
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 14
 http://cdn.arrascacrf.site:80/180490/180490/3456104.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",Cine Sky 15
+#EXTINF:-1 group-title= "FILMEES E SERIES",Cine Sky 15
 http://cdn.arrascacrf.site:80/180490/180490/3456090.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",CINEMAX FHD
+#EXTINF:-1 group-title= "FILMEES E SERIES",CINEMAX FHD
 http://cdn.arrascacrf.site:80/180490/180490/727325.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",CINEMAX FHD H265
+#EXTINF:-1 group-title= "FILMEES E SERIES",CINEMAX FHD H265
 http://cdn.arrascacrf.site:80/180490/180490/785146.ts
-#EXTINF:-1group-title= "FILMEES E SERIES",CINEMAX HD
+#EXTINF:-1 group-title= "FILMEES E SERIES",CINEMAX HD
 http://cdn.arrascacrf.site:80/180490/180490/101984.ts
-#EXTINF:-1group-title= "FILMES E SERIES",CINEMAX SD
+#EXTINF:-1 group-title= "FILMES E SERIES",CINEMAX SD
 http://cdn.arrascacrf.site:80/180490/180490/101985.ts
-#EXTINF:-1group-title= "DIVERSSOS",COMEDY CENTRAL 4K
+#EXTINF:-1 group-title= "DIVERSSOS",COMEDY CENTRAL 4K
 http://cdn.arrascacrf.site:80/180490/180490/100714.ts
-#EXTINF:-1group-title= "DIVERSSOS",COMEDY CENTRAL FHD
+#EXTINF:-1 group-title= "DIVERSSOS",COMEDY CENTRAL FHD
 http://cdn.arrascacrf.site:80/180490/180490/99940.ts
-#EXTINF:-1group-title= "DIVERSSOS",COMEDY CENTRAL HD
+#EXTINF:-1 group-title= "DIVERSSOS",COMEDY CENTRAL HD
 http://cdn.arrascacrf.site:80/180490/180490/99941.ts
-#EXTINF:-1group-title= "DIVERSSOS",COMEDY CENTRAL SD
+#EXTINF:-1 group-title= "DIVERSSOS",COMEDY CENTRAL SD
 http://cdn.arrascacrf.site:80/180490/180490/99942.ts
-#EXTINF:-1group-title= "DIVERSSOS",CURTA!  FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",CURTA!  FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785149.ts
-#EXTINF:-1group-title= "DIVERSSOS",CURTA!  HD
+#EXTINF:-1 group-title= "DIVERSSOS",CURTA!  HD
 http://cdn.arrascacrf.site:80/180490/180490/101986.ts
-#EXTINF:-1group-title= "DIVERSSOS",CURTA!  SD
+#EXTINF:-1 group-title= "DIVERSSOS",CURTA!  SD
 http://cdn.arrascacrf.site:80/180490/180490/101988.ts
-#EXTINF:-1group-title= "DIVERSSOS",CURTA! 4K
+#EXTINF:-1 group-title= "DIVERSSOS",CURTA! 4K
 http://cdn.arrascacrf.site:80/180490/180490/100725.ts
-#EXTINF:-1group-title= "DIVERSSOS",CURTA! FHD
+#EXTINF:-1 group-title= "DIVERSSOS",CURTA! FHD
 http://cdn.arrascacrf.site:80/180490/180490/101987.ts
-#EXTINF:-1group-title= "ESPORTES",DAZN 01
+#EXTINF:-1 group-title= "ESPORTES",DAZN 01
 http://cdn.arrascacrf.site:80/180490/180490/785266.ts
-#EXTINF:-1group-title= "ESPORTES",DAZN 02
+#EXTINF:-1 group-title= "ESPORTES",DAZN 02
 http://cdn.arrascacrf.site:80/180490/180490/785267.ts
-#EXTINF:-1group-title= "ESPORTES",DAZN 03
+#EXTINF:-1 group-title= "ESPORTES",DAZN 03
 http://cdn.arrascacrf.site:80/180490/180490/785268.ts
-#EXTINF:-1group-title= "ESPORTES",DAZN 04
+#EXTINF:-1 group-title= "ESPORTES",DAZN 04
 http://cdn.arrascacrf.site:80/180490/180490/785269.ts
-#EXTINF:-1group-title= "ESPORTES",DAZN 05
+#EXTINF:-1 group-title= "ESPORTES",DAZN 05
 http://cdn.arrascacrf.site:80/180490/180490/785270.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://cdn.arrascacrf.site:80/180490/180490/196480.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY CHANNEL HD
 http://cdn.arrascacrf.site:80/180490/180490/196487.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY CHANNEL SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY CHANNEL SD
 http://cdn.arrascacrf.site:80/180490/180490/196467.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY THEATER FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY THEATER FHD
 http://cdn.arrascacrf.site:80/180490/180490/208160.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY THEATER FHD [H265]
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY THEATER FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785154.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY THEATER HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY THEATER HD
 http://cdn.arrascacrf.site:80/180490/180490/208161.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY THEATER SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY THEATER SD
 http://cdn.arrascacrf.site:80/180490/180490/208403.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY H&H FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY H&H FHD
 http://cdn.arrascacrf.site:80/180490/180490/208157.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY H&H HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY H&H HD
 http://cdn.arrascacrf.site:80/180490/180490/208158.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY  H&H SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY  H&H SD
 http://cdn.arrascacrf.site:80/180490/180490/208386.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY ID FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY ID FHD
 http://cdn.arrascacrf.site:80/180490/180490/92128.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY ID HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY ID HD
 http://cdn.arrascacrf.site:80/180490/180490/92129.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY ID SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY ID SD
 http://cdn.arrascacrf.site:80/180490/180490/208433.ts
-#EXTINF:-1group-title= "INFANTIS",DISCOVERY KIDS FHD
+#EXTINF:-1 group-title= "INFANTIS",DISCOVERY KIDS FHD
 http://cdn.arrascacrf.site:80/180490/180490/94566.ts
-#EXTINF:-1group-title= "INFANTIS",DISCOVERY KIDS FHD [H265]
+#EXTINF:-1 group-title= "INFANTIS",DISCOVERY KIDS FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785152.ts
-#EXTINF:-1group-title= "INFANTIS",DISCOVERY KIDS HD
+#EXTINF:-1 group-title= "INFANTIS",DISCOVERY KIDS HD
 http://cdn.arrascacrf.site:80/180490/180490/94567.ts
-#EXTINF:-1group-title= "INFANTIS",DISCOVERY KIDS SD
+#EXTINF:-1 group-title= "INFANTIS",DISCOVERY KIDS SD
 http://cdn.arrascacrf.site:80/180490/180490/94568.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE FHD
 http://cdn.arrascacrf.site:80/180490/180490/208159.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE FHD [H265]
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785153.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE HD
 http://cdn.arrascacrf.site:80/180490/180490/92130.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY SCIENCE SD
 http://cdn.arrascacrf.site:80/180490/180490/208404.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY TURBO HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY TURBO HD
 http://cdn.arrascacrf.site:80/180490/180490/92136.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY TURBO SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY TURBO SD
 http://cdn.arrascacrf.site:80/180490/180490/92135.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY WORLD FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY WORLD FHD
 http://cdn.arrascacrf.site:80/180490/180490/92138.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY WORLD FHD [H265]
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY WORLD FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785155.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY WORLD HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY WORLD HD
 http://cdn.arrascacrf.site:80/180490/180490/92139.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",DISCOVERY WORLD SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",DISCOVERY WORLD SD
 http://cdn.arrascacrf.site:80/180490/180490/208405.ts
-#EXTINF:-1group-title= "ESPORTES",E! FHD
+#EXTINF:-1 group-title= "ESPORTES",E! FHD
 http://cdn.arrascacrf.site:80/180490/180490/99943.ts
-#EXTINF:-1group-title= "ESPORTES",E! FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",E! FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785157.ts
-#EXTINF:-1group-title= "ESPORTES",E! HD
+#EXTINF:-1 group-title= "ESPORTES",E! HD
 http://cdn.arrascacrf.site:80/180490/180490/99944.ts
-#EXTINF:-1group-title= "ESPORTES",E! SD
+#EXTINF:-1 group-title= "ESPORTES",E! SD
 http://cdn.arrascacrf.site:80/180490/180490/99945.ts
-#EXTINF:-1group-title= "FILMES E SERIES",FILM & ARTS FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",FILM & ARTS FHD
 http://cdn.arrascacrf.site:80/180490/180490/101990.ts
-#EXTINF:-1group-title= "FILMES E SERIES",FILM & ARTS HD
+#EXTINF:-1 group-title= "FILMES E SERIES",FILM & ARTS HD
 http://cdn.arrascacrf.site:80/180490/180490/101991.ts
-#EXTINF:-1group-title= "FILMES E SERIES",FILM & ARTS SD
+#EXTINF:-1 group-title= "FILMES E SERIES",FILM & ARTS SD
 http://cdn.arrascacrf.site:80/180490/180490/101989.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",GLOBO MG FHD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",GLOBO MG FHD
 http://cdn.arrascacrf.site:80/180490/180490/784386.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",GLOBO MG FHD [H265]
+#EXTINF:-1 group-title= "CANAIS ABERTOS",GLOBO MG FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785167.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",GLOBO MG HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",GLOBO MG HD
 http://cdn.arrascacrf.site:80/180490/180490/784387.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",GLOBO MG SD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",GLOBO MG SD
 http://cdn.arrascacrf.site:80/180490/180490/784618.ts
-#EXTINF:-1group-title= "NOTICIAS",GLOBO NEWS 4K
+#EXTINF:-1 group-title= "NOTICIAS",GLOBO NEWS 4K
 http://cdn.arrascacrf.site:80/180490/180490/100719.ts
-#EXTINF:-1group-title= "NOTICIAS",GLOBO NEWS FHD
+#EXTINF:-1 group-title= "NOTICIAS",GLOBO NEWS FHD
 http://cdn.arrascacrf.site:80/180490/180490/96575.ts
-#EXTINF:-1group-title= "NOTICIAS",GLOBO NEWS FHD [H265]
+#EXTINF:-1 group-title= "NOTICIAS",GLOBO NEWS FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785168.ts
-#EXTINF:-1group-title= "NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 group-title= "NOTICIAS",GLOBO NEWS HD
 http://cdn.arrascacrf.site:80/180490/180490/96576.ts
-#EXTINF:-1group-title= "NOTICIAS",GLOBO NEWS SD
+#EXTINF:-1 group-title= "NOTICIAS",GLOBO NEWS SD
 http://cdn.arrascacrf.site:80/180490/180490/96758.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOB FHD
+#EXTINF:-1 group-title= "INFANTIS",GLOOB FHD
 http://cdn.arrascacrf.site:80/180490/180490/94586.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOB FHD [H265]
+#EXTINF:-1 group-title= "INFANTIS",GLOOB FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785173.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOB HD
+#EXTINF:-1 group-title= "INFANTIS",GLOOB HD
 http://cdn.arrascacrf.site:80/180490/180490/94587.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOB SD
+#EXTINF:-1 group-title= "INFANTIS",GLOOB SD
 http://cdn.arrascacrf.site:80/180490/180490/94585.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOBINHO FHD
+#EXTINF:-1 group-title= "INFANTIS",GLOOBINHO FHD
 http://cdn.arrascacrf.site:80/180490/180490/94588.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOBINHO FHD [H265]
+#EXTINF:-1 group-title= "INFANTIS",GLOOBINHO FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785174.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOBINHO HD
+#EXTINF:-1 group-title= "INFANTIS",GLOOBINHO HD
 http://cdn.arrascacrf.site:80/180490/180490/94589.ts
-#EXTINF:-1group-title= "INFANTIS",GLOOBINHO SD
+#EXTINF:-1 group-title= "INFANTIS",GLOOBINHO SD
 http://cdn.arrascacrf.site:80/180490/180490/94590.ts
-#EXTINF:-1group-title= "DIVERSSOS",GNT FHD
+#EXTINF:-1 group-title= "DIVERSSOS",GNT FHD
 http://cdn.arrascacrf.site:80/180490/180490/99949.ts
-#EXTINF:-1group-title= "DIVERSSOS",GNT FHD 4K FHDR
+#EXTINF:-1 group-title= "DIVERSSOS",GNT FHD 4K FHDR
 http://cdn.arrascacrf.site:80/180490/180490/100713.ts
-#EXTINF:-1group-title= "DIVERSSOS",GNT HD
+#EXTINF:-1 group-title= "DIVERSSOS",GNT HD
 http://cdn.arrascacrf.site:80/180490/180490/99950.ts
-#EXTINF:-1group-title= "DIVERSSOS",GNT SD
+#EXTINF:-1 group-title= "DIVERSSOS",GNT SD
 http://cdn.arrascacrf.site:80/180490/180490/99951.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO 2 FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO 2 FHD
 http://cdn.arrascacrf.site:80/180490/180490/784726.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO 2 FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO 2 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785175.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO 2 HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO 2 HD
 http://cdn.arrascacrf.site:80/180490/180490/784727.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO 2 SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO 2 SD
 http://cdn.arrascacrf.site:80/180490/180490/784728.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO 4K FHDR
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO 4K FHDR
 http://cdn.arrascacrf.site:80/180490/180490/100697.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO FAMILY FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO FAMILY FHD
 http://cdn.arrascacrf.site:80/180490/180490/784729.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO FAMILY FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO FAMILY FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785176.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO FAMILY HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO FAMILY HD
 http://cdn.arrascacrf.site:80/180490/180490/784730.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO FAMILY SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO FAMILY SD
 http://cdn.arrascacrf.site:80/180490/180490/784731.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO FHD
 http://cdn.arrascacrf.site:80/180490/180490/784732.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785177.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO HD
 http://cdn.arrascacrf.site:80/180490/180490/784749.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO MUNDI FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO MUNDI FHD
 http://cdn.arrascacrf.site:80/180490/180490/784733.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO MUNDI FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO MUNDI FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785178.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO MUNDI HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO MUNDI HD
 http://cdn.arrascacrf.site:80/180490/180490/784734.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO MUNDI SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO MUNDI SD
 http://cdn.arrascacrf.site:80/180490/180490/784735.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO POP FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO POP FHD
 http://cdn.arrascacrf.site:80/180490/180490/784736.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO POP FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO POP FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785179.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO POP HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO POP HD
 http://cdn.arrascacrf.site:80/180490/180490/784737.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO POP SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO POP SD
 http://cdn.arrascacrf.site:80/180490/180490/784738.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO SD
 http://cdn.arrascacrf.site:80/180490/180490/784739.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO SIGNATURE FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO SIGNATURE FHD
 http://cdn.arrascacrf.site:80/180490/180490/784740.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO SIGNATURE FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO SIGNATURE FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785180.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO SIGNATURE HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO SIGNATURE HD
 http://cdn.arrascacrf.site:80/180490/180490/784741.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO SIGNATURE SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO SIGNATURE SD
 http://cdn.arrascacrf.site:80/180490/180490/784742.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO XTREME FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO XTREME FHD
 http://cdn.arrascacrf.site:80/180490/180490/784743.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO XTREME FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO XTREME FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785181.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO XTREME HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO XTREME HD
 http://cdn.arrascacrf.site:80/180490/180490/784744.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO XTREME SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO XTREME SD
 http://cdn.arrascacrf.site:80/180490/180490/784745.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO+ FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO+ FHD
 http://cdn.arrascacrf.site:80/180490/180490/784746.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO+ FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO+ FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785182.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO+ HD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO+ HD
 http://cdn.arrascacrf.site:80/180490/180490/784747.ts
-#EXTINF:-1group-title= "FILMES E SERIES",HBO+ SD
+#EXTINF:-1 group-title= "FILMES E SERIES",HBO+ SD
 http://cdn.arrascacrf.site:80/180490/180490/784748.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HGTV FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HGTV FHD
 http://cdn.arrascacrf.site:80/180490/180490/208170.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HGTV FHD [H265]
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HGTV FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785183.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HGTV HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HGTV HD
 http://cdn.arrascacrf.site:80/180490/180490/208171.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HGTV SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HGTV SD
 http://cdn.arrascacrf.site:80/180490/180490/208401.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY 2 FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY 2 FHD
 http://cdn.arrascacrf.site:80/180490/180490/94212.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY 2 HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY 2 HD
 http://cdn.arrascacrf.site:80/180490/180490/94213.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY 2 SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY 2 SD
 http://cdn.arrascacrf.site:80/180490/180490/94202.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY CHANNEL FHD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY CHANNEL FHD
 http://cdn.arrascacrf.site:80/180490/180490/94214.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY CHANNEL HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY CHANNEL HD
 http://cdn.arrascacrf.site:80/180490/180490/94215.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY CHANNEL SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY CHANNEL SD
 http://cdn.arrascacrf.site:80/180490/180490/442943.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY FHD [H265]
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785184.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY HD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY HD
 http://cdn.arrascacrf.site:80/180490/180490/1479625.ts
-#EXTINF:-1group-title= "DOCUMENTARIOS",HISTORY SD
+#EXTINF:-1 group-title= "DOCUMENTARIOS",HISTORY SD
 http://cdn.arrascacrf.site:80/180490/180490/94201.ts
-#EXTINF:-1group-title= "FILMES E SERIES",LIFETIME  SD
+#EXTINF:-1 group-title= "FILMES E SERIES",LIFETIME  SD
 http://cdn.arrascacrf.site:80/180490/180490/99952.ts
-#EXTINF:-1group-title= "FILMES E SERIES",LIFETIME FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",LIFETIME FHD
 http://cdn.arrascacrf.site:80/180490/180490/99953.ts
-#EXTINF:-1group-title= "FILMES E SERIES",LIFETIME FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",LIFETIME FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785186.ts
-#EXTINF:-1group-title= "FILMES E SERIES",LIFETIME HD
+#EXTINF:-1 group-title= "FILMES E SERIES",LIFETIME HD
 http://cdn.arrascacrf.site:80/180490/180490/99954.ts
-#EXTINF:-1group-title= "FILMES E SERIES",MEGAPIX FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",MEGAPIX FHD
 http://cdn.arrascacrf.site:80/180490/180490/1429684.ts
-#EXTINF:-1group-title= "FILMES E SERIES",MEGAPIX FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",MEGAPIX FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785187.ts
-#EXTINF:-1group-title= "FILMES E SERIES",MEGAPIX HD
+#EXTINF:-1 group-title= "FILMES E SERIES",MEGAPIX HD
 http://cdn.arrascacrf.site:80/180490/180490/101998.ts
-#EXTINF:-1group-title= "FILMES E SERIES",MEGAPIX SD
+#EXTINF:-1 group-title= "FILMES E SERIES",MEGAPIX SD
 http://cdn.arrascacrf.site:80/180490/180490/101996.ts
-#EXTINF:-1group-title= "DIVERSSOS",MODO VIAGEM  FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",MODO VIAGEM  FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785188.ts
-#EXTINF:-1group-title= "DIVERSSOS",MODO VIAGEM FHD
+#EXTINF:-1 group-title= "DIVERSSOS",MODO VIAGEM FHD
 http://cdn.arrascacrf.site:80/180490/180490/727284.ts
-#EXTINF:-1group-title= "DIVERSSOS",MODO VIAGEM HD
+#EXTINF:-1 group-title= "DIVERSSOS",MODO VIAGEM HD
 http://cdn.arrascacrf.site:80/180490/180490/727285.ts
-#EXTINF:-1group-title= "DIVERSSOS",MODO VIAGEM SD
+#EXTINF:-1 group-title= "DIVERSSOS",MODO VIAGEM SD
 http://cdn.arrascacrf.site:80/180490/180490/102000.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV 00s SD
+#EXTINF:-1 group-title= "DIVERSSOS",MTV 00s SD
 http://cdn.arrascacrf.site:80/180490/180490/208417.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV FHD
+#EXTINF:-1 group-title= "DIVERSSOS",MTV FHD
 http://cdn.arrascacrf.site:80/180490/180490/208179.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",MTV FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785189.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV HD
+#EXTINF:-1 group-title= "DIVERSSOS",MTV HD
 http://cdn.arrascacrf.site:80/180490/180490/99955.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV Live FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",MTV Live FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785190.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV LIVE HD
+#EXTINF:-1 group-title= "DIVERSSOS",MTV LIVE HD
 http://cdn.arrascacrf.site:80/180490/180490/208180.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV LIVE SD
+#EXTINF:-1 group-title= "DIVERSSOS",MTV LIVE SD
 http://cdn.arrascacrf.site:80/180490/180490/208399.ts
-#EXTINF:-1group-title= "DIVERSSOS",MTV SD
+#EXTINF:-1 group-title= "DIVERSSOS",MTV SD
 http://cdn.arrascacrf.site:80/180490/180490/99956.ts
-#EXTINF:-1group-title= "DIVERSSOS",MULTISHOW FHD
+#EXTINF:-1 group-title= "DIVERSSOS",MULTISHOW FHD
 http://cdn.arrascacrf.site:80/180490/180490/99957.ts
-#EXTINF:-1group-title= "DIVERSSOS",MULTISHOW FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",MULTISHOW FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785191.ts
-#EXTINF:-1group-title= "DIVERSSOS",MULTISHOW HD
+#EXTINF:-1 group-title= "DIVERSSOS",MULTISHOW HD
 http://cdn.arrascacrf.site:80/180490/180490/99958.ts
-#EXTINF:-1group-title= "DIVERSSOS",MULTISHOW SD
+#EXTINF:-1 group-title= "DIVERSSOS",MULTISHOW SD
 http://cdn.arrascacrf.site:80/180490/180490/99959.ts
-#EXTINF:-1group-title= "DIVERSSOS",MUSIC BOX BRASIL  SD
+#EXTINF:-1 group-title= "DIVERSSOS",MUSIC BOX BRASIL  SD
 http://cdn.arrascacrf.site:80/180490/180490/99960.ts
-#EXTINF:-1group-title= "DIVERSSOS",MUSIC BOX BRASIL FHD
+#EXTINF:-1 group-title= "DIVERSSOS",MUSIC BOX BRASIL FHD
 http://cdn.arrascacrf.site:80/180490/180490/727288.ts
-#EXTINF:-1group-title= "DIVERSSOS",MUSIC BOX BRASIL HD
+#EXTINF:-1 group-title= "DIVERSSOS",MUSIC BOX BRASIL HD
 http://cdn.arrascacrf.site:80/180490/180490/727289.ts
-#EXTINF:-1group-title= "INFANTIS",NICK JR FHD
+#EXTINF:-1 group-title= "INFANTIS",NICK JR FHD
 http://cdn.arrascacrf.site:80/180490/180490/94569.ts
-#EXTINF:-1group-title= "INFANTIS",NICK JR FHD [H265]
+#EXTINF:-1 group-title= "INFANTIS",NICK JR FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785193.ts
-#EXTINF:-1group-title= "INFANTIS",NICK JR HD
+#EXTINF:-1 group-title= "INFANTIS",NICK JR HD
 http://cdn.arrascacrf.site:80/180490/180490/94570.ts
-#EXTINF:-1group-title= "INFANTIS",NICK JR SD
+#EXTINF:-1 group-title= "INFANTIS",NICK JR SD
 http://cdn.arrascacrf.site:80/180490/180490/94571.ts
-#EXTINF:-1group-title= "INFANTIS",NICKELODEON FHD
+#EXTINF:-1 group-title= "INFANTIS",NICKELODEON FHD
 http://cdn.arrascacrf.site:80/180490/180490/94572.ts
-#EXTINF:-1group-title= "INFANTIS",NICKELODEON FHD [H265]
+#EXTINF:-1 group-title= "INFANTIS",NICKELODEON FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785194.ts
-#EXTINF:-1group-title= "INFANTIS",NICKELODEON HD
+#EXTINF:-1 group-title= "INFANTIS",NICKELODEON HD
 http://cdn.arrascacrf.site:80/180490/180490/94573.ts
-#EXTINF:-1group-title= "INFANTIS",Nickelodeon SD
+#EXTINF:-1 group-title= "INFANTIS",Nickelodeon SD
 http://cdn.arrascacrf.site:80/180490/180490/94574.ts
-#EXTINF:-1group-title= "DIVERSSOS",OFF FHD
+#EXTINF:-1 group-title= "DIVERSSOS",OFF FHD
 http://cdn.arrascacrf.site:80/180490/180490/101021.ts
-#EXTINF:-1group-title= "DIVERSSOS",OFF FHD [H265]
+#EXTINF:-1 group-title= "DIVERSSOS",OFF FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785195.ts
-#EXTINF:-1group-title= "DIVERSSOS",OFF HD
+#EXTINF:-1 group-title= "DIVERSSOS",OFF HD
 http://cdn.arrascacrf.site:80/180490/180490/101022.ts
-#EXTINF:-1group-title= "DIVERSSOS",OFF SD
+#EXTINF:-1 group-title= "DIVERSSOS",OFF SD
 http://cdn.arrascacrf.site:80/180490/180490/101023.ts
-#EXTINF:-1group-title= "FILMES E SERIES",PARAMOUNT CHANNEL FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",PARAMOUNT CHANNEL FHD
 http://cdn.arrascacrf.site:80/180490/180490/102001.ts
-#EXTINF:-1group-title= "FILMES E SERIES",PARAMOUNT CHANNEL FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",PARAMOUNT CHANNEL FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479406.ts
-#EXTINF:-1group-title= "FILMES E SERIES",PARAMOUNT CHANNEL FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",PARAMOUNT CHANNEL FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785196.ts
-#EXTINF:-1group-title= "FILMES E SERIES",PARAMOUNT CHANNEL HD
+#EXTINF:-1 group-title= "FILMES E SERIES",PARAMOUNT CHANNEL HD
 http://cdn.arrascacrf.site:80/180490/180490/102002.ts
-#EXTINF:-1group-title= "FILMES E SERIES",PARAMOUNT CHANNEL SD
+#EXTINF:-1 group-title= "FILMES E SERIES",PARAMOUNT CHANNEL SD
 http://cdn.arrascacrf.site:80/180490/180490/102003.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 1 HD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 1 HD
 http://cdn.arrascacrf.site:80/180490/180490/784288.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 1 SD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 1 SD
 http://cdn.arrascacrf.site:80/180490/180490/784289.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 2 HD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 2 HD
 http://cdn.arrascacrf.site:80/180490/180490/784290.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 2 SD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 2 SD
 http://cdn.arrascacrf.site:80/180490/180490/784291.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 3 HD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 3 HD
 http://cdn.arrascacrf.site:80/180490/180490/784292.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 3 SD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 3 SD
 http://cdn.arrascacrf.site:80/180490/180490/784293.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 4 HD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 4 HD
 http://cdn.arrascacrf.site:80/180490/180490/784294.ts
-#EXTINF:-1group-title= "ESPORTES",PARAMOUNT+ 4 SD
+#EXTINF:-1 group-title= "ESPORTES",PARAMOUNT+ 4 SD
 http://cdn.arrascacrf.site:80/180490/180490/784295.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 1 - 4K
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 1 - 4K
 http://cdn.arrascacrf.site:80/180490/180490/100721.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 1 FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 1 FHD
 http://cdn.arrascacrf.site:80/180490/180490/93520.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 1 FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 1 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785197.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 1 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 1 HD
 http://cdn.arrascacrf.site:80/180490/180490/93521.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 1 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 1 SD
 http://cdn.arrascacrf.site:80/180490/180490/208390.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 2 - 4K FHDR
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 2 - 4K FHDR
 http://cdn.arrascacrf.site:80/180490/180490/100698.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 2  FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 2  FHD
 http://cdn.arrascacrf.site:80/180490/180490/93522.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  2 FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  2 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785198.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 2 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 2 HD
 http://cdn.arrascacrf.site:80/180490/180490/93523.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  2 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  2 SD
 http://cdn.arrascacrf.site:80/180490/180490/93538.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  3 4K
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  3 4K
 http://cdn.arrascacrf.site:80/180490/180490/100706.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 3 FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 3 FHD
 http://cdn.arrascacrf.site:80/180490/180490/93524.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  3 FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  3 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785199.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 3 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 3 HD
 http://cdn.arrascacrf.site:80/180490/180490/93525.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  3 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  3 SD
 http://cdn.arrascacrf.site:80/180490/180490/93539.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 3 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 3 SD
 http://cdn.arrascacrf.site:80/180490/180490/1477129.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 4 - 4K
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 4 - 4K
 http://cdn.arrascacrf.site:80/180490/180490/100705.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 4 FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 4 FHD
 http://cdn.arrascacrf.site:80/180490/180490/93526.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 4 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 4 HD
 http://cdn.arrascacrf.site:80/180490/180490/93527.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 4 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 4 SD
 http://cdn.arrascacrf.site:80/180490/180490/93540.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  5 - 4K
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  5 - 4K
 http://cdn.arrascacrf.site:80/180490/180490/100704.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 5 FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 5 FHD
 http://cdn.arrascacrf.site:80/180490/180490/93528.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  5 FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  5 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785200.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 5 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 5 HD
 http://cdn.arrascacrf.site:80/180490/180490/93529.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 5 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 5 SD
 http://cdn.arrascacrf.site:80/180490/180490/93541.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 6-4K
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 6-4K
 http://cdn.arrascacrf.site:80/180490/180490/100703.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 6 FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 6 FHD
 http://cdn.arrascacrf.site:80/180490/180490/93532.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 6 H265
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 6 H265
 http://cdn.arrascacrf.site:80/180490/180490/785201.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 6 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 6 HD
 http://cdn.arrascacrf.site:80/180490/180490/93530.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 6 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 6 SD
 http://cdn.arrascacrf.site:80/180490/180490/93542.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 7-4K
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 7-4K
 http://cdn.arrascacrf.site:80/180490/180490/100702.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 7 FHD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 7 FHD
 http://cdn.arrascacrf.site:80/180490/180490/211453.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  7 H265
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  7 H265
 http://cdn.arrascacrf.site:80/180490/180490/785202.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE 7 HD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE 7 HD
 http://cdn.arrascacrf.site:80/180490/180490/93531.ts
-#EXTINF:-1group-title= "ESPORTES",PREMIERE  7 SD
+#EXTINF:-1 group-title= "ESPORTES",PREMIERE  7 SD
 http://cdn.arrascacrf.site:80/180490/180490/93544.ts
-#EXTINF:-1group-title= "DIVERSOS",PRIME BOX BRAZIL FHD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",PRIME BOX BRAZIL FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479591.ts
-#EXTINF:-1group-title= "DIVERSOS",PRIME BOX BRAZIL HD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",PRIME BOX BRAZIL HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479592.ts
-#EXTINF:-1group-title= "DIVERSOS",PRIME BOX BRAZIL SD
+#EXTINF:-1 group-title= "DIVERSOS",PRIME BOX BRAZIL SD
 http://cdn.arrascacrf.site:80/180490/180490/208359.ts
-#EXTINF:-1group-title= "DIVERSOS",PRIME BOX BRAZIL SD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",PRIME BOX BRAZIL SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479593.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",RECORD MG FHD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",RECORD MG FHD
 http://cdn.arrascacrf.site:80/180490/180490/784779.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",RECORD MG HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",RECORD MG HD
 http://cdn.arrascacrf.site:80/180490/180490/784780.ts
-#EXTINF:-1group-title= "NOTICIAS",RECORD NEWS FHD
+#EXTINF:-1 group-title= "NOTICIAS",RECORD NEWS FHD
 http://cdn.arrascacrf.site:80/180490/180490/97954.ts
-#EXTINF:-1group-title= "NOTICIAS",RECORD NEWS FHD [ALT]
+#EXTINF:-1 group-title= "NOTICIAS",RECORD NEWS FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479521.ts
-#EXTINF:-1group-title= "NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 group-title= "NOTICIAS",RECORD NEWS HD
 http://cdn.arrascacrf.site:80/180490/180490/97955.ts
-#EXTINF:-1group-title= "NOTICIAS",RECORD NEWS SD
+#EXTINF:-1 group-title= "NOTICIAS",RECORD NEWS SD
 http://cdn.arrascacrf.site:80/180490/180490/97956.ts
-#EXTINF:-1group-title= "NOTICIAS",RECORD NEWS [ALT]
+#EXTINF:-1 group-title= "NOTICIAS",RECORD NEWS [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479522.ts
-#EXTINF:-1group-title= "NOTICIAS",RECORD NEWS [ALT]
+#EXTINF:-1 group-title= "NOTICIAS",RECORD NEWS [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479523.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE GENESIS FHD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE GENESIS FHD
 http://cdn.arrascacrf.site:80/180490/180490/99371.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE GENESIS HD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE GENESIS HD
 http://cdn.arrascacrf.site:80/180490/180490/99370.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE GENESIS SD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE GENESIS SD
 http://cdn.arrascacrf.site:80/180490/180490/99384.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE GOSPEL FHD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE GOSPEL FHD
 http://cdn.arrascacrf.site:80/180490/180490/99374.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE GOSPEL HD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE GOSPEL HD
 http://cdn.arrascacrf.site:80/180490/180490/99348.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE GOSPEL SD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE GOSPEL SD
 http://cdn.arrascacrf.site:80/180490/180490/99385.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDE MINAS FHD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDE MINAS FHD
 http://cdn.arrascacrf.site:80/180490/180490/784591.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDE MINAS HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDE MINAS HD
 http://cdn.arrascacrf.site:80/180490/180490/784592.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDE MINAS SD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDE MINAS SD
 http://cdn.arrascacrf.site:80/180490/180490/784593.ts
-#EXTINF:-1group-title= "DIVERSSOS",REDE SECULO 21 FHD
+#EXTINF:-1 group-title= "DIVERSSOS",REDE SECULO 21 FHD
 http://cdn.arrascacrf.site:80/180490/180490/99361.ts
-#EXTINF:-1group-title= "DIVERSSOS",REDE SECULO 21 HD
+#EXTINF:-1 group-title= "DIVERSSOS",REDE SECULO 21 HD
 http://cdn.arrascacrf.site:80/180490/180490/99349.ts
-#EXTINF:-1group-title= "DIVERSSOS",REDE SECULO 21 SD
+#EXTINF:-1 group-title= "DIVERSSOS",REDE SECULO 21 SD
 http://cdn.arrascacrf.site:80/180490/180490/99382.ts
-#EXTINF:-1group-title= "DIVERSSOS",REDE SUPER FHD
+#EXTINF:-1 group-title= "DIVERSSOS",REDE SUPER FHD
 http://cdn.arrascacrf.site:80/180490/180490/99350.ts
-#EXTINF:-1group-title= "DIVERSSOS",REDE SUPER HD
+#EXTINF:-1 group-title= "DIVERSSOS",REDE SUPER HD
 http://cdn.arrascacrf.site:80/180490/180490/99351.ts
-#EXTINF:-1group-title= "DIVERSSOS",REDE SUPER SD
+#EXTINF:-1 group-title= "DIVERSSOS",REDE SUPER SD
 http://cdn.arrascacrf.site:80/180490/180490/99383.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDE TV  HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDE TV  HD
 http://cdn.arrascacrf.site:80/180490/180490/102399.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDE TV FHD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDE TV FHD
 http://cdn.arrascacrf.site:80/180490/180490/727291.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE VIDA FHD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE VIDA FHD
 http://cdn.arrascacrf.site:80/180490/180490/99352.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE VIDA HD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE VIDA HD
 http://cdn.arrascacrf.site:80/180490/180490/99362.ts
-#EXTINF:-1group-title= "RELIGIOSO",REDE VIDA SD
+#EXTINF:-1 group-title= "RELIGIOSO",REDE VIDA SD
 http://cdn.arrascacrf.site:80/180490/180490/99377.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDETV FHD [H265]
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDETV FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785204.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",REDETV SD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",REDETV SD
 http://cdn.arrascacrf.site:80/180490/180490/102398.ts
-#EXTINF:-1group-title= "DIVERSSOS",RETRO MUSIC
+#EXTINF:-1 group-title= "DIVERSSOS",RETRO MUSIC
 http://cdn.arrascacrf.site:80/180490/180490/1479595.ts
-#EXTINF:-1group-title= "RELIGIOSO",RIT FHD
+#EXTINF:-1 group-title= "RELIGIOSO",RIT FHD
 http://cdn.arrascacrf.site:80/180490/180490/99353.ts
-#EXTINF:-1group-title= "RELIGIOSO",RIT HD
+#EXTINF:-1 group-title= "RELIGIOSO",RIT HD
 http://cdn.arrascacrf.site:80/180490/180490/727301.ts
-#EXTINF:-1group-title= "RELIGIOSO",RIT SD
+#EXTINF:-1 group-title= "RELIGIOSO",RIT SD
 http://cdn.arrascacrf.site:80/180490/180490/208446.ts
-#EXTINF:-1group-title= "DIVERSSOS",ROCK  BR TV FHD [ALT]
+#EXTINF:-1 group-title= "DIVERSSOS",ROCK  BR TV FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479596.ts
-#EXTINF:-1group-title= "DIVERSSOS",ROCK TV HD [ALT]
+#EXTINF:-1 group-title= "DIVERSSOS",ROCK TV HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479597.ts
-#EXTINF:-1group-title= "DIVERSSOS",SABOR & ARTE  FHD [ALT]
+#EXTINF:-1 group-title= "DIVERSSOS",SABOR & ARTE  FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479599.ts
-#EXTINF:-1group-title= "DIVERSSOS",SABOR & ARTE  HD [ALT]
+#EXTINF:-1 group-title= "DIVERSSOS",SABOR & ARTE  HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479598.ts
-#EXTINF:-1group-title= "DIVERSSOS",SABOR & ARTE  HD [ALT]
+#EXTINF:-1 group-title= "DIVERSSOS",SABOR & ARTE  HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479600.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",SBT TV ALTEROSA FHD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",SBT TV ALTEROSA FHD
 http://cdn.arrascacrf.site:80/180490/180490/91856.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",SBT TV ALTEROSA HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",SBT TV ALTEROSA HD
 http://cdn.arrascacrf.site:80/180490/180490/91857.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",SBT TV ALTEROSA SD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",SBT TV ALTEROSA SD
 http://cdn.arrascacrf.site:80/180490/180490/208441.ts
-#EXTINF:-1group-title= "filmes e series",SONY MOVIES HD [ALT]
+#EXTINF:-1 group-title= "filmes e series",SONY MOVIES HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479423.ts
-#EXTINF:-1group-title= "filmes e series",SONY ONE CLASSICS HD [ALT]
+#EXTINF:-1 group-title= "filmes e series",SONY ONE CLASSICS HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479424.ts
-#EXTINF:-1group-title= "filmes e series",SONY ONE EMOÇÕES HD [ALT]
+#EXTINF:-1 group-title= "filmes e series",SONY ONE EMOÇÕES HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479425.ts
-#EXTINF:-1group-title= "filmes e series",SPACE FHD
+#EXTINF:-1 group-title= "filmes e series",SPACE FHD
 http://cdn.arrascacrf.site:80/180490/180490/102005.ts
-#EXTINF:-1group-title= "filmes e series",SPACE FHD [ALT]
+#EXTINF:-1 group-title= "filmes e series",SPACE FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479427.ts
-#EXTINF:-1group-title= "filmes e series",SPACE FHD [H265]
+#EXTINF:-1 group-title= "filmes e series",SPACE FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785205.ts
-#EXTINF:-1group-title= "filmes e series",SPACE HD
+#EXTINF:-1 group-title= "filmes e series",SPACE HD
 http://cdn.arrascacrf.site:80/180490/180490/102006.ts
-#EXTINF:-1group-title= "filmes e series",SPACE HD [ALT]
+#EXTINF:-1 group-title= "filmes e series",SPACE HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479428.ts
-#EXTINF:-1group-title= "filmes e series",SPACE SD
+#EXTINF:-1 group-title= "filmes e series",SPACE SD
 http://cdn.arrascacrf.site:80/180490/180490/102004.ts
-#EXTINF:-1group-title= "filmes e series",SPACE SD [ALT]
+#EXTINF:-1 group-title= "filmes e series",SPACE SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479429.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 1 FHD
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 1 FHD
 http://cdn.arrascacrf.site:80/180490/180490/99013.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 1 FHD [ALT]
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 1 FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479376.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 1 HD
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 1 HD
 http://cdn.arrascacrf.site:80/180490/180490/85645.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 1 HD [ALT]
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 1 HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479377.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 1 SD
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 1 SD
 http://cdn.arrascacrf.site:80/180490/180490/99012.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 1 SD [ALT]
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 1 SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479378.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 2 4K
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 2 4K
 http://cdn.arrascacrf.site:80/180490/180490/100701.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 2 FHD
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 2 FHD
 http://cdn.arrascacrf.site:80/180490/180490/85646.ts
-#EXTINF:-1group-title= "ESPORTE"S,SPORTV 2 FHD [ALT]
+#EXTINF:-1 group-title= "ESPORTE"S,SPORTV 2 FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479369.ts
-#EXTINF:-1group-title= "ESPORTES,SPORTV 2 FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES,SPORTV 2 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785206.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 2 HD
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 2 HD
 http://cdn.arrascacrf.site:80/180490/180490/85647.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 2 HD [ALT]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 2 HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479370.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 2 SD
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 2 SD
 http://cdn.arrascacrf.site:80/180490/180490/85652.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 2 SD [ALT]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 2 SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479371.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 FHD
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 FHD
 http://cdn.arrascacrf.site:80/180490/180490/85648.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 FHD [ALT]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479372.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 FHD [H265]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785207.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 HD
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 HD
 http://cdn.arrascacrf.site:80/180490/180490/85649.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 HD [ALT]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479373.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 SD
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 SD
 http://cdn.arrascacrf.site:80/180490/180490/85653.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 3 SD [ALT]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 3 SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479374.ts
-#EXTINF:-1group-title= "ESPORTES",SPORTV 4 HD [ALT]
+#EXTINF:-1 group-title= "ESPORTES",SPORTV 4 HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479375.ts
-
-#EXTINF:-1group-title= "ESPORTES",Sportynet 01 HD
+#EXTINF:-1 group-title= "ESPORTES",Sportynet 01 HD
 http://cdn.arrascacrf.site:80/180490/180490/776590.ts
-#EXTINF:-1group-title= "ESPORTES",Sportynet 02 HD
+#EXTINF:-1 group-title= "ESPORTES",Sportynet 02 HD
 http://cdn.arrascacrf.site:80/180490/180490/776591.ts
-
-#EXTINF:-1group-title= "FILMES E SERIES",STUDIO UNIVERSAL FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",STUDIO UNIVERSAL FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785220.ts
-#EXTINF:-1group-title= "FILMES E SERIES",STUDIO UNIVERSAL HD
+#EXTINF:-1 group-title= "FILMES E SERIES",STUDIO UNIVERSAL HD
 http://cdn.arrascacrf.site:80/180490/180490/102027.ts
-#EXTINF:-1group-title= "FILMES E SERIES",STUDIO UNIVERSAL HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",STUDIO UNIVERSAL HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479431.ts
-#EXTINF:-1group-title= "FILMES E SERIES",SYFY FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",SYFY FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479601.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TCM FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",TCM FHD
 http://cdn.arrascacrf.site:80/180490/180490/102016.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TCM FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TCM FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479433.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TCM HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TCM HD
 http://cdn.arrascacrf.site:80/180490/180490/102017.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TCM HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TCM HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479434.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TCM SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TCM SD
 http://cdn.arrascacrf.site:80/180490/180490/102018.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE ACTION FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE ACTION FHD
 http://cdn.arrascacrf.site:80/180490/180490/784708.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE ACTION FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE ACTION FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479265.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE ACTION FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE ACTION FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785210.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE ACTION HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE ACTION HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479266.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE CULT FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE CULT FHD
 http://cdn.arrascacrf.site:80/180490/180490/784711.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE CULT FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE CULT FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479268.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE CULT HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE CULT HD
 http://cdn.arrascacrf.site:80/180490/180490/784712.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE CULT HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE CULT HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479269.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE CULT SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE CULT SD
 http://cdn.arrascacrf.site:80/180490/180490/784713.ts
-
-
-
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE FUN FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE FUN FHD
 http://cdn.arrascacrf.site:80/180490/180490/784714.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE FUN FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE FUN FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479271.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE FUN HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE FUN HD
 http://cdn.arrascacrf.site:80/180490/180490/784715.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE FUN HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE FUN HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479272.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE FUN SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE FUN SD
 http://cdn.arrascacrf.site:80/180490/180490/784716.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PIPOCA FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PIPOCA FHD
 http://cdn.arrascacrf.site:80/180490/180490/784717.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PIPOCA HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PIPOCA HD
 http://cdn.arrascacrf.site:80/180490/180490/784718.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PIPOCA SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PIPOCA SD
 http://cdn.arrascacrf.site:80/180490/180490/784719.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PIPOCA [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PIPOCA [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785213.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PREMIUM HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PREMIUM HD
 http://cdn.arrascacrf.site:80/180490/180490/784721.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PREMIUM HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PREMIUM HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479278.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PREMIUM SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PREMIUM SD
 http://cdn.arrascacrf.site:80/180490/180490/784722.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE PREMIUM [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE PREMIUM [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785214.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE TOUCH SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE TOUCH SD
 http://cdn.arrascacrf.site:80/180490/180490/784725.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TELECINE TOUCH [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",TELECINE TOUCH [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785215.ts
-#EXTINF:-1group-title= "DIVERSOS",TERRA VIVA FHD
+#EXTINF:-1 group-title= "DIVERSOS",TERRA VIVA FHD
 http://cdn.arrascacrf.site:80/180490/180490/208189.ts
-#EXTINF:-1group-title= "DIVERSOS",TERRA VIVA HD
+#EXTINF:-1 group-title= "DIVERSOS",TERRA VIVA HD
 http://cdn.arrascacrf.site:80/180490/180490/208190.ts
-#EXTINF:-1group-title= "DIVERSOS",TERRA VIVA SD
+#EXTINF:-1 group-title= "DIVERSOS",TERRA VIVA SD
 http://cdn.arrascacrf.site:80/180490/180490/208425.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TLC FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TLC FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479436.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TLC HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TLC HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479437.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TLC SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TLC SD
 http://cdn.arrascacrf.site:80/180490/180490/208393.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479439.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785216.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT HD
 http://cdn.arrascacrf.site:80/180490/180490/102020.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479440.ts
-#EXTINF:-1group-title= "NOVELAS",TNT NOVELAS FHD
+#EXTINF:-1 group-title= "NOVELAS",TNT NOVELAS FHD
 http://cdn.arrascacrf.site:80/180490/180490/208234.ts
-#EXTINF:-1group-title= "NOVELAS",TNT NOVELAS FHD [ALT]
+#EXTINF:-1 group-title= "NOVELAS",TNT NOVELAS FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479441.ts
-#EXTINF:-1group-title= "NOVELAS",TNT NOVELAS HD
+#EXTINF:-1 group-title= "NOVELAS",TNT NOVELAS HD
 http://cdn.arrascacrf.site:80/180490/180490/208235.ts
-#EXTINF:-1group-title= "NOVELAS",TNT NOVELAS HD [ALT]
+#EXTINF:-1 group-title= "NOVELAS",TNT NOVELAS HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479442.ts
-#EXTINF:-1group-title= "NOVELAS",TNT NOVELAS SD
+#EXTINF:-1 group-title= "NOVELAS",TNT NOVELAS SD
 http://cdn.arrascacrf.site:80/180490/180490/208450.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT SD
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT SD
 http://cdn.arrascacrf.site:80/180490/180490/102023.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT SERIES 4K
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT SERIES 4K
 http://cdn.arrascacrf.site:80/180490/180490/100700.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT SERIES FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT SERIES FHD
 http://cdn.arrascacrf.site:80/180490/180490/102021.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT SERIES FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT SERIES FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785217.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT SERIES HD
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT SERIES HD
 http://cdn.arrascacrf.site:80/180490/180490/102022.ts
-#EXTINF:-1group-title= "FILMES E SERIES",TNT SERIES HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",TNT SERIES HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479446.ts
-#EXTINF:-1group-title= "INFANTIS",CARTOON SD
+#EXTINF:-1 group-title= "INFANTIS",CARTOON SD
 http://cdn.arrascacrf.site:80/180490/180490/102024.ts
-#EXTINF:-1group-title= "INFANTIS",TOONCAST FHD
+#EXTINF:-1 group-title= "INFANTIS",TOONCAST FHD
 http://cdn.arrascacrf.site:80/180490/180490/94592.ts
-#EXTINF:-1group-title= "INFANTIS",TOONCAST FHD [ALT]
+#EXTINF:-1 group-title= "INFANTIS",TOONCAST FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479483.ts
-#EXTINF:-1group-title= "INFANTIS",TOONCAST HD
+#EXTINF:-1 group-title= "INFANTIS",TOONCAST HD
 http://cdn.arrascacrf.site:80/180490/180490/94593.ts
-#EXTINF:-1group-title= "INFANTIS",TOONCAST HD [ALT]
+#EXTINF:-1 group-title= "INFANTIS",TOONCAST HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479484.ts
-#EXTINF:-1group-title= "DIVERSOS",TRACE BRAZUCA HD
+#EXTINF:-1 group-title= "DIVERSOS",TRACE BRAZUCA HD
 http://cdn.arrascacrf.site:80/180490/180490/208420.ts
-#EXTINF:-1group-title= "DIVERSOS",TRAVEL BOX  BRAZIL HD
+#EXTINF:-1 group-title= "DIVERSOS",TRAVEL BOX  BRAZIL HD
 http://cdn.arrascacrf.site:80/180490/180490/99963.ts
-#EXTINF:-1group-title= "DIVERSOS",TRAVEL BOX BRASIL FHD
+#EXTINF:-1 group-title= "DIVERSOS",TRAVEL BOX BRASIL FHD
 http://cdn.arrascacrf.site:80/180490/180490/727292.ts
-#EXTINF:-1group-title= "DIVERSOS",TRAVEL BOX BRAZIL FHD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",TRAVEL BOX BRAZIL FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479606.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",TV GLOBO HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",TV GLOBO HD
 http://cdn.arrascacrf.site:80/180490/180490/784598.ts
-#EXTINF:-1group-title= "DIVERSOS",TV BRASIL FHD
+#EXTINF:-1 group-title= "DIVERSOS",TV BRASIL FHD
 http://cdn.arrascacrf.site:80/180490/180490/102400.ts
-#EXTINF:-1group-title= "DIVERSOS",TV BRASIL HD
+#EXTINF:-1 group-title= "DIVERSOS",TV BRASIL HD
 http://cdn.arrascacrf.site:80/180490/180490/102401.ts
-#EXTINF:-1group-title= "DIVERSOS",TV BRASIL SD
+#EXTINF:-1 group-title= "DIVERSOS",TV BRASIL SD
 http://cdn.arrascacrf.site:80/180490/180490/102402.ts
-#EXTINF:-1group-title= "DIVERSOS",TV FUTURA FHD [H265]
+#EXTINF:-1 group-title= "DIVERSOS",TV FUTURA FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785218.ts
-#EXTINF:-1group-title= "DIVERSOS",TV FUTURA HD
+#EXTINF:-1 group-title= "DIVERSOS",TV FUTURA HD
 http://cdn.arrascacrf.site:80/180490/180490/102406.ts
-#EXTINF:-1group-title= "DIVERSOS",TV FUTURA SD
+#EXTINF:-1 group-title= "DIVERSOS",TV FUTURA SD
 http://cdn.arrascacrf.site:80/180490/180490/102407.ts
-#EXTINF:-1group-title= "RELIGIOSO",TV EVANGELIZAR FHD
+#EXTINF:-1 group-title= "RELIGIOSO",TV EVANGELIZAR FHD
 http://cdn.arrascacrf.site:80/180490/180490/99369.ts
-#EXTINF:-1group-title= "DIVERSOS",TV Novo Tempo FHD
+#EXTINF:-1 group-title= "DIVERSOS",TV Novo Tempo FHD
 http://cdn.arrascacrf.site:80/180490/180490/99358.ts
-#EXTINF:-1group-title= "DIVERSOS",TV NOVO TEMPO HD
+#EXTINF:-1 group-title= "DIVERSOS",TV NOVO TEMPO HD
 http://cdn.arrascacrf.site:80/180490/180490/99359.ts
-#EXTINF:-1group-title= "DIVERSOS",TV Novo Tempo SD
+#EXTINF:-1 group-title= "DIVERSOS",TV Novo Tempo SD
 http://cdn.arrascacrf.site:80/180490/180490/208395.ts
-#EXTINF:-1group-title= "RELIGIOSO",TV PAI ETERNO FHD
+#EXTINF:-1 group-title= "RELIGIOSO",TV PAI ETERNO FHD
 http://cdn.arrascacrf.site:80/180490/180490/99360.ts
-#EXTINF:-1group-title= "RELIGIOSO",TV PAI ETERNO HD
+#EXTINF:-1 group-title= "RELIGIOSO",TV PAI ETERNO HD
 http://cdn.arrascacrf.site:80/180490/180490/99364.ts
 #EXTINF:-1 group-title= "RELIGIOSO",TV PAI ETERNO SD
 http://cdn.arrascacrf.site:80/180490/180490/99378.ts
-#EXTINF:-1group-title= "DIVERSOS",TVE SD
+#EXTINF:-1 group-title= "DIVERSOS",TVE SD
 http://cdn.arrascacrf.site:80/180490/180490/208455.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",TV BRASIL SD [ALT]
+#EXTINF:-1 group-title= "CANAIS ABERTOS",TV BRASIL SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479488.ts
-#EXTINF:-1group-title= "ESPORTES",UFC Fight Pass 1
+#EXTINF:-1 group-title= "ESPORTES",UFC Fight Pass 1
 http://cdn.arrascacrf.site:80/180490/180490/785271.ts
-#EXTINF:-1group-title= "FILMES E SERIES",UNIVERSAL CHANNEL FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",UNIVERSAL CHANNEL FHD
 http://cdn.arrascacrf.site:80/180490/180490/208204.ts
-#EXTINF:-1group-title= "FILMES E SERIES",UNIVERSAL CHANNEL FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",UNIVERSAL CHANNEL FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479452.ts
-#EXTINF:-1group-title= "FILMES E SERIES",UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title= "FILMES E SERIES",UNIVERSAL CHANNEL HD
 http://cdn.arrascacrf.site:80/180490/180490/208205.ts
-#EXTINF:-1group-title= "FILMES E SERIES",UNIVERSAL CHANNEL HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",UNIVERSAL CHANNEL HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479453.ts
-#EXTINF:-1group-title= "FILMES E SERIES",UNIVERSAL CHANNEL SD
+#EXTINF:-1 group-title= "FILMES E SERIES",UNIVERSAL CHANNEL SD
 http://cdn.arrascacrf.site:80/180490/180490/102025.ts
-#EXTINF:-1group-title= "DIVERSOS",UNIVERSAL PREMIERE HD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",UNIVERSAL PREMIERE HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479449.ts
-#EXTINF:-1group-title= "DIVERSOS",UNIVERSAL REALITY FHD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",UNIVERSAL REALITY FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479450.ts
-#EXTINF:-1group-title= "DIVERSOS",UNIVERSAL REALITY HD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",UNIVERSAL REALITY HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479451.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA  HD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",VIVA  HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479616.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA 4K
+#EXTINF:-1 group-title= "DIVERSOS",VIVA 4K
 http://cdn.arrascacrf.site:80/180490/180490/100699.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA FHD
+#EXTINF:-1 group-title= "DIVERSOS",VIVA FHD
 http://cdn.arrascacrf.site:80/180490/180490/99964.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA FHD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",VIVA FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479615.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA FHD [H265]
+#EXTINF:-1 group-title= "DIVERSOS",VIVA FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785222.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA HD
+#EXTINF:-1 group-title= "DIVERSOS",VIVA HD
 http://cdn.arrascacrf.site:80/180490/180490/99966.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA SD
+#EXTINF:-1 group-title= "DIVERSOS",VIVA SD
 http://cdn.arrascacrf.site:80/180490/180490/99967.ts
-#EXTINF:-1group-title= "DIVERSOS",VIVA SD [ALT]
+#EXTINF:-1 group-title= "DIVERSOS",VIVA SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479617.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",VTV SBT HD
+#EXTINF:-1 group-title= "CANAIS ABERTOS",VTV SBT HD
 http://cdn.arrascacrf.site:80/180490/180490/91861.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER  CHANNEL  SD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER  CHANNEL  SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479457.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER  CHANNEL FHD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER  CHANNEL FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479455.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER  CHANNEL HD
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER  CHANNEL HD
 http://cdn.arrascacrf.site:80/180490/180490/102028.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER  CHANNEL HD [ALT]
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER  CHANNEL HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479456.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER CHANNE SD
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER CHANNE SD
 http://cdn.arrascacrf.site:80/180490/180490/102030.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER CHANNEL  FHD [H265]
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER CHANNEL  FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785223.ts
-#EXTINF:-1group-title= "FILMES E SERIES",WARNER CHANNEL FHD
+#EXTINF:-1 group-title= "FILMES E SERIES",WARNER CHANNEL FHD
 http://cdn.arrascacrf.site:80/180490/180490/102029.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",WEB TV TRIBUNA SBT
+#EXTINF:-1 group-title= "CANAIS ABERTOS",WEB TV TRIBUNA SBT
 http://cdn.arrascacrf.site:80/180490/180490/208221.ts
-#EXTINF:-1group-title= "CANAIS ABERTOS",WEB-SANTA PORTAL
+#EXTINF:-1 group-title= "CANAIS ABERTOS",WEB-SANTA PORTAL
 http://cdn.arrascacrf.site:80/180490/180490/727321.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO  FHD [H265]
+#EXTINF:-1 group-title= "INFANIS",WOOHOO  FHD [H265]
 http://cdn.arrascacrf.site:80/180490/180490/785224.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO  HD [ALT]
+#EXTINF:-1 group-title= "INFANIS",WOOHOO  HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479381.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO  SD
+#EXTINF:-1 group-title= "INFANIS",WOOHOO  SD
 http://cdn.arrascacrf.site:80/180490/180490/99970.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO  SD [ALT]
+#EXTINF:-1 group-title= "INFANIS",WOOHOO  SD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479382.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO FHD
+#EXTINF:-1 group-title= "INFANIS",WOOHOO FHD
 http://cdn.arrascacrf.site:80/180490/180490/99968.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO FHD [ALT]
+#EXTINF:-1 group-title= "INFANIS",WOOHOO FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479380.ts
-#EXTINF:-1group-title= "INFANIS",WOOHOO HD
+#EXTINF:-1 group-title= "INFANIS",WOOHOO HD
 http://cdn.arrascacrf.site:80/180490/180490/99969.ts
-#EXTINF:-1group-title= "INFANIS",ZOOMO FHD
+#EXTINF:-1 group-title= "INFANIS",ZOOMO FHD
 http://cdn.arrascacrf.site:80/180490/180490/94596.ts
-#EXTINF:-1group-title= "INFANIS",ZOOMO HD
+#EXTINF:-1 group-title= "INFANIS",ZOOMO HD
 http://cdn.arrascacrf.site:80/180490/180490/94597.ts
-#EXTINF:-1group-title= "INFANIS",ZOOMO SD
+#EXTINF:-1 group-title= "INFANIS",ZOOMO SD
 http://cdn.arrascacrf.site:80/180490/180490/94595.ts
-#EXTINF:-1group-title= "INFANIS",ZOOMOO FHD [ALT]
+#EXTINF:-1 group-title= "INFANIS",ZOOMOO FHD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479489.ts
-#EXTINF:-1group-title= "INFANIS",ZOOMOO HD [ALT]
+#EXTINF:-1 group-title= "INFANIS",ZOOMOO HD [ALT]
 http://cdn.arrascacrf.site:80/180490/180490/1479490.ts
-#EXTINF:-1group-title= "ESPORTES",[16:30] Coritiba x Atletic Club
+#EXTINF:-1 group-title= "ESPORTES",[16:30] Coritiba x Atletic Club
 http://cdn.arrascacrf.site:80/180490/180490/4166470.ts
-#EXTINF:-1group-title= "ESPORTES",[16:30] Atlético Go x Operário- Pr
+#EXTINF:-1 group-title= "ESPORTES",[16:30] Atlético Go x Operário- Pr
 http://cdn.arrascacrf.site:80/180490/180490/4166920.ts
-#EXTINF:-1group-title= "ESPORTES",[16:30] Avaí x Remo
+#EXTINF:-1 group-title= "ESPORTES",[16:30] Avaí x Remo
 http://cdn.arrascacrf.site:80/180490/180490/4166921.ts
-#EXTINF:-1group-title= "ESPORTES",[16:30] CRB x Vila Nova
+#EXTINF:-1 group-title= "ESPORTES",[16:30] CRB x Vila Nova
 http://cdn.arrascacrf.site:80/180490/180490/4166922.ts
-#EXTINF:-1group-title= "ESPORTES",[18:30] Sport Recife x Flamengo
+#EXTINF:-1 group-title= "ESPORTES",[18:30] Sport Recife x Flamengo
 http://cdn.arrascacrf.site:80/180490/180490/4166923.ts
-#EXTINF:-1group-title= "ESPORTES",[21:00] Santos Fc x Palmeiras
+#EXTINF:-1 group-title= "ESPORTES",[21:00] Santos Fc x Palmeiras
 http://cdn.arrascacrf.site:80/180490/180490/4166924.ts
-#EXTINF:-1group-title= "ADULTOS",PLAYBOY TV FHD
+#EXTINF:-1 group-title= "ADULTOS",PLAYBOY TV FHD
 http://cdn.arrascacrf.site:80/180490/180490/208183.ts
-#EXTINF:-1group-title= "ADULTOS",PLAYBOY TV HD
+#EXTINF:-1 group-title= "ADULTOS",PLAYBOY TV HD
 http://cdn.arrascacrf.site:80/180490/180490/101559.ts
-#EXTINF:-1group-title= "ADULTOS",Playboy TV SD
+#EXTINF:-1 group-title= "ADULTOS",Playboy TV SD
 http://cdn.arrascacrf.site:80/180490/180490/208407.ts
-#EXTINF:-1group-title= "ADULTOS",SEXTREME HD
+#EXTINF:-1 group-title= "ADULTOS",SEXTREME HD
 http://cdn.arrascacrf.site:80/180490/180490/101554.ts
-#EXTINF:-1group-title= "ADULTOS",SEXTREME SD
+#EXTINF:-1 group-title= "ADULTOS",SEXTREME SD
 http://cdn.arrascacrf.site:80/180490/180490/208428.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY HOT HD
+#EXTINF:-1 group-title= "ADULTOS",SEXY HOT HD
 http://cdn.arrascacrf.site:80/180490/180490/101556.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY HOT HD
+#EXTINF:-1 group-title= "ADULTOS",SEXY HOT HD
 http://cdn.arrascacrf.site:80/180490/180490/101561.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY HOT SD
+#EXTINF:-1 group-title= "ADULTOS",SEXY HOT SD
 http://cdn.arrascacrf.site:80/180490/180490/101564.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY PRIVE FHD
+#EXTINF:-1 group-title= "ADULTOS",SEXY PRIVE FHD
 http://cdn.arrascacrf.site:80/180490/180490/101557.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY PRIVE FHD
+#EXTINF:-1 group-title= "ADULTOS",SEXY PRIVE FHD
 http://cdn.arrascacrf.site:80/180490/180490/101562.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY PRIVE HD
+#EXTINF:-1 group-title= "ADULTOS",SEXY PRIVE HD
 http://cdn.arrascacrf.site:80/180490/180490/101558.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY PRIVE HD
+#EXTINF:-1 group-title= "ADULTOS",SEXY PRIVE HD
 http://cdn.arrascacrf.site:80/180490/180490/101563.ts
-#EXTINF:-1group-title= "ADULTOS",SEXY PRIVE SD
+#EXTINF:-1 group-title= "ADULTOS",SEXY PRIVE SD
 http://cdn.arrascacrf.site:80/180490/180490/101565.ts
-#EXTINF:-1group-title= "ADULTOS",VENUS FHD
+#EXTINF:-1 group-title= "ADULTOS",VENUS FHD
 http://cdn.arrascacrf.site:80/180490/180490/208214.ts
-#EXTINF:-1group-title= "ADULTOS",VENUS HD
+#EXTINF:-1 group-title= "ADULTOS",VENUS HD
 http://cdn.arrascacrf.site:80/180490/180490/208206.ts
-#EXTINF:-1group-title= "ADULTOS",VENUS SD
+#EXTINF:-1 group-title= "ADULTOS",VENUS SD
 http://cdn.arrascacrf.site:80/180490/180490/208431.ts
