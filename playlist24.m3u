@@ -1,539 +1,623 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-
-#EXTINF:-1 group-title="FILMES E SERIES",A&E FHD
-http://cdn.arrascacrf.site:80/180490/180490/208146.ts
-#EXTINF:-1 group-title="FILMES E SERIES",A&E FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785134.ts
-#EXTINF:-1 group-title="FILMES E SERIES",A&E HD
-http://cdn.arrascacrf.site:80/180490/180490/208147.ts
-#EXTINF:-1 group-title="FILMES E SERIES",A&E SD
-http://cdn.arrascacrf.site:80/180490/180490/208382.ts
-#EXTINF:-1 group-title="ESPORTES",AMAZON PRIME VIDEO 01
-http://cdn.arrascacrf.site:80/180490/180490/785263.ts
-#EXTINF:-1 group-title="ESPORTES",AMAZON PRIME VIDEO 02
-http://cdn.arrascacrf.site:80/180490/180490/3520298.ts
-#EXTINF:-1 group-title="ESPORTES",AMAZON PRIME VIDEO 03
-http://cdn.arrascacrf.site:80/180490/180490/3520299.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AMAZON PRIME VIDEO 04
-http://cdn.arrascacrf.site:80/180490/180490/3520300.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AMC 4K
-http://cdn.arrascacrf.site:80/180490/180490/100712.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AMC FHD
-http://cdn.arrascacrf.site:80/180490/180490/208150.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AMC HD
-http://cdn.arrascacrf.site:80/180490/180490/208151.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AMC SD
-http://cdn.arrascacrf.site:80/180490/180490/208383.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
-http://cdn.arrascacrf.site:80/180490/180490/94203.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",ANIMAL PLANET FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785135.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://cdn.arrascacrf.site:80/180490/180490/94204.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",ANIMAL PLANET SD
-http://cdn.arrascacrf.site:80/180490/180490/94205.ts
-#EXTINF:-1 group-title="DIVERSOS",ARTE 1 SD
-http://cdn.arrascacrf.site:80/180490/180490/99934.ts
-#EXTINF:-1 group-title="DIVERSOS",ARTE 1 FHD
-http://cdn.arrascacrf.site:80/180490/180490/99935.ts
-#EXTINF:-1 group-title="DIVERSOS",ARTE 1 FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785136.ts
-#EXTINF:-1 group-title="DIVERSOS",ARTE 1 HD
-http://cdn.arrascacrf.site:80/180490/180490/99936.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AXN 4K
-http://cdn.arrascacrf.site:80/180490/180490/100711.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AXN FHD
-http://cdn.arrascacrf.site:80/180490/180490/101974.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AXN FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785137.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AXN HD
-http://cdn.arrascacrf.site:80/180490/180490/101975.ts
-#EXTINF:-1 group-title="FILMES E SERIES",AXN SD
-http://cdn.arrascacrf.site:80/180490/180490/101976.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",BAND MG FHD
-http://cdn.arrascacrf.site:80/180490/180490/102791.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",BAND MG HD
-http://cdn.arrascacrf.site:80/180490/180490/102792.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",BAND MG SD
-http://cdn.arrascacrf.site:80/180490/180490/208437.ts
-#EXTINF:-1 group-title="ESPORTES",BAND SPORTS SD
-http://cdn.arrascacrf.site:80/180490/180490/101016.ts
-#EXTINF:-1 group-title="ESPORTES",BAND SPORTS FHD
-http://cdn.arrascacrf.site:80/180490/180490/101014.ts
-#EXTINF:-1 group-title="ESPORTES",BAND SPORTS FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785139.ts
-#EXTINF:-1 group-title="ESPORTES",BAND SPORTS HD
-http://cdn.arrascacrf.site:80/180490/180490/101015.ts
-#EXTINF:-1 group-title="DIVERSOS",BIS FHD
-http://cdn.arrascacrf.site:80/180490/180490/99937.ts
-#EXTINF:-1 group-title="DIVERSOS",BIS FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785140.ts
-#EXTINF:-1 group-title="DIVERSOS",BIS HD
-http://cdn.arrascacrf.site:80/180490/180490/99938.ts
-#EXTINF:-1 group-title="DIVERSOS",BIS SD
-http://cdn.arrascacrf.site:80/180490/180490/99939.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CANAL SONY FHD
-http://cdn.arrascacrf.site:80/180490/180490/101980.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CANAL SONY FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785142.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CANAL SONY HD
-http://cdn.arrascacrf.site:80/180490/180490/101981.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CANAL SONY SD
-http://cdn.arrascacrf.site:80/180490/180490/101982.ts
-#EXTINF:-1 group-title="RELIGIOSO",CANCAO NOVA FHD
-http://cdn.arrascacrf.site:80/180490/180490/99345.ts
-#EXTINF:-1 group-title="RELIGIOSO",CANCAO NOVA HD
-http://cdn.arrascacrf.site:80/180490/180490/99363.ts
-#EXTINF:-1 group-title="RELIGIOSO",CANCAO NOVA SD
-http://cdn.arrascacrf.site:80/180490/180490/99379.ts
-#EXTINF:-1 group-title="INFANTIS",CARTOON NETWORK FHD
-http://cdn.arrascacrf.site:80/180490/180490/94576.ts
-#EXTINF:-1 group-title="INFANTIS",CARTOON NETWORK HD
-http://cdn.arrascacrf.site:80/180490/180490/94577.ts
-#EXTINF:-1 group-title="INFANTIS",CARTOON NETWORK SD
-http://cdn.arrascacrf.site:80/180490/180490/94578.ts
-#EXTINF:-1 group-title="INFANTIS",CARTOONITO FHD
-http://cdn.arrascacrf.site:80/180490/180490/94579.ts
-#EXTINF:-1 group-title="INFANTIS",CARTOONITO HD
-http://cdn.arrascacrf.site:80/180490/180490/94580.ts
-#EXTINF:-1 group-title="INFANTIS",CARTOONITO SD
-http://cdn.arrascacrf.site:80/180490/180490/94581.ts
-#EXTINF:-1 group-title="ESPORTES",CAZE TV 1
-http://cdn.arrascacrf.site:80/180490/180490/785274.ts
-#EXTINF:-1 group-title="ESPORTES",CAZE TV 2
-http://cdn.arrascacrf.site:80/180490/180490/785275.ts
-#EXTINF:-1 group-title="ESPORTES",CAZE TV 3
-http://cdn.arrascacrf.site:80/180490/180490/785276.ts
-#EXTINF:-1 group-title="ESPORTES",CAZE TV 4
-http://cdn.arrascacrf.site:80/180490/180490/785277.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CENTRALTV BRASIL
-http://cdn.arrascacrf.site:80/180490/180490/727313.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CINE BRASIL TV HD
-http://cdn.arrascacrf.site:80/180490/180490/727279.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 01
-http://cdn.arrascacrf.site:80/180490/180490/3456091.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 02
-http://cdn.arrascacrf.site:80/180490/180490/3456092.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 03
-http://cdn.arrascacrf.site:80/180490/180490/3456093.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 04
-http://cdn.arrascacrf.site:80/180490/180490/3456094.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 05
-http://cdn.arrascacrf.site:80/180490/180490/3456095.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 06
-http://cdn.arrascacrf.site:80/180490/180490/3456096.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 07
-http://cdn.arrascacrf.site:80/180490/180490/3456097.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 08
-http://cdn.arrascacrf.site:80/180490/180490/3456098.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 09
-http://cdn.arrascacrf.site:80/180490/180490/3456099.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 10
-http://cdn.arrascacrf.site:80/180490/180490/3456100.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 11
-http://cdn.arrascacrf.site:80/180490/180490/3456101.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 12
-http://cdn.arrascacrf.site:80/180490/180490/3456102.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 13
-http://cdn.arrascacrf.site:80/180490/180490/3456103.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 14
-http://cdn.arrascacrf.site:80/180490/180490/3456104.ts
-#EXTINF:-1 group-title="FILMES E SERIES",Cine Sky 15
-http://cdn.arrascacrf.site:80/180490/180490/3456090.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CINEMAX FHD
-http://cdn.arrascacrf.site:80/180490/180490/727325.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CINEMAX FHD H265
-http://cdn.arrascacrf.site:80/180490/180490/785146.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CINEMAX HD
-http://cdn.arrascacrf.site:80/180490/180490/101984.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CINEMAX SD
-http://cdn.arrascacrf.site:80/180490/180490/101985.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL 4K
-http://cdn.arrascacrf.site:80/180490/180490/100714.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL FHD
-http://cdn.arrascacrf.site:80/180490/180490/99940.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL HD
-http://cdn.arrascacrf.site:80/180490/180490/99941.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL SD
-http://cdn.arrascacrf.site:80/180490/180490/99942.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785149.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! HD
-http://cdn.arrascacrf.site:80/180490/180490/101986.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! SD
-http://cdn.arrascacrf.site:80/180490/180490/101988.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! 4K
-http://cdn.arrascacrf.site:80/180490/180490/100725.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! FHD
-http://cdn.arrascacrf.site:80/180490/180490/101987.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 01
-http://cdn.arrascacrf.site:80/180490/180490/785266.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 02
-http://cdn.arrascacrf.site:80/180490/180490/785267.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 03
-http://cdn.arrascacrf.site:80/180490/180490/785268.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 04
-http://cdn.arrascacrf.site:80/180490/180490/785269.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 05
-http://cdn.arrascacrf.site:80/180490/180490/785270.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://cdn.arrascacrf.site:80/180490/180490/196480.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://cdn.arrascacrf.site:80/180490/180490/196487.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
-http://cdn.arrascacrf.site:80/180490/180490/196467.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
-http://cdn.arrascacrf.site:80/180490/180490/208160.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785154.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://cdn.arrascacrf.site:80/180490/180490/208161.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
-http://cdn.arrascacrf.site:80/180490/180490/208403.ts
-#EXTINF:-1 group-title="FILMES E SERIES",CINEMAX SD
-http://cdn.arrascacrf.site:80/180490/180490/101985.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL 4K
-http://cdn.arrascacrf.site:80/180490/180490/100714.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL FHD
-http://cdn.arrascacrf.site:80/180490/180490/99940.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL HD
-http://cdn.arrascacrf.site:80/180490/180490/99941.ts
-#EXTINF:-1 group-title="DIVERSOS",COMEDY CENTRAL SD
-http://cdn.arrascacrf.site:80/180490/180490/99942.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785149.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! HD
-http://cdn.arrascacrf.site:80/180490/180490/101986.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! SD
-http://cdn.arrascacrf.site:80/180490/180490/101988.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! 4K
-http://cdn.arrascacrf.site:80/180490/180490/100725.ts
-#EXTINF:-1 group-title="DIVERSOS",CURTA! FHD
-http://cdn.arrascacrf.site:80/180490/180490/101987.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 01
-http://cdn.arrascacrf.site:80/180490/180490/785266.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 02
-http://cdn.arrascacrf.site:80/180490/180490/785267.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 03
-http://cdn.arrascacrf.site:80/180490/180490/785268.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 04
-http://cdn.arrascacrf.site:80/180490/180490/785269.ts
-#EXTINF:-1 group-title="ESPORTES",DAZN 05
-http://cdn.arrascacrf.site:80/180490/180490/785270.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://cdn.arrascacrf.site:80/180490/180490/196480.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://cdn.arrascacrf.site:80/180490/180490/196487.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
-http://cdn.arrascacrf.site:80/180490/180490/196467.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
-http://cdn.arrascacrf.site:80/180490/180490/208160.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785154.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://cdn.arrascacrf.site:80/180490/180490/208161.ts
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
-http://cdn.arrascacrf.site:80/180490/180490/208403.ts
-#EXTINF:-1 group-title="FILMES E SERIES",LIFETIME FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785186.ts
-#EXTINF:-1 group-title="FILMES E SERIES",LIFETIME HD
-http://cdn.arrascacrf.site:80/180490/180490/99954.ts
-#EXTINF:-1 group-title="FILMES E SERIES",MEGAPIX FHD
-http://cdn.arrascacrf.site:80/180490/180490/1429684.ts
-#EXTINF:-1 group-title="FILMES E SERIES",MEGAPIX FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785187.ts
-#EXTINF:-1 group-title="FILMES E SERIES",MEGAPIX HD
-http://cdn.arrascacrf.site:80/180490/180490/101998.ts
-#EXTINF:-1 group-title="FILMES E SERIES",MEGAPIX SD
-http://cdn.arrascacrf.site:80/180490/180490/101996.ts
-#EXTINF:-1 group-title="FILMES E SERIES",PARAMOUNT CHANNEL FHD
-http://cdn.arrascacrf.site:80/180490/180490/102001.ts
-#EXTINF:-1 group-title="FILMES E SERIES",PARAMOUNT CHANNEL FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479406.ts
-#EXTINF:-1 group-title="FILMES E SERIES",PARAMOUNT CHANNEL FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785196.ts
-#EXTINF:-1 group-title="FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://cdn.arrascacrf.site:80/180490/180490/102002.ts
-#EXTINF:-1 group-title="FILMES E SERIES",PARAMOUNT CHANNEL SD
-http://cdn.arrascacrf.site:80/180490/180490/102003.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 1 HD
-http://cdn.arrascacrf.site:80/180490/180490/784288.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 1 SD
-http://cdn.arrascacrf.site:80/180490/180490/784289.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 2 HD
-http://cdn.arrascacrf.site:80/180490/180490/784290.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 2 SD
-http://cdn.arrascacrf.site:80/180490/180490/784291.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 3 HD
-http://cdn.arrascacrf.site:80/180490/180490/784292.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 3 SD
-http://cdn.arrascacrf.site:80/180490/180490/784293.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 4 HD
-http://cdn.arrascacrf.site:80/180490/180490/784294.ts
-#EXTINF:-1 group-title="ESPORTES",PARAMOUNT+ 4 SD
-http://cdn.arrascacrf.site:80/180490/180490/784295.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 1 - 4K
-http://cdn.arrascacrf.site:80/180490/180490/100721.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 1 FHD
-http://cdn.arrascacrf.site:80/180490/180490/93520.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 1 FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785197.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 1 HD
-http://cdn.arrascacrf.site:80/180490/180490/93521.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 1 SD
-http://cdn.arrascacrf.site:80/180490/180490/208390.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 2 - 4K FHDR
-http://cdn.arrascacrf.site:80/180490/180490/100698.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 2 FHD
-http://cdn.arrascacrf.site:80/180490/180490/93522.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 2 FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785198.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 2 HD
-http://cdn.arrascacrf.site:80/180490/180490/93523.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 2 SD
-http://cdn.arrascacrf.site:80/180490/180490/93538.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 3 4K
-http://cdn.arrascacrf.site:80/180490/180490/100706.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 3 FHD
-http://cdn.arrascacrf.site:80/180490/180490/93524.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 3 FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785199.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 3 HD
-http://cdn.arrascacrf.site:80/180490/180490/93525.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 3 SD
-http://cdn.arrascacrf.site:80/180490/180490/93539.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 4 - 4K
-http://cdn.arrascacrf.site:80/180490/180490/100705.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 4 FHD
-http://cdn.arrascacrf.site:80/180490/180490/93526.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 4 HD
-http://cdn.arrascacrf.site:80/180490/180490/93527.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 4 SD
-http://cdn.arrascacrf.site:80/180490/180490/93540.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 5 - 4K
-http://cdn.arrascacrf.site:80/180490/180490/100704.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 5 FHD
-http://cdn.arrascacrf.site:80/180490/180490/93528.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 5 FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785200.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 5 HD
-http://cdn.arrascacrf.site:80/180490/180490/93529.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 5 SD
-http://cdn.arrascacrf.site:80/180490/180490/93541.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 6 - 4K
-http://cdn.arrascacrf.site:80/180490/180490/100703.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 6 FHD
-http://cdn.arrascacrf.site:80/180490/180490/93532.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 6 H265
-http://cdn.arrascacrf.site:80/180490/180490/785201.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 6 HD
-http://cdn.arrascacrf.site:80/180490/180490/93530.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 6 SD
-http://cdn.arrascacrf.site:80/180490/180490/93542.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 7 - 4K
-http://cdn.arrascacrf.site:80/180490/180490/100702.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 7 FHD
-http://cdn.arrascacrf.site:80/180490/180490/211453.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 7 H265
-http://cdn.arrascacrf.site:80/180490/180490/785202.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 7 HD
-http://cdn.arrascacrf.site:80/180490/180490/93531.ts
-#EXTINF:-1 group-title="ESPORTES",PREMIERE 7 SD
-http://cdn.arrascacrf.site:80/180490/180490/93544.ts
-#EXTINF:-1 group-title="DIVERSOS",PRIME BOX BRAZIL FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479591.ts
-#EXTINF:-1 group-title="DIVERSOS",PRIME BOX BRAZIL HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479592.ts
-#EXTINF:-1 group-title="DIVERSOS",PRIME BOX BRAZIL SD
-http://cdn.arrascacrf.site:80/180490/180490/208359.ts
-#EXTINF:-1 group-title="DIVERSOS",PRIME BOX BRAZIL SD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479593.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD MG FHD
-http://cdn.arrascacrf.site:80/180490/180490/784779.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD MG HD
-http://cdn.arrascacrf.site:80/180490/180490/784780.ts
-#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS FHD
-http://cdn.arrascacrf.site:80/180490/180490/97954.ts
-#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479521.ts
-#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS HD
-http://cdn.arrascacrf.site:80/180490/180490/97955.ts
-#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS SD
-http://cdn.arrascacrf.site:80/180490/180490/97956.ts
-#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479522.ts
-#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479523.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE GENESIS FHD
-http://cdn.arrascacrf.site:80/180490/180490/99371.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE GENESIS HD
-http://cdn.arrascacrf.site:80/180490/180490/99370.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE GENESIS SD
-http://cdn.arrascacrf.site:80/180490/180490/99384.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE GOSPEL FHD
-http://cdn.arrascacrf.site:80/180490/180490/99374.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE GOSPEL HD
-http://cdn.arrascacrf.site:80/180490/180490/99348.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE GOSPEL SD
-http://cdn.arrascacrf.site:80/180490/180490/99385.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDE MINAS FHD
-http://cdn.arrascacrf.site:80/180490/180490/784591.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDE MINAS HD
-http://cdn.arrascacrf.site:80/180490/180490/784592.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDE MINAS SD
-http://cdn.arrascacrf.site:80/180490/180490/784593.ts
-#EXTINF:-1 group-title="DIVERSOS",REDE SECULO 21 FHD
-http://cdn.arrascacrf.site:80/180490/180490/99361.ts
-#EXTINF:-1 group-title="DIVERSOS",REDE SECULO 21 HD
-http://cdn.arrascacrf.site:80/180490/180490/99349.ts
-#EXTINF:-1 group-title="DIVERSOS",REDE SECULO 21 SD
-http://cdn.arrascacrf.site:80/180490/180490/99382.ts
-#EXTINF:-1 group-title="DIVERSOS",REDE SUPER FHD
-http://cdn.arrascacrf.site:80/180490/180490/99350.ts
-#EXTINF:-1 group-title="DIVERSOS",REDE SUPER HD
-http://cdn.arrascacrf.site:80/180490/180490/99351.ts
-#EXTINF:-1 group-title="DIVERSOS",REDE SUPER SD
-http://cdn.arrascacrf.site:80/180490/180490/99383.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV HD
-http://cdn.arrascacrf.site:80/180490/180490/102399.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV FHD
-http://cdn.arrascacrf.site:80/180490/180490/727291.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE VIDA FHD
-http://cdn.arrascacrf.site:80/180490/180490/99352.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE VIDA HD
-http://cdn.arrascacrf.site:80/180490/180490/99362.ts
-#EXTINF:-1 group-title="RELIGIOSO",REDE VIDA SD
-http://cdn.arrascacrf.site:80/180490/180490/99377.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDETV FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785204.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",REDETV SD
-http://cdn.arrascacrf.site:80/180490/180490/102398.ts
-#EXTINF:-1 group-title="DIVERSOS",RETRO MUSIC
-http://cdn.arrascacrf.site:80/180490/180490/1479595.ts
-#EXTINF:-1 group-title="RELIGIOSO",RIT FHD
-http://cdn.arrascacrf.site:80/180490/180490/99353.ts
-#EXTINF:-1 group-title="RELIGIOSO",RIT HD
-http://cdn.arrascacrf.site:80/180490/180490/727301.ts
-#EXTINF:-1 group-title="RELIGIOSO",RIT SD
-http://cdn.arrascacrf.site:80/180490/180490/208446.ts
-#EXTINF:-1 group-title="DIVERSOS",ROCK BR TV FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479596.ts
-#EXTINF:-1 group-title="DIVERSOS",ROCK TV HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479597.ts
-#EXTINF:-1 group-title="DIVERSOS",SABOR & ARTE FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479599.ts
-#EXTINF:-1 group-title="DIVERSOS",SABOR & ARTE HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479598.ts
-#EXTINF:-1 group-title="DIVERSOS",SABOR & ARTE HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479600.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",SBT TV ALTEROSA FHD
-http://cdn.arrascacrf.site:80/180490/180490/91856.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",SBT TV ALTEROSA HD
-http://cdn.arrascacrf.site:80/180490/180490/91857.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",SBT TV ALTEROSA SD
-http://cdn.arrascacrf.site:80/180490/180490/208441.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SONY MOVIES HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479423.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SONY ONE CLASSICS HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479424.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SONY ONE EMOÇÕES HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479425.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE FHD
-http://cdn.arrascacrf.site:80/180490/180490/102005.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479427.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785205.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE HD
-http://cdn.arrascacrf.site:80/180490/180490/102006.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479428.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE SD
-http://cdn.arrascacrf.site:80/180490/180490/102004.ts
-#EXTINF:-1 group-title="FILMES E SERIES",SPACE SD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479429.ts
-#EXTINF:-1 group-title="ESPORTES",[16:30] Coritiba x Atletic Club
-http://cdn.arrascacrf.site:80/180490/180490/4166470.ts
-#EXTINF:-1 group-title="ESPORTES",[16:30] Atlético Go x Operário- Pr
-http://cdn.arrascacrf.site:80/180490/180490/4166920.ts
-#EXTINF:-1 group-title="ESPORTES",[16:30] Avaí x Remo
-http://cdn.arrascacrf.site:80/180490/180490/4166921.ts
-#EXTINF:-1 group-title="ESPORTES",[16:30] CRB x Vila Nova
-http://cdn.arrascacrf.site:80/180490/180490/4166922.ts
-#EXTINF:-1 group-title="ESPORTES",[18:30] Sport Recife x Flamengo
-http://cdn.arrascacrf.site:80/180490/180490/4166923.ts
-#EXTINF:-1 group-title="ESPORTES",[21:00] Santos Fc x Palmeiras
-http://cdn.arrascacrf.site:80/180490/180490/4166924.ts
-#EXTINF:-1 group-title="ADULTOS",PLAYBOY TV FHD
-http://cdn.arrascacrf.site:80/180490/180490/208183.ts
-#EXTINF:-1 group-title="ADULTOS",PLAYBOY TV HD
-http://cdn.arrascacrf.site:80/180490/180490/101559.ts
-#EXTINF:-1 group-title="ADULTOS",Playboy TV SD
-http://cdn.arrascacrf.site:80/180490/180490/208407.ts
-#EXTINF:-1 group-title="ADULTOS",SEXTREME HD
-http://cdn.arrascacrf.site:80/180490/180490/101554.ts
-#EXTINF:-1 group-title="ADULTOS",SEXTREME SD
-http://cdn.arrascacrf.site:80/180490/180490/208428.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY HOT HD
-http://cdn.arrascacrf.site:80/180490/180490/101556.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY HOT HD
-http://cdn.arrascacrf.site:80/180490/180490/101561.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY HOT SD
-http://cdn.arrascacrf.site:80/180490/180490/101564.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY PRIVE FHD
-http://cdn.arrascacrf.site:80/180490/180490/101557.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY PRIVE FHD
-http://cdn.arrascacrf.site:80/180490/180490/101562.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY PRIVE HD
-http://cdn.arrascacrf.site:80/180490/180490/101558.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY PRIVE HD
-http://cdn.arrascacrf.site:80/180490/180490/101563.ts
-#EXTINF:-1 group-title="ADULTOS",SEXY PRIVE SD
-http://cdn.arrascacrf.site:80/180490/180490/101565.ts
-#EXTINF:-1 group-title="ADULTOS",VENUS FHD
-http://cdn.arrascacrf.site:80/180490/180490/208214.ts
-#EXTINF:-1 group-title="ADULTOS",VENUS HD
-http://cdn.arrascacrf.site:80/180490/180490/208206.ts
-#EXTINF:-1 group-title="ADULTOS",VENUS SD
-http://cdn.arrascacrf.site:80/180490/180490/208431.ts
-#EXTINF:-1 group-title="INFANTIS",ZOOMOO FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479489.ts
-#EXTINF:-1 group-title="INFANTIS",ZOOMOO HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479490.ts
-#EXTINF:-1 group-title="FILMES E SERIES",WARNER CHANNEL SD
-http://cdn.arrascacrf.site:80/180490/180490/102030.ts
-#EXTINF:-1 group-title="FILMES E SERIES",WARNER CHANNEL FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479455.ts
-#EXTINF:-1 group-title="FILMES E SERIES",WARNER CHANNEL HD
-http://cdn.arrascacrf.site:80/180490/180490/102028.ts
-#EXTINF:-1 group-title="FILMES E SERIES",WARNER CHANNEL HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479456.ts
-#EXTINF:-1 group-title="FILMES E SERIES",WARNER CHANNEL FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785223.ts
-#EXTINF:-1 group-title="FILMES E SERIES",WARNER CHANNEL FHD
-http://cdn.arrascacrf.site:80/180490/180490/102029.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",WEB TV TRIBUNA SBT
-http://cdn.arrascacrf.site:80/180490/180490/208221.ts
-#EXTINF:-1 group-title="CANAIS ABERTOS",WEB-SANTA PORTAL
-http://cdn.arrascacrf.site:80/180490/180490/727321.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO FHD [H265]
-http://cdn.arrascacrf.site:80/180490/180490/785224.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO HD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479381.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO SD
-http://cdn.arrascacrf.site:80/180490/180490/99970.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO SD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479382.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO FHD
-http://cdn.arrascacrf.site:80/180490/180490/99968.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO FHD [ALT]
-http://cdn.arrascacrf.site:80/180490/180490/1479380.ts
-#EXTINF:-1 group-title="INFANTIS",WOOHOO HD
-http://cdn.arrascacrf.site:80/180490/180490/99969.ts
-#EXTINF:-1 group-title="INFANTIS",ZOOMO FHD
-http://cdn.arrascacrf.site:80/180490/180490/94596.ts
-#EXTINF:-1 group-title="INFANTIS",ZOOMO HD
-http://cdn.arrascacrf.site:80/180490/180490/94597.ts
-#EXTINF:-1 group-title="INFANTIS",ZOOMO SD
-http://cdn.arrascacrf.site:80/180490/180490/94595.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AMC [HD]
+http://cdn47.cc:80/1689449196/55693582/300.ts
+#EXTINF:-1 group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://cdn47.cc:80/1689449196/55693582/179.ts
+#EXTINF:-1 group-title="Canais | Documentários",ARTE 1 [HD]
+http://cdn47.cc:80/1689449196/55693582/180.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AXN [HD]
+http://cdn47.cc:80/1689449196/55693582/301.ts
+#EXTINF:-1 group-title="Canais | Notícias",BAND NEWS [HD]
+http://cdn47.cc:80/1689449196/55693582/514.ts
+#EXTINF:-1 group-title="Canais | Art & Music",BIS [HD]
+http://cdn47.cc:80/1689449196/55693582/18.ts
+#EXTINF:-1 group-title="Canais | Notícias",BM&C [HD]
+http://cdn47.cc:80/1689449196/55693582/234096.ts
+#EXTINF:-1 group-title="Canais | Abertos",CANAL DO BOI [HD]
+http://cdn47.cc:80/1689449196/55693582/199615.ts
+#EXTINF:-1 group-title="Canais | Abertos",Canal Rural [HD]
+http://cdn47.cc:80/1689449196/55693582/234100.ts
+#EXTINF:-1 group-title="Canais | Religiosos",Canção Nova [HD]
+http://cdn47.cc:80/1689449196/55693582/33379.ts
+#EXTINF:-1 group-title="Canais | Notícias",CNN BRASIL [HD]
+http://cdn47.cc:80/1689449196/55693582/517.ts
+#EXTINF:-1 group-title="Canais | Notícias",CNN INTERNACIONAL [HD]
+http://cdn47.cc:80/1689449196/55693582/69087.ts
+#EXTINF:-1 group-title="Canais | Variedades",COMEDY CENTRAL [HD]
+http://cdn47.cc:80/1689449196/55693582/106.ts
+#EXTINF:-1 group-title="Canais | Documentários",DISCOVERY CHANNEL [HD]
+http://cdn47.cc:80/1689449196/55693582/181.ts
+#EXTINF:-1 group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [HD]
+http://cdn47.cc:80/1689449196/55693582/183.ts
+#EXTINF:-1 group-title="Canais | Documentários",DISCOVERY SCIENCE [HD]
+http://cdn47.cc:80/1689449196/55693582/184.ts
+#EXTINF:-1 group-title="Canais | Documentários",DISCOVERY THEATER [HD]
+http://cdn47.cc:80/1689449196/55693582/185.ts
+#EXTINF:-1 group-title="Canais | Documentários",DISCOVERY TURBO [HD]
+http://cdn47.cc:80/1689449196/55693582/186.ts
+#EXTINF:-1 group-title="Canais | Documentários",DISCOVERY WORLD [HD]
+http://cdn47.cc:80/1689449196/55693582/187.ts
+#EXTINF:-1 group-title="Canais | Variedades",DOG TV [HD]
+http://cdn47.cc:80/1689449196/55693582/32425.ts
+#EXTINF:-1 group-title="Canais | Variedades",E! [HD]
+http://cdn47.cc:80/1689449196/55693582/108.ts
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 2 [HD]
+http://cdn47.cc:80/1689449196/55693582/261.ts
+#EXTINF:-1 group-title="Canais | Variedades",FISH TV [HD]
+http://cdn47.cc:80/1689449196/55693582/109.ts
+#EXTINF:-1 group-title="Canais | Variedades",FOOD NETWORK [HD]
+http://cdn47.cc:80/1689449196/55693582/110.ts
+#EXTINF:-1 group-title="Canais | Notícias",GLOBO NEWS [HD]
+http://cdn47.cc:80/1689449196/55693582/516.ts
+#EXTINF:-1 group-title="Canais | Infantis",GLOOBINHO [HD]
+http://cdn47.cc:80/1689449196/55693582/1068.ts
+#EXTINF:-1 group-title="Canais | Variedades",GNT [HD]
+http://cdn47.cc:80/1689449196/55693582/111.ts
+#EXTINF:-1 group-title="Canais | HBO",HBO 2 [HD]
+http://cdn47.cc:80/1689449196/55693582/472.ts
+#EXTINF:-1 group-title="Canais | HBO",HBO XTREME [HD]
+http://cdn47.cc:80/1689449196/55693582/478.ts
+#EXTINF:-1 group-title="Canais | Documentários",HGTV [HD]
+http://cdn47.cc:80/1689449196/55693582/182.ts
+#EXTINF:-1 group-title="Canais | Documentários",HISTORY CHANNEL 2 [HD]
+http://cdn47.cc:80/1689449196/55693582/188.ts
+#EXTINF:-1 group-title="Canais | Documentários",HISTORY CHANNEL [HD]
+http://cdn47.cc:80/1689449196/55693582/189.ts
+#EXTINF:-1 group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [HD]
+http://cdn47.cc:80/1689449196/55693582/190.ts
+#EXTINF:-1 group-title="Canais | Eventos de Hoje",Jogos de Hoje
+http://cdn47.cc:80/1689449196/55693582/300155.ts
+#EXTINF:-1 group-title="Canais | Notícias",JOVEM PAN NEWS [HD]
+http://cdn47.cc:80/1689449196/55693582/98165.ts
+#EXTINF:-1 group-title="Canais | Jogos & Eventos",Kings League Brazil [HD]
+http://cdn47.cc:80/1689449196/55693582/299586.ts
+#EXTINF:-1 group-title="Canais | Art & Music",LIKE [HD]
+http://cdn47.cc:80/1689449196/55693582/125218.ts
+#EXTINF:-1 group-title="Canais | Eventos de Hoje",Lutas do Dia
+http://cdn47.cc:80/1689449196/55693582/300154.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",MEGAPIX [HD]
+http://cdn47.cc:80/1689449196/55693582/310.ts
+#EXTINF:-1 group-title="Canais | Variedades",MODO VIAGEM [HD]
+http://cdn47.cc:80/1689449196/55693582/112.ts
+#EXTINF:-1 group-title="Canais | Art & Music",MTV 00S [HD]
+http://cdn47.cc:80/1689449196/55693582/90687.ts
+#EXTINF:-1 group-title="Canais | Art & Music",MTV LIVE [HD]
+http://cdn47.cc:80/1689449196/55693582/13.ts
+#EXTINF:-1 group-title="Canais | Art & Music",MTV [HD]
+http://cdn47.cc:80/1689449196/55693582/15.ts
+#EXTINF:-1 group-title="Canais | Art & Music",MULTISHOW [HD]
+http://cdn47.cc:80/1689449196/55693582/16.ts
+#EXTINF:-1 group-title="Canais | Art & Music",MUSIC BOX BRASIL [HD]
+http://cdn47.cc:80/1689449196/55693582/17.ts
+#EXTINF:-1 group-title="Canais | NBA",NBA HD [HD]
+http://cdn47.cc:80/1689449196/55693582/251761.ts
+#EXTINF:-1 group-title="Canais | NBA",NBA League Pass 3 [HD]
+http://cdn47.cc:80/1689449196/55693582/232645.ts
+#EXTINF:-1 group-title="Canais | Religiosos",NOVO TEMPO [HD]
+http://cdn47.cc:80/1689449196/55693582/56182.ts
+#EXTINF:-1 group-title="Canais | Premiere",PREMIERE 6 [HD]
+http://cdn47.cc:80/1689449196/55693582/535.ts
+#EXTINF:-1 group-title="Canais | Premiere",PREMIERE 7 [FHD]
+http://cdn47.cc:80/1689449196/55693582/530.ts
+#EXTINF:-1 group-title="Canais | Variedades",PRIME BOX BRASIL [HD]
+http://cdn47.cc:80/1689449196/55693582/113.ts
+#EXTINF:-1 group-title="Canais | Notícias",RECORD NEWS [HD]
+http://cdn47.cc:80/1689449196/55693582/515.ts
+#EXTINF:-1 group-title="Canais | Religiosos",REDE 21 [HD]
+http://cdn47.cc:80/1689449196/55693582/69081.ts
+#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil [HD]
+http://cdn47.cc:80/1689449196/55693582/300986.ts
+#EXTINF:-1 group-title="Canais | Religiosos",REDE PLENITUDE TV [HD]
+http://cdn47.cc:80/1689449196/55693582/69082.ts
+#EXTINF:-1 group-title="Canais | Religiosos",REDE VIDA [HD]
+http://cdn47.cc:80/1689449196/55693582/547.ts
+#EXTINF:-1 group-title="Canais | Abertos",REDETV! [HD]
+http://cdn47.cc:80/1689449196/55693582/54.ts
+#EXTINF:-1 group-title="Canais | Art & Music",SABOR E ARTE [HD]
+http://cdn47.cc:80/1689449196/55693582/127311.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",SONY CHANNEL [HD]
+http://cdn47.cc:80/1689449196/55693582/302.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TLC [HD]
+http://cdn47.cc:80/1689449196/55693582/314.ts
+#EXTINF:-1 group-title="Canais | Art & Music",TRACE BRAZUCA [HD]
+http://cdn47.cc:80/1689449196/55693582/90690.ts
+#EXTINF:-1 group-title="Canais | Variedades",TRAVEL BOX BRASIL [HD]
+http://cdn47.cc:80/1689449196/55693582/50836.ts
+#EXTINF:-1 group-title="Canais | Abertos",TV CULTURA [HD]
+http://cdn47.cc:80/1689449196/55693582/64.ts
+#EXTINF:-1 group-title="Canais | Religiosos",TV Evangelizar [HD]
+http://cdn47.cc:80/1689449196/55693582/53337.ts
+#EXTINF:-1 group-title="Canais | Abertos",TV GAZETA SP [HD]
+http://cdn47.cc:80/1689449196/55693582/56.ts
+#EXTINF:-1 group-title="Canais | Religiosos",TV GIDEOES [HD]
+http://cdn47.cc:80/1689449196/55693582/69083.ts
+#EXTINF:-1 group-title="Canais | Infantis",TV GOSPEL CARTOON [HD]
+http://cdn47.cc:80/1689449196/55693582/69084.ts
+#EXTINF:-1 group-title="Canais | Religiosos",Tv Pai Eterno [HD]
+http://cdn47.cc:80/1689449196/55693582/69080.ts
+#EXTINF:-1 group-title="Canais | Infantis",TV RA-TIM-BUM [HD]
+http://cdn47.cc:80/1689449196/55693582/148.ts
+#EXTINF:-1 group-title="Canais | Religiosos",TV Rede Gospel [HD]
+http://cdn47.cc:80/1689449196/55693582/53333.ts
+#EXTINF:-1 group-title="Canais | Variedades",VIVA [HD]
+http://cdn47.cc:80/1689449196/55693582/114.ts
+#EXTINF:-1 group-title="Canais | Art & Music",WOOHOO [HD]
+http://cdn47.cc:80/1689449196/55693582/14.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX ADULTO 1 [FHD]
+http://cdn47.cc:80/1689449196/55693582/227960.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX ADULTO 2 [FHD]
+http://cdn47.cc:80/1689449196/55693582/227968.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX ADULTO 3 [HD]
+http://cdn47.cc:80/1689449196/55693582/227964.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX ADULTO 4 [SD]
+http://cdn47.cc:80/1689449196/55693582/227962.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX ADULTO 7 [SD]
+http://cdn47.cc:80/1689449196/55693582/227954.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX ADULTO 9 [SD]
+http://cdn47.cc:80/1689449196/55693582/227950.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS [HD]
+http://cdn47.cc:80/1689449196/55693582/227942.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA [HD]
+http://cdn47.cc:80/1689449196/55693582/227944.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: BABANDO DE TESAO [HD]
+http://cdn47.cc:80/1689449196/55693582/227930.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: CLUBE PRIVE [HD]
+http://cdn47.cc:80/1689449196/55693582/227946.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER [HD]
+http://cdn47.cc:80/1689449196/55693582/227940.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: FAZENDO SACANAGEM [SD]
+http://cdn47.cc:80/1689449196/55693582/227932.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",XXX PASSION [HD]
+http://cdn47.cc:80/1689449196/55693582/227966.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] Dorcel TV [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/295200.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] PINKO CLUB [FHD]
+http://cdn47.cc:80/1689449196/55693582/295261.ts
+#EXTINF:-1 group-title="Canais | Adultos",XXX: VENUS
+http://cdn47.cc:80/1689449196/55693582/295304.ts
+#EXTINF:-1 group-title="Canais | Adultos",XXX: XY Plus [FHD]
+http://cdn47.cc:80/1689449196/55693582/295314.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24h] 101 Dalmatas
+http://cdn47.cc:80/1689449196/55693582/227373.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
+http://cdn47.cc:80/1689449196/55693582/227374.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] 44 Gatos
+http://cdn47.cc:80/1689449196/55693582/227375.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Beleza Secreta dos Animais
+http://cdn47.cc:80/1689449196/55693582/227376.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Casa da Coruja
+http://cdn47.cc:80/1689449196/55693582/227378.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Casa do Mickey Mouse
+http://cdn47.cc:80/1689449196/55693582/227379.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Casa Magica da Gabby
+http://cdn47.cc:80/1689449196/55693582/227380.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Corrida Maluca
+http://cdn47.cc:80/1689449196/55693582/228511.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Culpa e da Carlota
+http://cdn47.cc:80/1689449196/55693582/227382.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Diarista
+http://cdn47.cc:80/1689449196/55693582/227394.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Familia Addams
+http://cdn47.cc:80/1689449196/55693582/227395.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Familia Urso
+http://cdn47.cc:80/1689449196/55693582/227397.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Formiga e O Tamandua
+http://cdn47.cc:80/1689449196/55693582/227398.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Lula Lele
+http://cdn47.cc:80/1689449196/55693582/227413.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Nova pantera Cor de Rosa
+http://cdn47.cc:80/1689449196/55693582/228527.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Pantera Cor de Rosa
+http://cdn47.cc:80/1689449196/55693582/227414.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Turma do Charlie Brown e Snoopy
+http://cdn47.cc:80/1689449196/55693582/227416.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Turma do Manda Chuva
+http://cdn47.cc:80/1689449196/55693582/227417.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Turma do Pateta
+http://cdn47.cc:80/1689449196/55693582/227418.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] A Vaca e o Frango
+http://cdn47.cc:80/1689449196/55693582/227419.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Aaahh!!! Monstros
+http://cdn47.cc:80/1689449196/55693582/227424.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Acampamento Lakebottom
+http://cdn47.cc:80/1689449196/55693582/227425.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Aeon Flux
+http://cdn47.cc:80/1689449196/55693582/227426.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Agente K.C
+http://cdn47.cc:80/1689449196/55693582/227430.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Aladdin
+http://cdn47.cc:80/1689449196/55693582/227431.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Alf O Eteimoso
+http://cdn47.cc:80/1689449196/55693582/227432.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Garfield e Seus Amigos
+http://cdn47.cc:80/1689449196/55693582/227698.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Gasparzinho O Fantasminha Camarada
+http://cdn47.cc:80/1689449196/55693582/227699.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Gigantossauro
+http://cdn47.cc:80/1689449196/55693582/228513.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Grizzy e os Lemmings
+http://cdn47.cc:80/1689449196/55693582/228510.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Gus O Pequeno Cavaleiro
+http://cdn47.cc:80/1689449196/55693582/227700.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Hannah Montana
+http://cdn47.cc:80/1689449196/55693582/227701.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Happy Tree Friends
+http://cdn47.cc:80/1689449196/55693582/228516.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] He Man e Os Defensores do Universo
+http://cdn47.cc:80/1689449196/55693582/227702.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] He Man E Os Mestres do Universo
+http://cdn47.cc:80/1689449196/55693582/227703.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Historias Animadas da Biblia Novo Testamento
+http://cdn47.cc:80/1689449196/55693582/227706.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Historias Animadas da Biblia Velho Testamento
+http://cdn47.cc:80/1689449196/55693582/227707.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Hora do Recreio
+http://cdn47.cc:80/1689449196/55693582/227721.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Hot Wheels A Batalha da Customizacao
+http://cdn47.cc:80/1689449196/55693582/228550.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Hotel Transilvania A Serie
+http://cdn47.cc:80/1689449196/55693582/227722.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Inspetor Bugiganga (2015)
+http://cdn47.cc:80/1689449196/55693582/227731.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Irmaos a Obra
+http://cdn47.cc:80/1689449196/55693582/227733.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Jeannie
+http://cdn47.cc:80/1689449196/55693582/227734.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Jellystone
+http://cdn47.cc:80/1689449196/55693582/227735.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Jiraiya O Incrivel Ninja
+http://cdn47.cc:80/1689449196/55693582/227740.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Johnny Bravo
+http://cdn47.cc:80/1689449196/55693582/227741.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Johnny Test
+http://cdn47.cc:80/1689449196/55693582/227742.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Jonny Quest
+http://cdn47.cc:80/1689449196/55693582/227743.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Jovens Construtores
+http://cdn47.cc:80/1689449196/55693582/227753.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Jurassic World Acampamento Jurassico
+http://cdn47.cc:80/1689449196/55693582/227754.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Kamp Koral Bob Esponja Primeiros Anos
+http://cdn47.cc:80/1689449196/55693582/227755.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Kick Buttowski
+http://cdn47.cc:80/1689449196/55693582/227759.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Kiff
+http://cdn47.cc:80/1689449196/55693582/228500.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Kung Fu Panda Lendas do Dragao Guerreiro
+http://cdn47.cc:80/1689449196/55693582/227760.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Kung Fu Panda O Cavaleiro Dragao
+http://cdn47.cc:80/1689449196/55693582/227761.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Lab Rats
+http://cdn47.cc:80/1689449196/55693582/227762.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Incriveis Espioes
+http://cdn47.cc:80/1689449196/55693582/227879.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Jetsons
+http://cdn47.cc:80/1689449196/55693582/227880.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Misterios de Frajola e Piu Piu
+http://cdn47.cc:80/1689449196/55693582/227881.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Misterios de Frajola e Piu Piu
+http://cdn47.cc:80/1689449196/55693582/227882.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Normais
+http://cdn47.cc:80/1689449196/55693582/227883.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Padrinhos Magicos
+http://cdn47.cc:80/1689449196/55693582/227884.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Roni
+http://cdn47.cc:80/1689449196/55693582/227885.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Ursinhos Carinhosos
+http://cdn47.cc:80/1689449196/55693582/227922.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Ursinhos Gummi
+http://cdn47.cc:80/1689449196/55693582/227923.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Oswaldo
+http://cdn47.cc:80/1689449196/55693582/228514.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Patrulha Canina
+http://cdn47.cc:80/1689449196/55693582/227924.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Peppa Pig
+http://cdn47.cc:80/1689449196/55693582/227933.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Pesadelo Na Cozinha
+http://cdn47.cc:80/1689449196/55693582/227935.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Pica Pau
+http://cdn47.cc:80/1689449196/55693582/227941.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Pocoyo
+http://cdn47.cc:80/1689449196/55693582/227943.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Taz Mania
+http://cdn47.cc:80/1689449196/55693582/228313.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] The Archie Show
+http://cdn47.cc:80/1689449196/55693582/228316.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] The Loud House
+http://cdn47.cc:80/1689449196/55693582/228502.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] The Loud House Uma Verdadeira Familia Barulhenta
+http://cdn47.cc:80/1689449196/55693582/228503.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] ThunderCats
+http://cdn47.cc:80/1689449196/55693582/228367.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] ThunderCats (2011)
+http://cdn47.cc:80/1689449196/55693582/228370.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Tico e Teco Defensores da Lei
+http://cdn47.cc:80/1689449196/55693582/228373.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Tico e Teco Vida no Parque
+http://cdn47.cc:80/1689449196/55693582/228376.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Tigue E Lupa Os Detetives
+http://cdn47.cc:80/1689449196/55693582/228379.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Tiny Toon Aventuras
+http://cdn47.cc:80/1689449196/55693582/228381.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] A Casa das Brasileirinhas [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228125.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] A Casa das Brasileirinhas [Pack 03] [HD]
+http://cdn47.cc:80/1689449196/55693582/228131.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] A Casa das Brasileirinhas [Pack 04] [HD]
+http://cdn47.cc:80/1689449196/55693582/228134.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] All Anal [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228140.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] All Anal [Pack 02] [HD]
+http://cdn47.cc:80/1689449196/55693582/228143.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] All Anal [Pack 03] [HD]
+http://cdn47.cc:80/1689449196/55693582/228146.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] All Anal [Pack 06] [HD]
+http://cdn47.cc:80/1689449196/55693582/228155.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] All Anal [Pack 07] [HD]
+http://cdn47.cc:80/1689449196/55693582/228158.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Anal Only [HD]
+http://cdn47.cc:80/1689449196/55693582/228161.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Asiaticas
+http://cdn47.cc:80/1689449196/55693582/228636.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Bunda Grande
+http://cdn47.cc:80/1689449196/55693582/228638.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Cameras ao Vivo
+http://cdn47.cc:80/1689449196/55693582/228666.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Estrelas Porno
+http://cdn47.cc:80/1689449196/55693582/228670.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228164.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 04] [HD]
+http://cdn47.cc:80/1689449196/55693582/228173.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 05] [HD]
+http://cdn47.cc:80/1689449196/55693582/228176.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 06] [HD]
+http://cdn47.cc:80/1689449196/55693582/228179.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 08] [HD]
+http://cdn47.cc:80/1689449196/55693582/228185.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 09] [HD]
+http://cdn47.cc:80/1689449196/55693582/228188.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 11] [HD]
+http://cdn47.cc:80/1689449196/55693582/228194.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 12] [HD]
+http://cdn47.cc:80/1689449196/55693582/228197.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 13] [HD]
+http://cdn47.cc:80/1689449196/55693582/228200.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 14] [HD]
+http://cdn47.cc:80/1689449196/55693582/228203.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 16] [HD]
+http://cdn47.cc:80/1689449196/55693582/228323.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 17] [HD]
+http://cdn47.cc:80/1689449196/55693582/228326.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 19] [HD]
+http://cdn47.cc:80/1689449196/55693582/228332.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 22] [HD]
+http://cdn47.cc:80/1689449196/55693582/228341.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 25] [HD]
+http://cdn47.cc:80/1689449196/55693582/228350.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 26] [SD]
+http://cdn47.cc:80/1689449196/55693582/228353.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 27] [HD]
+http://cdn47.cc:80/1689449196/55693582/228356.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 28] [HD]
+http://cdn47.cc:80/1689449196/55693582/228359.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 30] [HD]
+http://cdn47.cc:80/1689449196/55693582/228365.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 31] [HD]
+http://cdn47.cc:80/1689449196/55693582/228368.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 32] [HD]
+http://cdn47.cc:80/1689449196/55693582/228371.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Adultos [Pack 33] [HD]
+http://cdn47.cc:80/1689449196/55693582/228374.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228209.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 02] [HD]
+http://cdn47.cc:80/1689449196/55693582/228212.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 04] [HD]
+http://cdn47.cc:80/1689449196/55693582/228218.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 05] [HD]
+http://cdn47.cc:80/1689449196/55693582/228221.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 06] [HD]
+http://cdn47.cc:80/1689449196/55693582/228224.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 09] [HD]
+http://cdn47.cc:80/1689449196/55693582/228233.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 10] [HD]
+http://cdn47.cc:80/1689449196/55693582/228236.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 12] [HD]
+http://cdn47.cc:80/1689449196/55693582/228242.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 13] [HD]
+http://cdn47.cc:80/1689449196/55693582/228245.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 15] [HD]
+http://cdn47.cc:80/1689449196/55693582/228248.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Filmes Trans [Pack 16] [HD]
+http://cdn47.cc:80/1689449196/55693582/228251.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Fuck Studies [Pack 02] [HD]
+http://cdn47.cc:80/1689449196/55693582/228257.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Fuck Studies [Pack 03] [HD]
+http://cdn47.cc:80/1689449196/55693582/228260.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Homossexual Masculino [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228263.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Homossexual Masculino [Pack 02] [HD]
+http://cdn47.cc:80/1689449196/55693582/228266.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Latinas
+http://cdn47.cc:80/1689449196/55693582/228662.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Lesbicas
+http://cdn47.cc:80/1689449196/55693582/228664.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Lets Try Anal [Pack 03] [HD]
+http://cdn47.cc:80/1689449196/55693582/228278.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Loiras
+http://cdn47.cc:80/1689449196/55693582/228644.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228281.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 03] [HD]
+http://cdn47.cc:80/1689449196/55693582/228287.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 04] [HD]
+http://cdn47.cc:80/1689449196/55693582/228290.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 05] [HD]
+http://cdn47.cc:80/1689449196/55693582/228293.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 06] [HD]
+http://cdn47.cc:80/1689449196/55693582/228296.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 07] [HD]
+http://cdn47.cc:80/1689449196/55693582/228299.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 08] [HD]
+http://cdn47.cc:80/1689449196/55693582/228302.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] MissaX [Pack 09] [SD]
+http://cdn47.cc:80/1689449196/55693582/228305.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] PLAYBOY [FHD]
+http://cdn47.cc:80/1689449196/55693582/44216.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] PLAYBOY [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/44158.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Russas
+http://cdn47.cc:80/1689449196/55693582/228676.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Sexo a Tres
+http://cdn47.cc:80/1689449196/55693582/228680.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] Sexy Hot [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/44159.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Teste de Fudelidade [Pack 01] [HD]
+http://cdn47.cc:80/1689449196/55693582/228311.ts
+#EXTINF:-1 group-title="Canais | Adultos [24HR]",[XXX] Teste de Fudelidade [Pack 03] [HD]
+http://cdn47.cc:80/1689449196/55693582/228317.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] POWER SLAP
+http://cdn47.cc:80/1689449196/55693582/319125.ts
+#EXTINF:-1 group-title="Canais | Series [24H]",[24H] Aeroporto Área Restrita
+http://cdn47.cc:80/1689449196/55693582/319126.ts
+#EXTINF:-1 group-title="Canais | Variedades",BRTVMAX [HD]
+http://cdn47.cc:80/1689449196/55693582/325219.ts
+#EXTINF:-1 group-title="Canais | Variedades",Terra Viva [HD]
+http://cdn47.cc:80/1689449196/55693582/325222.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] OS FLINTSTONES
+http://cdn47.cc:80/1689449196/55693582/333089.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Vingadores
+http://cdn47.cc:80/1689449196/55693582/333090.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] PERNALONGA
+http://cdn47.cc:80/1689449196/55693582/333091.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Papa-Léguas
+http://cdn47.cc:80/1689449196/55693582/333092.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Phineas e Ferb
+http://cdn47.cc:80/1689449196/55693582/333093.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Scooby-Doo
+http://cdn47.cc:80/1689449196/55693582/333094.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] TARTARUGAS NINJAS (Filmes)
+http://cdn47.cc:80/1689449196/55693582/333104.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] TIMAO E PUMBA
+http://cdn47.cc:80/1689449196/55693582/333105.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] X-MEN 97
+http://cdn47.cc:80/1689449196/55693582/333106.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] BBB 24
+http://cdn47.cc:80/1689449196/55693582/337541.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] [Canal YouTube] 5 Alguma Coisa
+http://cdn47.cc:80/1689449196/55693582/337565.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] [Canal YouTube] Master Trash e Panicos Chef
+http://cdn47.cc:80/1689449196/55693582/337567.ts
+#EXTINF:-1 group-title="Canais | Esportes",UFC FIGHT PASS 1
+http://cdn47.cc:80/1689449196/55693582/132344.ts
+#EXTINF:-1 group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Sertanejo 2021
+http://cdn47.cc:80/1689449196/55693582/228496.ts
+#EXTINF:-1 group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Spotify 2024 [HD]
+http://cdn47.cc:80/1689449196/55693582/227634.ts
+#EXTINF:-1 group-title="Canais | Musicas [24H]",[24H] [Musicas] Top 100 Spotify 2021
+http://cdn47.cc:80/1689449196/55693582/323174.ts
+#EXTINF:-1 group-title="Canais | Notícias",Canal UOL [HD]
+http://cdn47.cc:80/1689449196/55693582/329746.ts
+#EXTINF:-1 group-title="Canais | Variedades",Acelerados [HD]
+http://cdn47.cc:80/1689449196/55693582/331284.ts
+#EXTINF:-1 group-title="Canais | Variedades",Canal do artesanato [HD]
+http://cdn47.cc:80/1689449196/55693582/331285.ts
+#EXTINF:-1 group-title="Canais | Variedades",GPTV [HD]
+http://cdn47.cc:80/1689449196/55693582/331287.ts
+#EXTINF:-1 group-title="Canais | Variedades",MasterChef Brasil [HD]
+http://cdn47.cc:80/1689449196/55693582/331288.ts
+#EXTINF:-1 group-title="Canais | Adultos [OnlyFans] [Privacy]",[XXX] Abella Olsen
+http://cdn47.cc:80/1689449196/55693582/316241.ts
+#EXTINF:-1 group-title="Canais | Adultos [OnlyFans] [Privacy]",[XXX] Anna Cherry
+http://cdn47.cc:80/1689449196/55693582/316234.ts
+#EXTINF:-1 group-title="Canais | Adultos [OnlyFans] [Privacy]",[XXX] Lauren Cat
+http://cdn47.cc:80/1689449196/55693582/316239.ts
+#EXTINF:-1 group-title="Canais | Adultos [OnlyFans] [Privacy]",[XXX] Luiza Marcato
+http://cdn47.cc:80/1689449196/55693582/316233.ts
+#EXTINF:-1 group-title="Canais | Adultos [OnlyFans] [Privacy]",[XXX] Mc Mirella
+http://cdn47.cc:80/1689449196/55693582/316244.ts
+#EXTINF:-1 group-title="Canais | Adultos [OnlyFans] [Privacy]",[XXX] Nicoly Rio
+http://cdn47.cc:80/1689449196/55693582/316240.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Incrível Hulk
+http://cdn47.cc:80/1689449196/55693582/331668.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] JIRAYA - O Incrível Ninja
+http://cdn47.cc:80/1689449196/55693582/331669.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] NARUTO
+http://cdn47.cc:80/1689449196/55693582/331671.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Naruto Shippuden
+http://cdn47.cc:80/1689449196/55693582/331672.ts
+#EXTINF:-1 group-title="Canais | Series [24H]",Smallville
+http://cdn47.cc:80/1689449196/55693582/331673.ts
+#EXTINF:-1 group-title="Canais | Religiosos",IGREJA MUNDIAL [FHD]
+http://cdn47.cc:80/1689449196/55693582/333073.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] AUTHENTIC GAMES
+http://cdn47.cc:80/1689449196/55693582/333076.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] As Meninas Super Poderosas
+http://cdn47.cc:80/1689449196/55693582/333077.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] As Aventuras de Tin-tin
+http://cdn47.cc:80/1689449196/55693582/333078.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
+http://cdn47.cc:80/1689449196/55693582/333082.ts
+#EXTINF:-1 group-title="Canais | Adultos",XXX: Blue Hustler [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/333101.ts
+#EXTINF:-1 group-title="Canais | Adultos",XXX CENTOXCENTO
+http://cdn47.cc:80/1689449196/55693582/333818.ts
+#EXTINF:-1 group-title="Canais | Adultos",XXX SCT
+http://cdn47.cc:80/1689449196/55693582/333821.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] BRASILEIRINHAS [FHD]
+http://cdn47.cc:80/1689449196/55693582/337390.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] HENTAI [HD]
+http://cdn47.cc:80/1689449196/55693582/337391.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] BALKAN EROTIC [FHD]
+http://cdn47.cc:80/1689449196/55693582/337393.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] BRAZZERS TV EUROPE [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/337396.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROTIC 6
+http://cdn47.cc:80/1689449196/55693582/337407.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROTIC 7
+http://cdn47.cc:80/1689449196/55693582/337408.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EXXXOTICA [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/337414.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] HOT [HD]
+http://cdn47.cc:80/1689449196/55693582/337417.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] HOT PLEASURE [FHD]
+http://cdn47.cc:80/1689449196/55693582/337418.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] HUSTLER TV
+http://cdn47.cc:80/1689449196/55693582/337420.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] LEO TV GOLD [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/337421.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] LEO TV [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/337422.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] NUART [HD]
+http://cdn47.cc:80/1689449196/55693582/337426.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] PASSIE XXX
+http://cdn47.cc:80/1689449196/55693582/337427.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] REALITY KINGS [FHD][H265]
+http://cdn47.cc:80/1689449196/55693582/337436.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] RED LIPS [FHD]
+http://cdn47.cc:80/1689449196/55693582/337437.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] VIVID TOUCH
+http://cdn47.cc:80/1689449196/55693582/337444.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] [ADULT] CHANNEL 1
+http://cdn47.cc:80/1689449196/55693582/337446.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] [ADULT] CHANNEL 2
+http://cdn47.cc:80/1689449196/55693582/337447.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] [ADULT] CHANNEL 3
+http://cdn47.cc:80/1689449196/55693582/337448.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] [ADULT] CHANNEL 5
+http://cdn47.cc:80/1689449196/55693582/337450.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] [ADULT] CHANNEL 6
+http://cdn47.cc:80/1689449196/55693582/337451.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROLUXE BLONDES [FHD]
+http://cdn47.cc:80/1689449196/55693582/337458.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROLUXE CREAMPIE [FHD]
+http://cdn47.cc:80/1689449196/55693582/337461.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROLUXE GANGBANG [FHD]
+http://cdn47.cc:80/1689449196/55693582/337463.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROLUXE MILF [FHD]
+http://cdn47.cc:80/1689449196/55693582/337465.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROLUXE SHEMALES [FHD]
+http://cdn47.cc:80/1689449196/55693582/337471.ts
+#EXTINF:-1 group-title="Canais | Adultos",[XXX] EROLUXE SOLO [FHD]
+http://cdn47.cc:80/1689449196/55693582/337472.ts
