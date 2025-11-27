@@ -1,505 +1,2181 @@
 #EXTM3U
-#EXTINF:-1 group-title="filmes e series",AE HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3390
-#EXTINF:-1 group-title="documentarios",Animal Planet HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3373
-#EXTINF:-1 group-title="variedades",Arte 1 BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3367
-#EXTINF:-1 group-title="filmes e series",AXN HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3395
-#EXTINF:-1 group-title="variedades",Can BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3393
-#EXTINF:-1 group-title="noticias",Band News HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3391
-#EXTINF:-1 group-title="documentarios",Discovery TV BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3396
-#EXTINF:-1 group-title="esportes",Fish TV BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3379
-#EXTINF:-1 group-title="esportes",FOX Sports HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/10615
-#EXTINF:-1 group-title="filmes e series",TLC BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3386
-#EXTINF:-1 group-title="canais abertos",TV Gazeta HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3378
-#EXTINF:-1 group-title="canais abertos",TV Globo BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/14327
-#EXTINF:-1 group-title="filmes e series",Universal TV BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3385
-#EXTINF:-1 group-title="filmes e series",Studio Universal HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3370
-#EXTINF:-1 group-title="infantil",Woohoo HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3377
-#EXTINF:-1 group-title="variedades",VH1 Mega Hits BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3397
-#EXTINF:-1 group-title="filmes e series",Warner TV BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/3358
-#EXTINF:-1 group-title="esportes",PREMIERE 1 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75478
-#EXTINF:-1 group-title="esportes",PREMIERE 2 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75479
-#EXTINF:-1 group-title="esportes",PREMIERE 3 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75480
-#EXTINF:-1 group-title="esportes",PREMIERE 4 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75481
-#EXTINF:-1 group-title="esportes",PREMIERE 5 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75482
-#EXTINF:-1 group-title="esportes",PREMIERE 6 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75483
-#EXTINF:-1 group-title="esportes",PREMIERE 7 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/75484
-#EXTINF:-1 group-title="filmes e series",A&E FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79966
-#EXTINF:-1 group-title="documentarios",Animal Planet FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79968
-#EXTINF:-1 group-title="filmes e series",AMC HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79967
-#EXTINF:-1 group-title="variedades",Arte 1 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79969
-#EXTINF:-1 group-title="filmes e series",AXN FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79970
-#EXTINF:-1 group-title="infantil",BABY TV HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79971
-#EXTINF:-1 group-title="noticias",BAND NEWS FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79973
-#EXTINF:-1 group-title="infantil",BOOMERANG HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79975
-#EXTINF:-1 group-title="infantil",CARTOON NETWORK HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79977
-#EXTINF:-1 group-title="filmes e series",CINEMAX HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79978
-#EXTINF:-1 group-title="variedades",COMEDY CENTRAL FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79980
-#EXTINF:-1 group-title="infantil",DISCOVERY KIDS HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79986
-#EXTINF:-1 group-title="documentarios",DISCOVERY SCIENCE HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79987
-#EXTINF:-1 group-title="documentarios",DISCOVERY THEATER HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79988
-#EXTINF:-1 group-title="documentarios",DISCOVERY TLC HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79989
-#EXTINF:-1 group-title="documentarios",DISCOVERY WORLD HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79990
-#EXTINF:-1 group-title="documentarios",DISNEY CHANNEL FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79991
-#EXTINF:-1 group-title="infantil",DISNEY Junior BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79992
-#EXTINF:-1 group-title="esportes",E! HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79994
-#EXTINF:-1 group-title="esportes",ESPN HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79995
-#EXTINF:-1 group-title="esportes",ESPN BRASIL HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79996
-#EXTINF:-1 group-title="esportes",ESPN 2 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79997
-#EXTINF:-1 group-title="esportes",FISH TV HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/79998
-#EXTINF:-1 group-title="variedades",FOOD NETWORK HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80003
-#EXTINF:-1 group-title="filmes e series",FOX HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80004
-#EXTINF:-1 group-title="filmes e series",Star LIFE HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80005
-#EXTINF:-1 group-title="esportes",FOX SPORTS FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80008
-#EXTINF:-1 group-title="esportes",FOX SPORTS 2 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80009
-#EXTINF:-1 group-title="canais abertos",FUTURA HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80010
-#EXTINF:-1 group-title="filmes e series",FX FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80011
-#EXTINF:-1 group-title="noticias",GLOBO NEWS FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80020
-#EXTINF:-1 group-title="canais abertos",GLOBO SP FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80027
-#EXTINF:-1 group-title="infantil",GLOOB FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80032
-#EXTINF:-1 group-title="variedades",GNT HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80033
-#EXTINF:-1 group-title="filmes e series",H2 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80034
-#EXTINF:-1 group-title="filmes e series",HBO HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80035
-#EXTINF:-1 group-title="filmes e series",HBO 2 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80036
-#EXTINF:-1 group-title="filmes e series",HBO FAMILY HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80037
-#EXTINF:-1 group-title="filmes e series",HBO PLUS FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80038
-#EXTINF:-1 group-title="filmes e series",HBO PLUS HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80039
-#EXTINF:-1 group-title="filmes e series",HBO SIGNATURE FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80040
-#EXTINF:-1 group-title="documentarios",ID FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80042
-#EXTINF:-1 group-title="filmes e series",LIFETIME HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80043
-#EXTINF:-1 group-title="filmes e series",HBO Xtreme FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80044
-#EXTINF:-1 group-title="filmes e series",MEGAPIX HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80046
-#EXTINF:-1 group-title="infantil",NICK JR HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80053
-#EXTINF:-1 group-title="infantil",NICKELODEON HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80054
-#EXTINF:-1 group-title="variedades",OFF HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80055
-#EXTINF:-1 group-title="filmes e series",PARAMOUNT CHANNEL HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80056
-#EXTINF:-1 group-title="esportes",PREMIERE CLUBES HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80057
-#EXTINF:-1 group-title="canais abertos",RECORD HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80058
-#EXTINF:-1 group-title="canais abertos",RECORD MG HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80062
-#EXTINF:-1 group-title="noticias",RECORD NEWS HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80063
-#EXTINF:-1 group-title="canais abertos",RECORD SP HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80065
-#EXTINF:-1 group-title="canais abertos",REDE FAMILIA FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80066
-#EXTINF:-1 group-title="canais abertos",REDE VIDA HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80067
-#EXTINF:-1 group-title="canais abertos",SBT HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80069
-#EXTINF:-1 group-title="filmes e series",SONY FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80071
-#EXTINF:-1 group-title="filmes e series",SPACE BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80072
-#EXTINF:-1 group-title="esportes",SPORTV 1 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80073
-#EXTINF:-1 group-title="esportes",SPORTV 2 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80074
-#EXTINF:-1 group-title="filmes e series",STUDIO UNIVERSAL FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80076
-#EXTINF:-1 group-title="filmes e series",SYFY HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80077
-#EXTINF:-1 group-title="canais abertos",TBS BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80078
-#EXTINF:-1 group-title="filmes e series",TCM HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80079
-#EXTINF:-1 group-title="filmes e series",TELECINE CULT HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80081
-#EXTINF:-1 group-title="filmes e series",TELECINE FUN FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80082
-#EXTINF:-1 group-title="filmes e series",TELECINE PIPOCA HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80083
-#EXTINF:-1 group-title="filmes e series",TELECINE PREMIUM HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80084
-#EXTINF:-1 group-title="filmes e series",TELECINE TOUCH HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80085
-#EXTINF:-1 group-title="filmes e series",TNT BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80087
-#EXTINF:-1 group-title="infantil",Tooncast FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80091
-#EXTINF:-1 group-title="infantil",WOOHOO FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80095
-#EXTINF:-1 group-title="esportes",PFC BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/80096
-#EXTINF:-1 group-title="filmes e series",AXN SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81012
-#EXTINF:-1 group-title="canais abertos",Jovem Pan News HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/103220
-#EXTINF:-1 group-title="canais abertos",Canal Brasil SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81033
-#EXTINF:-1 group-title="canais abertos",Canal Brasil FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81034
-#EXTINF:-1 group-title="variedades",Comedy Central SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81035
-#EXTINF:-1 group-title="variedades",Comedy Central HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81036
-#EXTINF:-1 group-title="filmes e series",Cinemax SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81037
-#EXTINF:-1 group-title="filmes e series",Cinemax FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81038
-#EXTINF:-1 group-title="esportes",Combate SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81039
-#EXTINF:-1 group-title="esportes",Combate HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81040
-#EXTINF:-1 group-title="infantil",Discovery Kids SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81043
-#EXTINF:-1 group-title="infantil",Disney Channel SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81044
-#EXTINF:-1 group-title="infantil",Disney JR FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81045
-#EXTINF:-1 group-title="infantil",Disney Jr HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81046
-#EXTINF:-1 group-title="infantil",Disney XD SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81047
-#EXTINF:-1 group-title="documentarios",Discovery World FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81048
-#EXTINF:-1 group-title="documentarios",Discovery World SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81049
-#EXTINF:-1 group-title="documentarios",Discovery Turbo SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81050
-#EXTINF:-1 group-title="documentarios",Discovery Turbo FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81051
-#EXTINF:-1 group-title="documentarios",Discovery Theater FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81052
-#EXTINF:-1 group-title="documentarios",Discovery H&H SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81053
-#EXTINF:-1 group-title="documentarios",Discovery H&H HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81054
-#EXTINF:-1 group-title="documentarios",Discovery Science FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81055
-#EXTINF:-1 group-title="documentarios",Discovery Channel SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81056
-#EXTINF:-1 group-title="documentarios",Discovery Channel FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81057
-#EXTINF:-1 group-title="esportes",E! SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81059
-#EXTINF:-1 group-title="esportes",ESPN Extra SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81060
-#EXTINF:-1 group-title="esportes",ESPN Extra FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81062
-#EXTINF:-1 group-title="esportes",ESPN Brazil SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81063
-#EXTINF:-1 group-title="esportes",ESPN 2 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81065
-#EXTINF:-1 group-title="variedades",Food Network SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81066
-#EXTINF:-1 group-title="variedades",Food Network FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81067
-#EXTINF:-1 group-title="filmes e series",Fx SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81070
-#EXTINF:-1 group-title="filmes e series",Fx HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81071
-#EXTINF:-1 group-title="filmes e series",FOX Life SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81072
-#EXTINF:-1 group-title="filmes e series",FOX Life FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81073
-#EXTINF:-1 group-title="filmes e series",Star FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81075
-#EXTINF:-1 group-title="esportes",FOX Sports SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81079
-#EXTINF:-1 group-title="noticias",Globo News HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81082
-#EXTINF:-1 group-title="infantil",Gloob HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81083
-#EXTINF:-1 group-title="infantil",Gloobinho HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81084
-#EXTINF:-1 group-title="variedades",GNT SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81085
-#EXTINF:-1 group-title="variedades",GNT FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81086
-#EXTINF:-1 group-title="canais abertos",Globo HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81087
-#EXTINF:-1 group-title="canais abertos",Globo FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81088
-#EXTINF:-1 group-title="documentarios",History SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81090
-#EXTINF:-1 group-title="documentarios",H2 SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81091
-#EXTINF:-1 group-title="documentarios",H2 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81092
-#EXTINF:-1 group-title="filmes e series",HBO Signature SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81093
-#EXTINF:-1 group-title="filmes e series",HBO Signature HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81094
-#EXTINF:-1 group-title="filmes e series",HBO Plus SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81095
-#EXTINF:-1 group-title="filmes e series",HBO 2 SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81096
-#EXTINF:-1 group-title="filmes e series",HBO Family FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81097
-#EXTINF:-1 group-title="filmes e series",HBO SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81098
-#EXTINF:-1 group-title="documentarios",ID Discovery SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81100
-#EXTINF:-1 group-title="documentarios",ID Discovery HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81101
-#EXTINF:-1 group-title="filmes e series",Lifetime SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81102
-#EXTINF:-1 group-title="infantil",Nick Jr SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81115
-#EXTINF:-1 group-title="infantil",Nick JR FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81116
-#EXTINF:-1 group-title="infantil",Nickelodeon SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81117
-#EXTINF:-1 group-title="infantil",Nickelodeon FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81118
-#EXTINF:-1 group-title="documentarios",NatGeo SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81120
-#EXTINF:-1 group-title="documentarios",Off FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81123
-#EXTINF:-1 group-title="filmes e series",Paramount SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81124
-#EXTINF:-1 group-title="filmes e series",Paramount FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81125
-#EXTINF:-1 group-title="esportes",Premier 1 SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81126
-#EXTINF:-1 group-title="esportes",Premier 1 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81127
-#EXTINF:-1 group-title="esportes",Premier 2 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81128
-#EXTINF:-1 group-title="esportes",Premier 3 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81129
-#EXTINF:-1 group-title="esportes",Premier 4 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81130
-#EXTINF:-1 group-title="esportes",Premier 4 SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81131
-#EXTINF:-1 group-title="esportes",Premier 5 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81132
-#EXTINF:-1 group-title="esportes",Premiere 6 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81133
-#EXTINF:-1 group-title="esportes",Premier 7 SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81134
-#EXTINF:-1 group-title="canais abertos",Record Mg SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81137
-#EXTINF:-1 group-title="noticias",Record News SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81142
-#EXTINF:-1 group-title="canais abertos",Record TV SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81144
-#EXTINF:-1 group-title="canais abertos",Record FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81145
-#EXTINF:-1 group-title="canais abertos",SBT SP SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81149
-#EXTINF:-1 group-title="canais abertos",SBT SP HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81152
-#EXTINF:-1 group-title="canais abertos",SBT FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81153
-#EXTINF:-1 group-title="filmes e series",Space HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81155
-#EXTINF:-1 group-title="filmes e series",SyFy FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81156
-#EXTINF:-1 group-title="filmes e series",Sony HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81158
-#EXTINF:-1 group-title="filmes e series",Studio Universal SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81159
-#EXTINF:-1 group-title="esportes",Sportv 3 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81160
-#EXTINF:-1 group-title="esportes",Sportv 2 HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81161
-#EXTINF:-1 group-title="esportes",Sportv 1 FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81162
-#EXTINF:-1 group-title="esportes",Travel Box FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81164
-#EXTINF:-1 group-title="infantil",TV Ra Tim Bum HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81165
-#EXTINF:-1 group-title="infantil",TV Ra Tim Bum SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81166
-#EXTINF:-1 group-title="infantil",Tooncast HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81167
-#EXTINF:-1 group-title="infantil",Tooncast SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81168
-#EXTINF:-1 group-title="filmes e series",TLC HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81169
-#EXTINF:-1 group-title="canais abertos",TV Cultura HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81170
-#EXTINF:-1 group-title="canais abertos",TV Cultura FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81171
-#EXTINF:-1 group-title="filmes e series",TruTV SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81172
-#EXTINF:-1 group-title="canais abertos",TBS HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81173
-#EXTINF:-1 group-title="canais abertos",TBS FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81174
-#EXTINF:-1 group-title="filmes e series",TNT FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81176
-#EXTINF:-1 group-title="filmes e series",TNT Series FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81179
-#EXTINF:-1 group-title="filmes e series",Telecine Pipoca FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81181
-#EXTINF:-1 group-title="filmes e series",Telecine Touch SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81182
-#EXTINF:-1 group-title="filmes e series",Telecine Premium SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81184
-#EXTINF:-1 group-title="filmes e series",Telecine Premium FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81185
-#EXTINF:-1 group-title="filmes e series",Telecine Fun SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81186
-#EXTINF:-1 group-title="filmes e series",Telecine Fun HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81187
-#EXTINF:-1 group-title="filmes e series",Telecine Cult SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81188
-#EXTINF:-1 group-title="filmes e series",Telecine Cult FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81189
-#EXTINF:-1 group-title="filmes e series",Telecine Action SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81190
-#EXTINF:-1 group-title="filmes e series",Telecine Action HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81191
-#EXTINF:-1 group-title="filmes e series",Warner Channel HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81196
-#EXTINF:-1 group-title="infantil",Woohoo SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81197
-#EXTINF:-1 group-title="infantil",Zoomoo SD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81198
-#EXTINF:-1 group-title="infantil",Zoomoo HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81199
-#EXTINF:-1 group-title="infantil",Zoomoo FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/81200
-#EXTINF:-1 group-title="filmes e series",HBO Mundi BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/82751
-#EXTINF:-1 group-title="filmes e series",HBO Mundi FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/82752
-#EXTINF:-1 group-title="canais abertos",TV Brasil HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/82753
-#EXTINF:-1 group-title="canais abertos",TV Brasil FHD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/82754
-#EXTINF:-1 group-title="noticias",CNN HD BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/91033
-#EXTINF:-1 group-title="religioso",Canção Nova BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/91304
-#EXTINF:-1 group-title="religioso",TV Aparecida BR
-http://smartiptvpl.ddns.me:8080/12win23040402/iG1TWeUYKb/91303
-#EXTINF:-1 group-title="xxx",XXX: Blue Hustler [FHD][H265]
-http://cdn47.cc:80/1689449196/55693582/333101.ts
-#EXTINF:-1 group-title="xxx",XXX CENTOXCENTO
-http://cdn47.cc:80/1689449196/55693582/333818.ts
-#EXTINF:-1 group-title="xxx",XXX SCT
-http://cdn47.cc:80/1689449196/55693582/333821.ts
-#EXTINF:-1 group-title="xxx",[XXX] BRASILEIRINHAS [FHD]
-http://cdn47.cc:80/1689449196/55693582/337390.ts
-#EXTINF:-1 group-title="xxx",[XXX] HENTAI [HD]
-http://cdn47.cc:80/1689449196/55693582/337391.ts
-#EXTINF:-1 group-title="xxx",[XXX] BALKAN EROTIC [FHD]
-http://cdn47.cc:80/1689449196/55693582/337393.ts
-#EXTINF:-1 group-title="xxx",[XXX] BRAZZERS TV EUROPE [FHD][H265]
-http://cdn47.cc:80/1689449196/55693582/337396.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROTIC 6
-http://cdn47.cc:80/1689449196/55693582/337407.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROTIC 7
-http://cdn47.cc:80/1689449196/55693582/337408.ts
-#EXTINF:-1 group-title="xxx",[XXX] EXXXOTICA [FHD][H265]
-http://cdn47.cc:80/1689449196/55693582/337414.ts
-#EXTINF:-1 group-title="xxx",[XXX] HOT [HD]
-http://cdn47.cc:80/1689449196/55693582/337417.ts
-#EXTINF:-1 group-title="xxx",[XXX] HOT PLEASURE [FHD]
-http://cdn47.cc:80/1689449196/55693582/337418.ts
-#EXTINF:-1 group-title="xxx",[XXX] HUSTLER TV
-http://cdn47.cc:80/1689449196/55693582/337420.ts
-#EXTINF:-1 group-title="xxx",[XXX] LEO TV GOLD [FHD][H265]
-http://cdn47.cc:80/1689449196/55693582/337421.ts
-#EXTINF:-1 group-title="xxx",[XXX] LEO TV [FHD][H265]
-http://cdn47.cc:80/1689449196/55693582/337422.ts
-#EXTINF:-1 group-title="xxx",[XXX] NUART [HD]
-http://cdn47.cc:80/1689449196/55693582/337426.ts
-#EXTINF:-1 group-title="xxx",[XXX] PASSIE XXX
-http://cdn47.cc:80/1689449196/55693582/337427.ts
-#EXTINF:-1 group-title="xxx",[XXX] REALITY KINGS [FHD][H265]
-http://cdn47.cc:80/1689449196/55693582/337436.ts
-#EXTINF:-1 group-title="xxx",[XXX] RED LIPS [FHD]
-http://cdn47.cc:80/1689449196/55693582/337437.ts
-#EXTINF:-1 group-title="xxx",[XXX] VIVID TOUCH
-http://cdn47.cc:80/1689449196/55693582/337444.ts
-#EXTINF:-1 group-title="xxx",[XXX] [ADULT] CHANNEL 1
-http://cdn47.cc:80/1689449196/55693582/337446.ts
-#EXTINF:-1 group-title="xxx",[XXX] [ADULT] CHANNEL 2
-http://cdn47.cc:80/1689449196/55693582/337447.ts
-#EXTINF:-1 group-title="xxx",[XXX] [ADULT] CHANNEL 3
-http://cdn47.cc:80/1689449196/55693582/337448.ts
-#EXTINF:-1 group-title="xxx",[XXX] [ADULT] CHANNEL 5
-http://cdn47.cc:80/1689449196/55693582/337450.ts
-#EXTINF:-1 group-title="xxx",[XXX] [ADULT] CHANNEL 6
-http://cdn47.cc:80/1689449196/55693582/337451.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROLUXE BLONDES [FHD]
-http://cdn47.cc:80/1689449196/55693582/337458.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROLUXE CREAMPIE [FHD]
-http://cdn47.cc:80/1689449196/55693582/337461.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROLUXE GANGBANG [FHD]
-http://cdn47.cc:80/1689449196/55693582/337463.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROLUXE MILF [FHD]
-http://cdn47.cc:80/1689449196/55693582/337465.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROLUXE SHEMALES [FHD]
-http://cdn47.cc:80/1689449196/55693582/337471.ts
-#EXTINF:-1 group-title="xxx",[XXX] EROLUXE SOLO [FHD]
-http://cdn47.cc:80/1689449196/55693582/337472.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 2 FHD
+http://kazing.fun:80/896279827795/572665170784/108838.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 2 HD
+http://kazing.fun:80/896279827795/572665170784/108839.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 2 SD
+http://kazing.fun:80/896279827795/572665170784/108840.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 3 FHD
+http://kazing.fun:80/896279827795/572665170784/108841.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 3 HD
+http://kazing.fun:80/896279827795/572665170784/108842.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 3 SD
+http://kazing.fun:80/896279827795/572665170784/108843.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 4 FHD
+http://kazing.fun:80/896279827795/572665170784/108848.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 4 HD
+http://kazing.fun:80/896279827795/572665170784/108849.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 4 SD
+http://kazing.fun:80/896279827795/572665170784/108850.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 5 FHD
+http://kazing.fun:80/896279827795/572665170784/108851.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 5 HD
+http://kazing.fun:80/896279827795/572665170784/108852.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 5 SD
+http://kazing.fun:80/896279827795/572665170784/108853.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 6 FHD
+http://kazing.fun:80/896279827795/572665170784/108854.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 6 HD
+http://kazing.fun:80/896279827795/572665170784/108856.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 6 SD
+http://kazing.fun:80/896279827795/572665170784/108857.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 1 FHD
+http://kazing.fun:80/896279827795/572665170784/108858.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 1 HD
+http://kazing.fun:80/896279827795/572665170784/108860.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 1 SD
+http://kazing.fun:80/896279827795/572665170784/108862.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 01
+http://kazing.fun:80/896279827795/572665170784/122768.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 02
+http://kazing.fun:80/896279827795/572665170784/122769.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 03
+http://kazing.fun:80/896279827795/572665170784/122770.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 04
+http://kazing.fun:80/896279827795/572665170784/122771.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",Combate FHD
+http://kazing.fun:80/896279827795/572665170784/122904.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",Combate HD
+http://kazing.fun:80/896279827795/572665170784/122905.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",Combate SD
+http://kazing.fun:80/896279827795/572665170784/122906.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",UFC Fight Pass 01
+http://kazing.fun:80/896279827795/572665170784/122909.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",UFC Fight Pass 02
+http://kazing.fun:80/896279827795/572665170784/122910.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",UFC Fight Pass 03
+http://kazing.fun:80/896279827795/572665170784/122911.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 2 FHD
+http://kazing.fun:80/896279827795/572665170784/124927.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 2 HD
+http://kazing.fun:80/896279827795/572665170784/124928.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 2 SD
+http://kazing.fun:80/896279827795/572665170784/124929.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 3 FHD
+http://kazing.fun:80/896279827795/572665170784/124930.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 3 HD
+http://kazing.fun:80/896279827795/572665170784/124931.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 3 SD
+http://kazing.fun:80/896279827795/572665170784/124932.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 4 FHD
+http://kazing.fun:80/896279827795/572665170784/124933.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 4 HD
+http://kazing.fun:80/896279827795/572665170784/124934.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 4 SD
+http://kazing.fun:80/896279827795/572665170784/124935.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 5 FHD
+http://kazing.fun:80/896279827795/572665170784/124937.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 5 HD
+http://kazing.fun:80/896279827795/572665170784/124938.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 5 SD
+http://kazing.fun:80/896279827795/572665170784/124939.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 6 FHD
+http://kazing.fun:80/896279827795/572665170784/124940.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 6 HD
+http://kazing.fun:80/896279827795/572665170784/124941.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 6 SD
+http://kazing.fun:80/896279827795/572665170784/124942.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 7 FHD
+http://kazing.fun:80/896279827795/572665170784/124943.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 7 HD
+http://kazing.fun:80/896279827795/572665170784/124944.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 7 SD
+http://kazing.fun:80/896279827795/572665170784/124945.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 1 Clubes FHD
+http://kazing.fun:80/896279827795/572665170784/124948.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 1 Clubes HD
+http://kazing.fun:80/896279827795/572665170784/124949.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 1 Clubes SD
+http://kazing.fun:80/896279827795/572665170784/124950.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere Mosaico|Multi-Telas
+http://kazing.fun:80/896279827795/572665170784/124951.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",The History FHD
+http://kazing.fun:80/896279827795/572665170784/125093.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",The History HD
+http://kazing.fun:80/896279827795/572665170784/125095.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",The History SD
+http://kazing.fun:80/896279827795/572665170784/125096.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",H2 FHD
+http://kazing.fun:80/896279827795/572665170784/125100.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",H2 HD
+http://kazing.fun:80/896279827795/572665170784/125101.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",H2 SD
+http://kazing.fun:80/896279827795/572665170784/125102.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",Animal Planet FHD
+http://kazing.fun:80/896279827795/572665170784/125103.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",Animal Planet HD
+http://kazing.fun:80/896279827795/572665170784/125104.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",Animal Planet SD
+http://kazing.fun:80/896279827795/572665170784/125105.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Channel FHD
+http://kazing.fun:80/896279827795/572665170784/125220.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Channel HD
+http://kazing.fun:80/896279827795/572665170784/125221.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Channel SD
+http://kazing.fun:80/896279827795/572665170784/125222.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery H&H FHD
+http://kazing.fun:80/896279827795/572665170784/125223.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery H&H HD
+http://kazing.fun:80/896279827795/572665170784/125224.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery H&H SD
+http://kazing.fun:80/896279827795/572665170784/125225.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Turbo FHD
+http://kazing.fun:80/896279827795/572665170784/125226.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Turbo HD
+http://kazing.fun:80/896279827795/572665170784/125227.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Turbo SD
+http://kazing.fun:80/896279827795/572665170784/125229.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO 2 FHD
+http://kazing.fun:80/896279827795/572665170784/126890.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO 2 HD
+http://kazing.fun:80/896279827795/572665170784/126891.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO 2 SD
+http://kazing.fun:80/896279827795/572665170784/126893.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Family HD
+http://kazing.fun:80/896279827795/572665170784/126895.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Family SD
+http://kazing.fun:80/896279827795/572665170784/126896.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO 1 FHD
+http://kazing.fun:80/896279827795/572665170784/126897.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO 1 HD
+http://kazing.fun:80/896279827795/572665170784/126898.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Mundi FHD
+http://kazing.fun:80/896279827795/572665170784/126900.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Mundi HD
+http://kazing.fun:80/896279827795/572665170784/126901.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Mundi SD
+http://kazing.fun:80/896279827795/572665170784/126903.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Plus+ FHD
+http://kazing.fun:80/896279827795/572665170784/126905.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Plus+ HD
+http://kazing.fun:80/896279827795/572665170784/126906.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Plus+ SD
+http://kazing.fun:80/896279827795/572665170784/126908.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Pop FHD
+http://kazing.fun:80/896279827795/572665170784/126909.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Pop HD
+http://kazing.fun:80/896279827795/572665170784/126910.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Pop SD
+http://kazing.fun:80/896279827795/572665170784/126912.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO 1 SD
+http://kazing.fun:80/896279827795/572665170784/126913.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Signature FHD
+http://kazing.fun:80/896279827795/572665170784/126914.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Signature HD
+http://kazing.fun:80/896279827795/572665170784/126915.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Signature SD
+http://kazing.fun:80/896279827795/572665170784/126917.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Xtreme HD
+http://kazing.fun:80/896279827795/572665170784/126919.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Xtreme SD
+http://kazing.fun:80/896279827795/572665170784/126920.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Action FHD
+http://kazing.fun:80/896279827795/572665170784/127014.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Action HD
+http://kazing.fun:80/896279827795/572665170784/127016.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Action SD
+http://kazing.fun:80/896279827795/572665170784/127017.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Cult FHD
+http://kazing.fun:80/896279827795/572665170784/127018.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Cult HD
+http://kazing.fun:80/896279827795/572665170784/127020.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Cult SD
+http://kazing.fun:80/896279827795/572665170784/127022.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Fun FHD
+http://kazing.fun:80/896279827795/572665170784/127023.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Fun HD
+http://kazing.fun:80/896279827795/572665170784/127025.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Fun SD
+http://kazing.fun:80/896279827795/572665170784/127028.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Pipoca FHD
+http://kazing.fun:80/896279827795/572665170784/127029.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Pipoca HD
+http://kazing.fun:80/896279827795/572665170784/127031.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Pipoca SD
+http://kazing.fun:80/896279827795/572665170784/127032.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Premium FHD
+http://kazing.fun:80/896279827795/572665170784/127033.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Premium HD
+http://kazing.fun:80/896279827795/572665170784/127034.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Premium SD
+http://kazing.fun:80/896279827795/572665170784/127036.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Touch FHD
+http://kazing.fun:80/896279827795/572665170784/127038.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Touch HD
+http://kazing.fun:80/896279827795/572665170784/127039.ts
+#EXTINF:-1 group-title="♦️Canais | Telecine",Telecine Touch SD
+http://kazing.fun:80/896279827795/572665170784/127041.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TCM FHD
+http://kazing.fun:80/896279827795/572665170784/127042.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TCM HD
+http://kazing.fun:80/896279827795/572665170784/127043.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TCM SD
+http://kazing.fun:80/896279827795/572665170784/127044.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Agro Canal
+http://kazing.fun:80/896279827795/572665170784/127133.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Agro+
+http://kazing.fun:80/896279827795/572665170784/127134.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",AgroBrasil TV
+http://kazing.fun:80/896279827795/572665170784/127135.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Canal do Boi
+http://kazing.fun:80/896279827795/572665170784/127138.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Canal Rural HD
+http://kazing.fun:80/896279827795/572665170784/127139.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Central|Top TV HD
+http://kazing.fun:80/896279827795/572665170784/127140.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Futura FHD
+http://kazing.fun:80/896279827795/572665170784/127143.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Futura HD
+http://kazing.fun:80/896279827795/572665170784/127144.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",RBTV HD
+http://kazing.fun:80/896279827795/572665170784/127150.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Rede Brasil TV HD
+http://kazing.fun:80/896279827795/572665170784/127152.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Rede Minas
+http://kazing.fun:80/896279827795/572665170784/127153.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Rede TV FHD
+http://kazing.fun:80/896279827795/572665170784/127154.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Rede TV HD
+http://kazing.fun:80/896279827795/572665170784/127156.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Rede TV SD
+http://kazing.fun:80/896279827795/572665170784/127157.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Rede TV! | TV Pantanal MT
+http://kazing.fun:80/896279827795/572665170784/127159.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",SescTV
+http://kazing.fun:80/896279827795/572665170784/127162.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Terra Viva FHD
+http://kazing.fun:80/896279827795/572665170784/127165.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Terra Viva HD
+http://kazing.fun:80/896279827795/572665170784/127166.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Brasil 2
+http://kazing.fun:80/896279827795/572665170784/127170.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Brasil
+http://kazing.fun:80/896279827795/572665170784/127171.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Camara
+http://kazing.fun:80/896279827795/572665170784/127173.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Tv Diario FHD
+http://kazing.fun:80/896279827795/572665170784/127174.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Tv Diario HD
+http://kazing.fun:80/896279827795/572665170784/127175.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Tv Diario SD
+http://kazing.fun:80/896279827795/572665170784/127176.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Diário do Sertão
+http://kazing.fun:80/896279827795/572665170784/127178.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Gazeta FHD
+http://kazing.fun:80/896279827795/572665170784/127179.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Gazeta HD
+http://kazing.fun:80/896279827795/572665170784/127180.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Justiça
+http://kazing.fun:80/896279827795/572665170784/127182.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Senado
+http://kazing.fun:80/896279827795/572665170784/127185.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TVE Bahia
+http://kazing.fun:80/896279827795/572665170784/127186.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT Alterosa MG HD
+http://kazing.fun:80/896279827795/572665170784/127289.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT HD
+http://kazing.fun:80/896279827795/572665170784/127296.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT SD
+http://kazing.fun:80/896279827795/572665170784/127312.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT+ Novelas
+http://kazing.fun:80/896279827795/572665170784/127320.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT+ Kids
+http://kazing.fun:80/896279827795/572665170784/127321.ts
+#EXTINF:-1 group-title="♦️Canais | Band",Band HD
+http://kazing.fun:80/896279827795/572665170784/127440.ts
+#EXTINF:-1 group-title="♦️Canais | Band",Band MG FHD
+http://kazing.fun:80/896279827795/572665170784/127441.ts
+#EXTINF:-1 group-title="♦️Canais | Band",Band SP FHD
+http://kazing.fun:80/896279827795/572665170784/127454.ts
+#EXTINF:-1 group-title="♦️Canais | Band",Band SP HD
+http://kazing.fun:80/896279827795/572665170784/127455.ts
+#EXTINF:-1 group-title="♦️Canais | Record",Record SP FHD
+http://kazing.fun:80/896279827795/572665170784/127589.ts
+#EXTINF:-1 group-title="♦️Canais | Record",Record SP HD
+http://kazing.fun:80/896279827795/572665170784/127590.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Bahiano
+http://kazing.fun:80/896279827795/572665170784/127694.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Capixaba
+http://kazing.fun:80/896279827795/572665170784/127695.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Catarinense 01
+http://kazing.fun:80/896279827795/572665170784/127696.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Catarinense 02
+http://kazing.fun:80/896279827795/572665170784/127697.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Catarinense 03
+http://kazing.fun:80/896279827795/572665170784/127698.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Catarinense 04
+http://kazing.fun:80/896279827795/572665170784/127699.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Cearense 01
+http://kazing.fun:80/896279827795/572665170784/127705.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Cearense 02
+http://kazing.fun:80/896279827795/572665170784/127706.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Gaucho 01
+http://kazing.fun:80/896279827795/572665170784/127708.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Gaucho 02
+http://kazing.fun:80/896279827795/572665170784/127709.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Goiano 01
+http://kazing.fun:80/896279827795/572665170784/127711.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Goiano 02
+http://kazing.fun:80/896279827795/572665170784/127712.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paraense
+http://kazing.fun:80/896279827795/572665170784/127713.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Pernambucano
+http://kazing.fun:80/896279827795/572665170784/127715.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Sergipano
+http://kazing.fun:80/896279827795/572665170784/127717.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Alagoano 01
+http://kazing.fun:80/896279827795/572665170784/127718.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Alagoano 02
+http://kazing.fun:80/896279827795/572665170784/127719.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Baiano
+http://kazing.fun:80/896279827795/572665170784/127720.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paraibano 01
+http://kazing.fun:80/896279827795/572665170784/127721.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paraibano 02
+http://kazing.fun:80/896279827795/572665170784/127722.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paraibano 03
+http://kazing.fun:80/896279827795/572665170784/127723.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paranaense 01
+http://kazing.fun:80/896279827795/572665170784/127724.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paranaense 02
+http://kazing.fun:80/896279827795/572665170784/127725.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paranaense 03
+http://kazing.fun:80/896279827795/572665170784/127726.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Piauiense
+http://kazing.fun:80/896279827795/572665170784/127727.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Potiguar
+http://kazing.fun:80/896279827795/572665170784/127728.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 01
+http://kazing.fun:80/896279827795/572665170784/150703.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 02
+http://kazing.fun:80/896279827795/572665170784/150704.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 03
+http://kazing.fun:80/896279827795/572665170784/150705.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 04
+http://kazing.fun:80/896279827795/572665170784/150706.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 05
+http://kazing.fun:80/896279827795/572665170784/150707.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Amazon SAT FHD
+http://kazing.fun:80/896279827795/572665170784/151382.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Arte 1 FHD
+http://kazing.fun:80/896279827795/572665170784/151383.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Arte 1 HD
+http://kazing.fun:80/896279827795/572665170784/151384.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Arte 1 SD
+http://kazing.fun:80/896279827795/572665170784/151385.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",BIS FHD
+http://kazing.fun:80/896279827795/572665170784/151386.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",BIS HD
+http://kazing.fun:80/896279827795/572665170784/151387.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",BIS SD
+http://kazing.fun:80/896279827795/572665170784/151388.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Canal BRA HD
+http://kazing.fun:80/896279827795/572665170784/151390.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",CATVE HD
+http://kazing.fun:80/896279827795/572665170784/151391.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Comedy Central FHD
+http://kazing.fun:80/896279827795/572665170784/151392.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Comedy Central HD
+http://kazing.fun:80/896279827795/572665170784/151393.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Comedy Central SD
+http://kazing.fun:80/896279827795/572665170784/151394.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Curta! FHD
+http://kazing.fun:80/896279827795/572665170784/151396.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Curta! HD
+http://kazing.fun:80/896279827795/572665170784/151397.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Curta! SD
+http://kazing.fun:80/896279827795/572665170784/151398.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",DJTV HD
+http://kazing.fun:80/896279827795/572665170784/151399.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Dog TV HD
+http://kazing.fun:80/896279827795/572665170784/151400.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E! FHD
+http://kazing.fun:80/896279827795/572665170784/151402.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E! HD
+http://kazing.fun:80/896279827795/572665170784/151403.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E! SD
+http://kazing.fun:80/896279827795/572665170784/151404.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-Music Black
+http://kazing.fun:80/896279827795/572665170784/151405.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-Music Classics
+http://kazing.fun:80/896279827795/572665170784/151406.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-Music Hits
+http://kazing.fun:80/896279827795/572665170784/151407.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-Music Latino
+http://kazing.fun:80/896279827795/572665170784/151408.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-Music Party
+http://kazing.fun:80/896279827795/572665170784/151409.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-music Pop
+http://kazing.fun:80/896279827795/572665170784/151410.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",E-music Rock
+http://kazing.fun:80/896279827795/572665170784/151411.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Fashion TV FHD
+http://kazing.fun:80/896279827795/572665170784/151412.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Food Network FHD
+http://kazing.fun:80/896279827795/572665170784/151414.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Food Network HD
+http://kazing.fun:80/896279827795/572665170784/151415.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Food Network SD
+http://kazing.fun:80/896279827795/572665170784/151416.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",GNT FHD
+http://kazing.fun:80/896279827795/572665170784/151417.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",GNT HD
+http://kazing.fun:80/896279827795/572665170784/151418.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",GNT SD
+http://kazing.fun:80/896279827795/572665170784/151419.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",HGTV FHD
+http://kazing.fun:80/896279827795/572665170784/151420.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",HGTV HD
+http://kazing.fun:80/896279827795/572665170784/151421.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",HGTV SD
+http://kazing.fun:80/896279827795/572665170784/151422.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Lifetime FHD
+http://kazing.fun:80/896279827795/572665170784/151423.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Lifetime HD
+http://kazing.fun:80/896279827795/572665170784/151424.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Lifetime SD
+http://kazing.fun:80/896279827795/572665170784/151425.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Like HD
+http://kazing.fun:80/896279827795/572665170784/151427.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Modo Viagem FHD
+http://kazing.fun:80/896279827795/572665170784/151428.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Modo Viagem HD
+http://kazing.fun:80/896279827795/572665170784/151429.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Modo Viagem SD
+http://kazing.fun:80/896279827795/572665170784/151430.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV 00s FHD
+http://kazing.fun:80/896279827795/572665170784/151432.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV 00s HD
+http://kazing.fun:80/896279827795/572665170784/151433.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV FHD
+http://kazing.fun:80/896279827795/572665170784/151434.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV HD
+http://kazing.fun:80/896279827795/572665170784/151435.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV Live FHD
+http://kazing.fun:80/896279827795/572665170784/151436.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV Live HD
+http://kazing.fun:80/896279827795/572665170784/151437.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV SD
+http://kazing.fun:80/896279827795/572665170784/151438.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Multishow FHD
+http://kazing.fun:80/896279827795/572665170784/151439.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Multishow HD
+http://kazing.fun:80/896279827795/572665170784/151440.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Multishow SD
+http://kazing.fun:80/896279827795/572665170784/151441.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Music Box Brasil FHD
+http://kazing.fun:80/896279827795/572665170784/151443.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Music Box Brasil HD
+http://kazing.fun:80/896279827795/572665170784/151444.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Music Box Brasil SD
+http://kazing.fun:80/896279827795/572665170784/151445.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",OFF FHD
+http://kazing.fun:80/896279827795/572665170784/151446.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",OFF HD
+http://kazing.fun:80/896279827795/572665170784/151447.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",OFF SD
+http://kazing.fun:80/896279827795/572665170784/151448.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Prime Box Brasil FHD
+http://kazing.fun:80/896279827795/572665170784/151449.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Prime Box Brasil HD
+http://kazing.fun:80/896279827795/572665170784/151450.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Prime Box Brasil SD
+http://kazing.fun:80/896279827795/572665170784/151451.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Receitas Fast HD
+http://kazing.fun:80/896279827795/572665170784/151453.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Retro Music
+http://kazing.fun:80/896279827795/572665170784/151456.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Sabor & Arte FHD
+http://kazing.fun:80/896279827795/572665170784/151461.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Sabor & Arte HD
+http://kazing.fun:80/896279827795/572665170784/151462.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Usa Network FHD
+http://kazing.fun:80/896279827795/572665170784/151463.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Usa Network HD
+http://kazing.fun:80/896279827795/572665170784/151464.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Usa Network SD
+http://kazing.fun:80/896279827795/572665170784/151465.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Taormina TV HD
+http://kazing.fun:80/896279827795/572665170784/151470.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Trace Brazuca HD
+http://kazing.fun:80/896279827795/572665170784/151474.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Travel Box Brasil FHD
+http://kazing.fun:80/896279827795/572665170784/151475.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Travel Box Brasil HD
+http://kazing.fun:80/896279827795/572665170784/151476.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Tru TV FHD
+http://kazing.fun:80/896279827795/572665170784/151478.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Tru TV HD
+http://kazing.fun:80/896279827795/572665170784/151479.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Tru TV SD
+http://kazing.fun:80/896279827795/572665170784/151480.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Cultura FHD
+http://kazing.fun:80/896279827795/572665170784/151481.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Cultura HD
+http://kazing.fun:80/896279827795/572665170784/151482.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",TV Escola HD
+http://kazing.fun:80/896279827795/572665170784/151483.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Unique TV HD
+http://kazing.fun:80/896279827795/572665170784/151485.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",GloboPlay Novelas FHD
+http://kazing.fun:80/896279827795/572665170784/151489.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",GloboPlay Novelas HD
+http://kazing.fun:80/896279827795/572665170784/151490.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",GloboPlay Novelas SD
+http://kazing.fun:80/896279827795/572665170784/151491.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Boa Vontade TV
+http://kazing.fun:80/896279827795/572665170784/151636.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Boas Novas
+http://kazing.fun:80/896279827795/572665170784/151639.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",CNT HD
+http://kazing.fun:80/896279827795/572665170784/151643.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Igreja Mundial IMPD FHD
+http://kazing.fun:80/896279827795/572665170784/151645.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Igreja Universal
+http://kazing.fun:80/896279827795/572665170784/151647.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Rede Familia RFTV FHD
+http://kazing.fun:80/896279827795/572665170784/151648.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Rede Genesis HD
+http://kazing.fun:80/896279827795/572665170784/151649.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Rede Gospel HD
+http://kazing.fun:80/896279827795/572665170784/151650.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Rede Super
+http://kazing.fun:80/896279827795/572665170784/151651.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Rede Vida
+http://kazing.fun:80/896279827795/572665170784/151652.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",RIT TV
+http://kazing.fun:80/896279827795/572665170784/151653.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Gideoes FHD
+http://kazing.fun:80/896279827795/572665170784/151679.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Mundo Maior FHD
+http://kazing.fun:80/896279827795/572665170784/151692.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Band News FHD
+http://kazing.fun:80/896279827795/572665170784/151813.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Band News HD
+http://kazing.fun:80/896279827795/572665170784/151814.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Band News SD
+http://kazing.fun:80/896279827795/572665170784/151815.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Bloomberg
+http://kazing.fun:80/896279827795/572665170784/151816.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",CNBC Brasil
+http://kazing.fun:80/896279827795/572665170784/151823.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",CNN Brasil FHD
+http://kazing.fun:80/896279827795/572665170784/151826.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",CNN Brasil HD
+http://kazing.fun:80/896279827795/572665170784/151827.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",CNN Brasil SD
+http://kazing.fun:80/896279827795/572665170784/151828.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Globo News FHD
+http://kazing.fun:80/896279827795/572665170784/151886.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Globo News HD
+http://kazing.fun:80/896279827795/572665170784/151887.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Globo News SD
+http://kazing.fun:80/896279827795/572665170784/151888.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Jovem Pan News FHD
+http://kazing.fun:80/896279827795/572665170784/151889.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Jovem Pan News HD
+http://kazing.fun:80/896279827795/572665170784/151890.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Record News FHD
+http://kazing.fun:80/896279827795/572665170784/151892.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Record News HD
+http://kazing.fun:80/896279827795/572665170784/151893.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Record News SD
+http://kazing.fun:80/896279827795/572665170784/151894.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Cartoon Network FHD
+http://kazing.fun:80/896279827795/572665170784/152307.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Cartoon Network HD
+http://kazing.fun:80/896279827795/572665170784/152308.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Cartoon Network SD
+http://kazing.fun:80/896279827795/572665170784/152309.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Gloob FHD
+http://kazing.fun:80/896279827795/572665170784/152310.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Gloob HD
+http://kazing.fun:80/896279827795/572665170784/152311.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Gloob SD
+http://kazing.fun:80/896279827795/572665170784/152312.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Gloobinho FHD
+http://kazing.fun:80/896279827795/572665170784/152313.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Gloobinho HD
+http://kazing.fun:80/896279827795/572665170784/152314.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Gloobinho SD
+http://kazing.fun:80/896279827795/572665170784/152315.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Nick JR FHD
+http://kazing.fun:80/896279827795/572665170784/152316.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Nick JR HD
+http://kazing.fun:80/896279827795/572665170784/152317.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Nick JR SD
+http://kazing.fun:80/896279827795/572665170784/152318.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Cartoonito FHD
+http://kazing.fun:80/896279827795/572665170784/152322.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Cartoonito HD
+http://kazing.fun:80/896279827795/572665170784/152324.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Cartoonito SD
+http://kazing.fun:80/896279827795/572665170784/152325.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",TV Ra Tim Bum FHD
+http://kazing.fun:80/896279827795/572665170784/152326.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",TV Ra Tim Bum HD
+http://kazing.fun:80/896279827795/572665170784/152327.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",TV Ra Tim Bum SD
+http://kazing.fun:80/896279827795/572665170784/152328.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Kids FHD
+http://kazing.fun:80/896279827795/572665170784/152329.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Kids HD
+http://kazing.fun:80/896279827795/572665170784/152330.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Kids SD
+http://kazing.fun:80/896279827795/572665170784/152331.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Kids Mais HD
+http://kazing.fun:80/896279827795/572665170784/152338.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Tooncast FHD
+http://kazing.fun:80/896279827795/572665170784/152339.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Tooncast HD
+http://kazing.fun:80/896279827795/572665170784/152340.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Tooncast SD
+http://kazing.fun:80/896279827795/572665170784/152341.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",DumDum FHD
+http://kazing.fun:80/896279827795/572665170784/152342.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",DumDum HD
+http://kazing.fun:80/896279827795/572665170784/152343.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 12
+http://kazing.fun:80/896279827795/572665170784/152471.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 11
+http://kazing.fun:80/896279827795/572665170784/152472.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 10
+http://kazing.fun:80/896279827795/572665170784/152473.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 09
+http://kazing.fun:80/896279827795/572665170784/152474.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 08
+http://kazing.fun:80/896279827795/572665170784/152475.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 06
+http://kazing.fun:80/896279827795/572665170784/152477.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 07
+http://kazing.fun:80/896279827795/572665170784/152478.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 05
+http://kazing.fun:80/896279827795/572665170784/152479.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 04
+http://kazing.fun:80/896279827795/572665170784/152480.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 03
+http://kazing.fun:80/896279827795/572665170784/152481.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 02
+http://kazing.fun:80/896279827795/572665170784/152482.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA League Pass 01
+http://kazing.fun:80/896279827795/572665170784/152483.ts
+#EXTINF:-1 group-title="♦️Canais | NBA",NBA TV
+http://kazing.fun:80/896279827795/572665170784/152490.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 01
+http://kazing.fun:80/896279827795/572665170784/152570.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 02
+http://kazing.fun:80/896279827795/572665170784/152571.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 03
+http://kazing.fun:80/896279827795/572665170784/152572.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 04
+http://kazing.fun:80/896279827795/572665170784/152573.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ PLTF 01 FHD
+http://kazing.fun:80/896279827795/572665170784/152574.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ PLTF 02 FHD
+http://kazing.fun:80/896279827795/572665170784/152575.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ PLTF 03 FHD
+http://kazing.fun:80/896279827795/572665170784/152576.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 07
+http://kazing.fun:80/896279827795/572665170784/152738.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 08
+http://kazing.fun:80/896279827795/572665170784/152739.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 01
+http://kazing.fun:80/896279827795/572665170784/152741.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 02
+http://kazing.fun:80/896279827795/572665170784/152751.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 03
+http://kazing.fun:80/896279827795/572665170784/152752.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 04
+http://kazing.fun:80/896279827795/572665170784/152753.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 05
+http://kazing.fun:80/896279827795/572665170784/152754.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 06
+http://kazing.fun:80/896279827795/572665170784/152755.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",DAZN 01
+http://kazing.fun:80/896279827795/572665170784/152833.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",DAZN 03
+http://kazing.fun:80/896279827795/572665170784/152834.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",DAZN 04
+http://kazing.fun:80/896279827795/572665170784/152835.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",DAZN 05
+http://kazing.fun:80/896279827795/572665170784/152836.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",DAZN 02
+http://kazing.fun:80/896279827795/572665170784/152837.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Zapping 01
+http://kazing.fun:80/896279827795/572665170784/152842.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Zapping 02
+http://kazing.fun:80/896279827795/572665170784/152843.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Canal GOAT 01
+http://kazing.fun:80/896279827795/572665170784/152844.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Canal GOAT 02
+http://kazing.fun:80/896279827795/572665170784/152845.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Canal GOAT 03
+http://kazing.fun:80/896279827795/572665170784/152846.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Eleven Sports 01
+http://kazing.fun:80/896279827795/572665170784/152847.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Eleven Sports 02
+http://kazing.fun:80/896279827795/572665170784/152849.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Eleven Sports 03
+http://kazing.fun:80/896279827795/572665170784/152850.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Eleven Sports 04
+http://kazing.fun:80/896279827795/572665170784/152851.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Eleven Sports 05
+http://kazing.fun:80/896279827795/572665170784/152852.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Barça ONE TV
+http://kazing.fun:80/896279827795/572665170784/152858.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",OneFootball 01
+http://kazing.fun:80/896279827795/572665170784/152860.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",OneFootball 02
+http://kazing.fun:80/896279827795/572665170784/152861.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",OneFootball 03
+http://kazing.fun:80/896279827795/572665170784/152862.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",OneFootball 04
+http://kazing.fun:80/896279827795/572665170784/152863.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Nsports FHD
+http://kazing.fun:80/896279827795/572665170784/152865.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Nsports HD
+http://kazing.fun:80/896279827795/572665170784/152866.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Apple TV 01
+http://kazing.fun:80/896279827795/572665170784/152867.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Apple TV 02
+http://kazing.fun:80/896279827795/572665170784/152869.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Apple TV 03
+http://kazing.fun:80/896279827795/572665170784/152870.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Apple TV 04
+http://kazing.fun:80/896279827795/572665170784/152871.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Rede Furacão
+http://kazing.fun:80/896279827795/572665170784/152872.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Manchester MUTV
+http://kazing.fun:80/896279827795/572665170784/152874.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",GloboPlay+|GE Futebol 2
+http://kazing.fun:80/896279827795/572665170784/152875.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",GloboPlay+|GE Futebol 1
+http://kazing.fun:80/896279827795/572665170784/152876.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Copa SP JR 01
+http://kazing.fun:80/896279827795/572665170784/152877.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Copa SP JR 02
+http://kazing.fun:80/896279827795/572665170784/152878.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Copa SP JR 03
+http://kazing.fun:80/896279827795/572665170784/152879.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Copa SP JR 04
+http://kazing.fun:80/896279827795/572665170784/152880.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Copa SP JR 05
+http://kazing.fun:80/896279827795/572665170784/152881.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",BRTVMAX HD
+http://kazing.fun:80/896279827795/572665170784/152883.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Band Sports FHD
+http://kazing.fun:80/896279827795/572665170784/152884.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Band Sports HD
+http://kazing.fun:80/896279827795/572665170784/152885.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Band Sports SD
+http://kazing.fun:80/896279827795/572665170784/152886.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 01
+http://kazing.fun:80/896279827795/572665170784/153076.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 02
+http://kazing.fun:80/896279827795/572665170784/153077.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 03
+http://kazing.fun:80/896279827795/572665170784/153078.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 04
+http://kazing.fun:80/896279827795/572665170784/153079.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 05
+http://kazing.fun:80/896279827795/572665170784/153080.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 06
+http://kazing.fun:80/896279827795/572665170784/153086.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 07
+http://kazing.fun:80/896279827795/572665170784/153087.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 08
+http://kazing.fun:80/896279827795/572665170784/153088.ts
+#EXTINF:-1 group-title="♦️Canais | Globo Capitais",Globo MG FHD
+http://kazing.fun:80/896279827795/572665170784/153506.ts
+#EXTINF:-1 group-title="♦️Canais | Globo Capitais",Globo MG HD
+http://kazing.fun:80/896279827795/572665170784/153507.ts
+#EXTINF:-1 group-title="♦️Canais | Globo Capitais",Globo MG SD
+http://kazing.fun:80/896279827795/572665170784/153508.ts
+#EXTINF:-1 group-title="♦️AREA DO CLIENTE♦️",JOGOS DO DIA
+http://kazing.fun:80/896279827795/572665170784/223475.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Nickelodeon FHD
+http://kazing.fun:80/896279827795/572665170784/223512.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Nickelodeon HD
+http://kazing.fun:80/896279827795/572665170784/223513.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Nickelodeon SD
+http://kazing.fun:80/896279827795/572665170784/223514.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",A&E FHD
+http://kazing.fun:80/896279827795/572665170784/223531.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",A&E HD
+http://kazing.fun:80/896279827795/572665170784/223532.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",A&E SD
+http://kazing.fun:80/896279827795/572665170784/223533.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",AMC FHD
+http://kazing.fun:80/896279827795/572665170784/223534.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",AMC HD
+http://kazing.fun:80/896279827795/572665170784/223535.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",AMC SD
+http://kazing.fun:80/896279827795/572665170784/223536.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",AXN FHD
+http://kazing.fun:80/896279827795/572665170784/223537.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",AXN HD
+http://kazing.fun:80/896279827795/572665170784/223538.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",AXN SD
+http://kazing.fun:80/896279827795/572665170784/223540.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Canal Brasil FHD
+http://kazing.fun:80/896279827795/572665170784/223541.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Canal Brasil HD
+http://kazing.fun:80/896279827795/572665170784/223542.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Canal Brasil SD
+http://kazing.fun:80/896279827795/572665170784/223543.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Cine Brasil TV FHD
+http://kazing.fun:80/896279827795/572665170784/223544.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Cinemax FHD
+http://kazing.fun:80/896279827795/572665170784/223548.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Cinemax HD
+http://kazing.fun:80/896279827795/572665170784/223549.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Cinemax SD
+http://kazing.fun:80/896279827795/572665170784/223550.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Film & Arts FHD
+http://kazing.fun:80/896279827795/572665170784/223551.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Film & Arts HD
+http://kazing.fun:80/896279827795/572665170784/223552.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Megapix FHD
+http://kazing.fun:80/896279827795/572665170784/223556.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Megapix HD
+http://kazing.fun:80/896279827795/572665170784/223557.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Megapix SD
+http://kazing.fun:80/896279827795/572665170784/223558.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",MyTime Movie Network Brazil HD
+http://kazing.fun:80/896279827795/572665170784/223559.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Paramount Network FHD
+http://kazing.fun:80/896279827795/572665170784/223560.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Paramount Network HD
+http://kazing.fun:80/896279827795/572665170784/223561.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Paramount Network SD
+http://kazing.fun:80/896279827795/572665170784/223562.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Playpoca Filmes
+http://kazing.fun:80/896279827795/572665170784/223563.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Playpoca Series
+http://kazing.fun:80/896279827795/572665170784/223564.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Brasil HD
+http://kazing.fun:80/896279827795/572665170784/223565.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Sony FHD
+http://kazing.fun:80/896279827795/572665170784/223566.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Sony HD
+http://kazing.fun:80/896279827795/572665170784/223567.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Sony One Classics
+http://kazing.fun:80/896279827795/572665170784/223569.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Sony SD
+http://kazing.fun:80/896279827795/572665170784/223570.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Space FHD
+http://kazing.fun:80/896279827795/572665170784/223571.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Space HD
+http://kazing.fun:80/896279827795/572665170784/223572.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Space SD
+http://kazing.fun:80/896279827795/572665170784/223573.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Studio Universal FHD
+http://kazing.fun:80/896279827795/572665170784/223578.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Studio Universal HD
+http://kazing.fun:80/896279827795/572665170784/223579.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Studio Universal SD
+http://kazing.fun:80/896279827795/572665170784/223580.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TLC FHD
+http://kazing.fun:80/896279827795/572665170784/223581.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TLC HD
+http://kazing.fun:80/896279827795/572665170784/223582.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TLC SD
+http://kazing.fun:80/896279827795/572665170784/223583.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT FHD
+http://kazing.fun:80/896279827795/572665170784/223584.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT HD
+http://kazing.fun:80/896279827795/572665170784/223586.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT Novelas FHD
+http://kazing.fun:80/896279827795/572665170784/223587.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT Novelas HD
+http://kazing.fun:80/896279827795/572665170784/223588.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT Novelas SD
+http://kazing.fun:80/896279827795/572665170784/223589.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT SD
+http://kazing.fun:80/896279827795/572665170784/223590.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT Series FHD
+http://kazing.fun:80/896279827795/572665170784/223591.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT Series HD
+http://kazing.fun:80/896279827795/572665170784/223592.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",TNT Series SD
+http://kazing.fun:80/896279827795/572665170784/223593.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Universal TV FHD
+http://kazing.fun:80/896279827795/572665170784/223594.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Universal TV HD
+http://kazing.fun:80/896279827795/572665170784/223595.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Universal TV SD
+http://kazing.fun:80/896279827795/572665170784/223596.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Warner Channel FHD
+http://kazing.fun:80/896279827795/572665170784/223597.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Warner Channel HD
+http://kazing.fun:80/896279827795/572665170784/223599.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Warner Channel SD
+http://kazing.fun:80/896279827795/572665170784/223601.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",Globo Uruguaiana FHD
+http://kazing.fun:80/896279827795/572665170784/223738.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",TV Liberal Belém FHD
+http://kazing.fun:80/896279827795/572665170784/223739.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",TV Liberal Belém HD
+http://kazing.fun:80/896279827795/572665170784/223740.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",TV Liberal Belém SD
+http://kazing.fun:80/896279827795/572665170784/223741.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Coxa Prime - Coritiba
+http://kazing.fun:80/896279827795/572665170784/223742.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paranaense 04
+http://kazing.fun:80/896279827795/572665170784/223743.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paranaense 05
+http://kazing.fun:80/896279827795/572665170784/223744.ts
+#EXTINF:-1 group-title="♦️Canais | Campeonato Regional",Campeonato Paranaense 06
+http://kazing.fun:80/896279827795/572665170784/223745.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 01
+http://kazing.fun:80/896279827795/572665170784/223746.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 02
+http://kazing.fun:80/896279827795/572665170784/223747.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 03
+http://kazing.fun:80/896279827795/572665170784/223748.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery ID FHD
+http://kazing.fun:80/896279827795/572665170784/225410.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery ID HD
+http://kazing.fun:80/896279827795/572665170784/225411.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery ID SD
+http://kazing.fun:80/896279827795/572665170784/225412.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Science FHD
+http://kazing.fun:80/896279827795/572665170784/225413.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Science HD
+http://kazing.fun:80/896279827795/572665170784/225414.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Science SD
+http://kazing.fun:80/896279827795/572665170784/225415.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Theater FHD
+http://kazing.fun:80/896279827795/572665170784/225416.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Theater HD
+http://kazing.fun:80/896279827795/572665170784/225417.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery Theater SD
+http://kazing.fun:80/896279827795/572665170784/225418.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery World FHD
+http://kazing.fun:80/896279827795/572665170784/225419.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery World HD
+http://kazing.fun:80/896279827795/572665170784/225420.ts
+#EXTINF:-1 group-title="♦️Canais | Discovery",Discovery World SD
+http://kazing.fun:80/896279827795/572665170784/225421.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV SÉCULO 21
+http://kazing.fun:80/896279827795/572665170784/232524.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Rede Mais Família
+http://kazing.fun:80/896279827795/572665170784/232526.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Meio Norte
+http://kazing.fun:80/896279827795/572665170784/234069.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 01²
+http://kazing.fun:80/896279827795/572665170784/235006.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 02²
+http://kazing.fun:80/896279827795/572665170784/235007.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 03²
+http://kazing.fun:80/896279827795/572665170784/235008.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Travel Box Brasil SD
+http://kazing.fun:80/896279827795/572665170784/236009.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",MTV Live SD
+http://kazing.fun:80/896279827795/572665170784/236010.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Sabor & Arte SD
+http://kazing.fun:80/896279827795/572665170784/236011.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Cultura SD
+http://kazing.fun:80/896279827795/572665170784/236013.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",DumDum SD
+http://kazing.fun:80/896279827795/572665170784/236014.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",Jovem Pan News SD
+http://kazing.fun:80/896279827795/572665170784/236015.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",CNN Internacional SD
+http://kazing.fun:80/896279827795/572665170784/236016.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Futura SD
+http://kazing.fun:80/896279827795/572665170784/236017.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Terra Viva SD
+http://kazing.fun:80/896279827795/572665170784/236018.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Gazeta SD
+http://kazing.fun:80/896279827795/572665170784/236019.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere",Premiere 1 Clubes 60FPS
+http://kazing.fun:80/896279827795/572665170784/250240.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Malhação Fast
+http://kazing.fun:80/896279827795/572665170784/250241.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Like
+http://kazing.fun:80/896279827795/572665170784/250242.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",DPA Fast
+http://kazing.fun:80/896279827795/572665170784/250243.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Sabor & Arte 2
+http://kazing.fun:80/896279827795/572665170784/250244.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Netflix Eventos
+http://kazing.fun:80/896279827795/572665170784/250245.ts
+#EXTINF:-1 group-title="♦️Canais | Documentários",Love Nature
+http://kazing.fun:80/896279827795/572665170784/250246.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",ISTV
+http://kazing.fun:80/896279827795/572665170784/250247.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",DSports
+http://kazing.fun:80/896279827795/572665170784/250248.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Sony One Emoções
+http://kazing.fun:80/896279827795/572665170784/250249.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Sony Movies
+http://kazing.fun:80/896279827795/572665170784/250250.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime TV & Filmes
+http://kazing.fun:80/896279827795/572665170784/250251.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime TG Brasil
+http://kazing.fun:80/896279827795/572665170784/250252.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Romance
+http://kazing.fun:80/896279827795/572665170784/250253.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Movie Sphere
+http://kazing.fun:80/896279827795/572665170784/250254.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Famí­lia
+http://kazing.fun:80/896279827795/572665170784/250255.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Crime
+http://kazing.fun:80/896279827795/572665170784/250256.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Comédia
+http://kazing.fun:80/896279827795/572665170784/250257.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Cine Espanto
+http://kazing.fun:80/896279827795/572665170784/250258.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Runtime Ação
+http://kazing.fun:80/896279827795/572665170784/250259.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT Minas HD
+http://kazing.fun:80/896279827795/572665170784/250265.ts
+#EXTINF:-1 group-title="♦️Canais | Sportynet",SportyNet 04²
+http://kazing.fun:80/896279827795/572665170784/250615.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",UFC Fight Pass 1²
+http://kazing.fun:80/896279827795/572665170784/251923.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",UFC Fight Pass 2²
+http://kazing.fun:80/896279827795/572665170784/251924.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",UFC Fight Pass 3²
+http://kazing.fun:80/896279827795/572665170784/251925.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 01²
+http://kazing.fun:80/896279827795/572665170784/252412.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 02²
+http://kazing.fun:80/896279827795/572665170784/252413.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 03²
+http://kazing.fun:80/896279827795/572665170784/252414.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Cazé TV 04
+http://kazing.fun:80/896279827795/572665170784/252415.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 01²
+http://kazing.fun:80/896279827795/572665170784/252418.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 02²
+http://kazing.fun:80/896279827795/572665170784/252419.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 03²
+http://kazing.fun:80/896279827795/572665170784/252420.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",Universal Premiere
+http://kazing.fun:80/896279827795/572665170784/252422.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",Universal Reality
+http://kazing.fun:80/896279827795/572665170784/252423.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Canal GOAT 01²
+http://kazing.fun:80/896279827795/572665170784/252773.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Canal GOAT 02²
+http://kazing.fun:80/896279827795/572665170784/252774.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Canal GOAT 03²
+http://kazing.fun:80/896279827795/572665170784/252775.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",Globo EPTV Sul de Minas SD
+http://kazing.fun:80/896279827795/572665170784/252974.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 01²
+http://kazing.fun:80/896279827795/572665170784/252975.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 02²
+http://kazing.fun:80/896279827795/572665170784/252976.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 03²
+http://kazing.fun:80/896279827795/572665170784/252977.ts
+#EXTINF:-1 group-title="♦️Canais | Max",Max 01²
+http://kazing.fun:80/896279827795/572665170784/252978.ts
+#EXTINF:-1 group-title="♦️Canais | Max",MAX 02²
+http://kazing.fun:80/896279827795/572665170784/252979.ts
+#EXTINF:-1 group-title="♦️Canais | Max",MAX 03²
+http://kazing.fun:80/896279827795/572665170784/252980.ts
+#EXTINF:-1 group-title="♦️Canais | Max",MAX 04²
+http://kazing.fun:80/896279827795/572665170784/252981.ts
+#EXTINF:-1 group-title="♦️Canais | Max",MAX 05²
+http://kazing.fun:80/896279827795/572665170784/252982.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",FishTV FHD
+http://kazing.fun:80/896279827795/572665170784/254235.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",FishTV HD
+http://kazing.fun:80/896279827795/572665170784/254236.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades",FishTV SD
+http://kazing.fun:80/896279827795/572665170784/254237.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Flamengo TV
+http://kazing.fun:80/896279827795/572665170784/256801.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Kings League Brazil
+http://kazing.fun:80/896279827795/572665170784/256805.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",FUTSAL 1
+http://kazing.fun:80/896279827795/572665170784/256806.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",FUTSAL 2
+http://kazing.fun:80/896279827795/572665170784/256807.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",FUTSAL 3
+http://kazing.fun:80/896279827795/572665170784/256808.ts
+#EXTINF:-1 group-title="♦️Canais | Rádio",Radio Esperança 87.9 FM
+http://kazing.fun:80/896279827795/572665170784/256942.ts
+#EXTINF:-1 group-title="♦️AREA DO CLIENTE♦️",LUTAS DO DIA UFC
+http://kazing.fun:80/896279827795/572665170784/271869.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Desimpedidos
+http://kazing.fun:80/896279827795/572665170784/271870.ts
+#EXTINF:-1 group-title="♦️Canais | SBT",SBT VTV Campinas
+http://kazing.fun:80/896279827795/572665170784/272679.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",Globo TV Alvorada do Sul
+http://kazing.fun:80/896279827795/572665170784/272680.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Candides MG
+http://kazing.fun:80/896279827795/572665170784/272681.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Family FHD
+http://kazing.fun:80/896279827795/572665170784/420379.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Mundi FHD
+http://kazing.fun:80/896279827795/572665170784/422877.ts
+#EXTINF:-1 group-title="♦️Canais | HBO",HBO Xtreme FHD
+http://kazing.fun:80/896279827795/572665170784/440469.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Flograppling Eventos FHD
+http://kazing.fun:80/896279827795/572665170784/519433.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV a Crítica
+http://kazing.fun:80/896279827795/572665170784/798307.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Todo Mundo Odeia o Chris S01
+http://kazing.fun:80/896279827795/572665170784/813462.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Todo Mundo Odeia o Chris S02
+http://kazing.fun:80/896279827795/572665170784/813463.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Todo Mundo Odeia o Chris S03
+http://kazing.fun:80/896279827795/572665170784/813464.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Todo Mundo Odeia o Chris S04
+http://kazing.fun:80/896279827795/572665170784/813465.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S01
+http://kazing.fun:80/896279827795/572665170784/813466.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S02
+http://kazing.fun:80/896279827795/572665170784/813467.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S03
+http://kazing.fun:80/896279827795/572665170784/813468.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S04
+http://kazing.fun:80/896279827795/572665170784/813469.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S05
+http://kazing.fun:80/896279827795/572665170784/813470.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S06
+http://kazing.fun:80/896279827795/572665170784/813471.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S07
+http://kazing.fun:80/896279827795/572665170784/813472.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S08
+http://kazing.fun:80/896279827795/572665170784/813473.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S09
+http://kazing.fun:80/896279827795/572665170784/813474.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S10
+http://kazing.fun:80/896279827795/572665170784/813475.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S11
+http://kazing.fun:80/896279827795/572665170784/813476.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S12
+http://kazing.fun:80/896279827795/572665170784/813477.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S13
+http://kazing.fun:80/896279827795/572665170784/813478.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S14
+http://kazing.fun:80/896279827795/572665170784/813479.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Sobrenatural S15
+http://kazing.fun:80/896279827795/572665170784/813480.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Eu a patroa e as crianças S01
+http://kazing.fun:80/896279827795/572665170784/813556.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Eu a patroa e as crianças S02
+http://kazing.fun:80/896279827795/572665170784/813557.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Eu a patroa e as crianças S03
+http://kazing.fun:80/896279827795/572665170784/813558.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Eu a patroa e as crianças S04
+http://kazing.fun:80/896279827795/572665170784/813559.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Eu a patroa e as crianças S05
+http://kazing.fun:80/896279827795/572665170784/813560.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S01
+http://kazing.fun:80/896279827795/572665170784/813564.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S02
+http://kazing.fun:80/896279827795/572665170784/813565.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S03
+http://kazing.fun:80/896279827795/572665170784/813566.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S04
+http://kazing.fun:80/896279827795/572665170784/813567.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S05
+http://kazing.fun:80/896279827795/572665170784/813568.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S06
+http://kazing.fun:80/896279827795/572665170784/813569.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S07
+http://kazing.fun:80/896279827795/572665170784/813570.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S08
+http://kazing.fun:80/896279827795/572665170784/813571.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S09
+http://kazing.fun:80/896279827795/572665170784/813572.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Friends S10
+http://kazing.fun:80/896279827795/572665170784/813573.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As meninas superpoderosas S01
+http://kazing.fun:80/896279827795/572665170784/813574.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As meninas superpoderosas S02
+http://kazing.fun:80/896279827795/572665170784/813575.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As meninas superpoderosas S03
+http://kazing.fun:80/896279827795/572665170784/813576.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As meninas superpoderosas S04
+http://kazing.fun:80/896279827795/572665170784/813577.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As meninas superpoderosas S05
+http://kazing.fun:80/896279827795/572665170784/813578.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As meninas superpoderosas S06
+http://kazing.fun:80/896279827795/572665170784/813579.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball
+http://kazing.fun:80/896279827795/572665170784/816213.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S01
+http://kazing.fun:80/896279827795/572665170784/816214.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S02
+http://kazing.fun:80/896279827795/572665170784/816215.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S03
+http://kazing.fun:80/896279827795/572665170784/816216.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S04
+http://kazing.fun:80/896279827795/572665170784/816217.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S05
+http://kazing.fun:80/896279827795/572665170784/816218.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S06
+http://kazing.fun:80/896279827795/572665170784/816219.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z S07
+http://kazing.fun:80/896279827795/572665170784/816220.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball GT
+http://kazing.fun:80/896279827795/572665170784/816221.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Z Kai
+http://kazing.fun:80/896279827795/572665170784/816222.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Heroes
+http://kazing.fun:80/896279827795/572665170784/816224.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball Super
+http://kazing.fun:80/896279827795/572665170784/816225.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Dragon Ball DAIMA
+http://kazing.fun:80/896279827795/572665170784/816226.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S01
+http://kazing.fun:80/896279827795/572665170784/816227.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S02
+http://kazing.fun:80/896279827795/572665170784/816228.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S03
+http://kazing.fun:80/896279827795/572665170784/816229.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S04
+http://kazing.fun:80/896279827795/572665170784/816230.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S05
+http://kazing.fun:80/896279827795/572665170784/816231.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S06
+http://kazing.fun:80/896279827795/572665170784/816232.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S07
+http://kazing.fun:80/896279827795/572665170784/816233.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S08
+http://kazing.fun:80/896279827795/572665170784/816234.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S09
+http://kazing.fun:80/896279827795/572665170784/816235.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S10
+http://kazing.fun:80/896279827795/572665170784/816236.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S11
+http://kazing.fun:80/896279827795/572665170784/816237.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S12
+http://kazing.fun:80/896279827795/572665170784/816238.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S13
+http://kazing.fun:80/896279827795/572665170784/816239.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S14
+http://kazing.fun:80/896279827795/572665170784/816240.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S15
+http://kazing.fun:80/896279827795/572665170784/816241.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S16
+http://kazing.fun:80/896279827795/572665170784/816242.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S17
+http://kazing.fun:80/896279827795/572665170784/816243.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S18
+http://kazing.fun:80/896279827795/572665170784/816244.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S19
+http://kazing.fun:80/896279827795/572665170784/816245.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S20
+http://kazing.fun:80/896279827795/572665170784/816246.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S21
+http://kazing.fun:80/896279827795/572665170784/816247.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S22
+http://kazing.fun:80/896279827795/572665170784/816248.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S23
+http://kazing.fun:80/896279827795/572665170784/816249.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S24
+http://kazing.fun:80/896279827795/572665170784/816250.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S25
+http://kazing.fun:80/896279827795/572665170784/816251.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S26
+http://kazing.fun:80/896279827795/572665170784/816252.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S27
+http://kazing.fun:80/896279827795/572665170784/816253.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S28
+http://kazing.fun:80/896279827795/572665170784/816254.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S29
+http://kazing.fun:80/896279827795/572665170784/816255.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S30
+http://kazing.fun:80/896279827795/572665170784/816256.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S31
+http://kazing.fun:80/896279827795/572665170784/816257.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S32
+http://kazing.fun:80/896279827795/572665170784/816258.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S33
+http://kazing.fun:80/896279827795/572665170784/816259.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S34
+http://kazing.fun:80/896279827795/572665170784/816260.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S35
+http://kazing.fun:80/896279827795/572665170784/816261.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Simpsons S36
+http://kazing.fun:80/896279827795/572665170784/816262.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Aeroporto - Área Restrita S01
+http://kazing.fun:80/896279827795/572665170784/816284.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Aeroporto - Área Restrita S02
+http://kazing.fun:80/896279827795/572665170784/816285.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Aeroporto - Área Restrita S03
+http://kazing.fun:80/896279827795/572665170784/816286.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Aeroporto - Área Restrita S04
+http://kazing.fun:80/896279827795/572665170784/816287.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Aeroporto - Área Restrita S05
+http://kazing.fun:80/896279827795/572665170784/816288.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Aeroporto - Área Restrita S06
+http://kazing.fun:80/896279827795/572665170784/816289.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Cavaleiros do Zodí­aco
+http://kazing.fun:80/896279827795/572665170784/827758.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Cavaleiros do Zodí­aco - A Saga de Hades
+http://kazing.fun:80/896279827795/572665170784/827759.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos", A Saga dos Elí­seos
+http://kazing.fun:80/896279827795/572665170784/827760.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Cavaleiros do Zodíaco - The Lost Canvas
+http://kazing.fun:80/896279827795/572665170784/827761.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Cavaleiros do Zodí­aco - Alma de Ouro
+http://kazing.fun:80/896279827795/572665170784/827762.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Cavaleiros do Zodí­aco - Ômega S01
+http://kazing.fun:80/896279827795/572665170784/827763.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Cavaleiros do Zodí­aco - Ômega S02
+http://kazing.fun:80/896279827795/572665170784/827764.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Corrida Maluca
+http://kazing.fun:80/896279827795/572665170784/827765.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S01
+http://kazing.fun:80/896279827795/572665170784/827766.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S02
+http://kazing.fun:80/896279827795/572665170784/827767.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S03
+http://kazing.fun:80/896279827795/572665170784/827768.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S04
+http://kazing.fun:80/896279827795/572665170784/827769.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S05
+http://kazing.fun:80/896279827795/572665170784/827770.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S06
+http://kazing.fun:80/896279827795/572665170784/827771.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chaves S07
+http://kazing.fun:80/896279827795/572665170784/827772.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S01
+http://kazing.fun:80/896279827795/572665170784/827773.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S02
+http://kazing.fun:80/896279827795/572665170784/827774.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S03
+http://kazing.fun:80/896279827795/572665170784/827775.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S04
+http://kazing.fun:80/896279827795/572665170784/827776.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S05
+http://kazing.fun:80/896279827795/572665170784/827777.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S06
+http://kazing.fun:80/896279827795/572665170784/827778.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Chaves em desenho S07
+http://kazing.fun:80/896279827795/572665170784/827779.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Família S01
+http://kazing.fun:80/896279827795/572665170784/827819.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Família S02
+http://kazing.fun:80/896279827795/572665170784/827820.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Família S03
+http://kazing.fun:80/896279827795/572665170784/827821.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S04
+http://kazing.fun:80/896279827795/572665170784/827822.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S05
+http://kazing.fun:80/896279827795/572665170784/827823.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S06
+http://kazing.fun:80/896279827795/572665170784/827824.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S07
+http://kazing.fun:80/896279827795/572665170784/827825.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S08
+http://kazing.fun:80/896279827795/572665170784/827826.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S09
+http://kazing.fun:80/896279827795/572665170784/827827.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S10
+http://kazing.fun:80/896279827795/572665170784/827828.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Família S11
+http://kazing.fun:80/896279827795/572665170784/827829.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Família S12
+http://kazing.fun:80/896279827795/572665170784/827830.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Família S13
+http://kazing.fun:80/896279827795/572665170784/827831.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",A Grande Famí­lia S14
+http://kazing.fun:80/896279827795/572665170784/827832.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S01
+http://kazing.fun:80/896279827795/572665170784/827833.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S02
+http://kazing.fun:80/896279827795/572665170784/827834.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S03
+http://kazing.fun:80/896279827795/572665170784/827835.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S04
+http://kazing.fun:80/896279827795/572665170784/827836.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S05
+http://kazing.fun:80/896279827795/572665170784/827837.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S06
+http://kazing.fun:80/896279827795/572665170784/827838.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S07
+http://kazing.fun:80/896279827795/572665170784/827839.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S08
+http://kazing.fun:80/896279827795/572665170784/827840.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S09
+http://kazing.fun:80/896279827795/572665170784/827841.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S10
+http://kazing.fun:80/896279827795/572665170784/827842.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S11
+http://kazing.fun:80/896279827795/572665170784/827843.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Futurama S12
+http://kazing.fun:80/896279827795/572665170784/827844.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S01
+http://kazing.fun:80/896279827795/572665170784/827852.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S02
+http://kazing.fun:80/896279827795/572665170784/827853.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S03
+http://kazing.fun:80/896279827795/572665170784/827854.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S04
+http://kazing.fun:80/896279827795/572665170784/827855.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S05
+http://kazing.fun:80/896279827795/572665170784/827856.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S06
+http://kazing.fun:80/896279827795/572665170784/827857.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Chapolin Colorado S07
+http://kazing.fun:80/896279827795/572665170784/827858.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S01
+http://kazing.fun:80/896279827795/572665170784/827860.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S02
+http://kazing.fun:80/896279827795/572665170784/827861.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S03
+http://kazing.fun:80/896279827795/572665170784/827862.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S04
+http://kazing.fun:80/896279827795/572665170784/827863.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S05
+http://kazing.fun:80/896279827795/572665170784/827864.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S06
+http://kazing.fun:80/896279827795/572665170784/827865.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S07
+http://kazing.fun:80/896279827795/572665170784/827866.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S08
+http://kazing.fun:80/896279827795/572665170784/827867.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S09
+http://kazing.fun:80/896279827795/572665170784/827881.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S10
+http://kazing.fun:80/896279827795/572665170784/827882.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S11
+http://kazing.fun:80/896279827795/572665170784/827883.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Dois Homens e Meio S12
+http://kazing.fun:80/896279827795/572665170784/827887.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",BabyShark
+http://kazing.fun:80/896279827795/572665170784/828548.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S01
+http://kazing.fun:80/896279827795/572665170784/828550.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S02
+http://kazing.fun:80/896279827795/572665170784/828551.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S03
+http://kazing.fun:80/896279827795/572665170784/828552.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S01
+http://kazing.fun:80/896279827795/572665170784/829299.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S02
+http://kazing.fun:80/896279827795/572665170784/829300.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S03
+http://kazing.fun:80/896279827795/572665170784/829301.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S04
+http://kazing.fun:80/896279827795/572665170784/829302.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S05
+http://kazing.fun:80/896279827795/572665170784/829303.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S06
+http://kazing.fun:80/896279827795/572665170784/829304.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S07
+http://kazing.fun:80/896279827795/572665170784/829305.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S08
+http://kazing.fun:80/896279827795/572665170784/829306.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Patrulha Canina S09
+http://kazing.fun:80/896279827795/572665170784/829307.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pica-Pau(2018) S01
+http://kazing.fun:80/896279827795/572665170784/829314.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pica-Pau(2018) S02
+http://kazing.fun:80/896279827795/572665170784/829315.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pica-Pau(2018) S03
+http://kazing.fun:80/896279827795/572665170784/829316.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Novo Pica-Pau S01
+http://kazing.fun:80/896279827795/572665170784/829317.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Novo Pica-Pau S02
+http://kazing.fun:80/896279827795/572665170784/829318.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Novo Pica-Pau S03
+http://kazing.fun:80/896279827795/572665170784/829319.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Novo Pica-Pau S04
+http://kazing.fun:80/896279827795/572665170784/829320.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S01
+http://kazing.fun:80/896279827795/572665170784/829339.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S02
+http://kazing.fun:80/896279827795/572665170784/829340.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S03
+http://kazing.fun:80/896279827795/572665170784/829349.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S04
+http://kazing.fun:80/896279827795/572665170784/829351.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S05
+http://kazing.fun:80/896279827795/572665170784/829352.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S06
+http://kazing.fun:80/896279827795/572665170784/829357.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Clube das Winx S07
+http://kazing.fun:80/896279827795/572665170784/829358.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",X-Men Evolution S01
+http://kazing.fun:80/896279827795/572665170784/829449.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",X-Men Evolution S02
+http://kazing.fun:80/896279827795/572665170784/829450.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",X-Men Evolution S03
+http://kazing.fun:80/896279827795/572665170784/829451.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",X-Men Evolution S04
+http://kazing.fun:80/896279827795/572665170784/829452.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S01
+http://kazing.fun:80/896279827795/572665170784/829453.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S02
+http://kazing.fun:80/896279827795/572665170784/829454.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S03
+http://kazing.fun:80/896279827795/572665170784/829455.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S04
+http://kazing.fun:80/896279827795/572665170784/829456.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S05
+http://kazing.fun:80/896279827795/572665170784/829457.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S06
+http://kazing.fun:80/896279827795/572665170784/829458.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Três Espiãs Demais! S07
+http://kazing.fun:80/896279827795/572665170784/829459.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video",Prime Video 04²
+http://kazing.fun:80/896279827795/572665170784/829587.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",TV Metropole HD
+http://kazing.fun:80/896279827795/572665170784/829588.ts
+#EXTINF:-1 group-title="♦️Canais | Filmes e Séries",DreamWorks
+http://kazing.fun:80/896279827795/572665170784/829589.ts
+#EXTINF:-1 group-title="♦️Canais | 4K",SporTV 60 FPS 4K
+http://kazing.fun:80/896279827795/572665170784/829590.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Trato Feito 1
+http://kazing.fun:80/896279827795/572665170784/829591.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Trato Feito 2
+http://kazing.fun:80/896279827795/572665170784/829592.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",SuperShock S01
+http://kazing.fun:80/896279827795/572665170784/829593.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",SuperShock S02
+http://kazing.fun:80/896279827795/572665170784/829594.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",SuperShock S03
+http://kazing.fun:80/896279827795/572665170784/829595.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",SuperShock S04
+http://kazing.fun:80/896279827795/572665170784/829596.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Mazzaropi 1
+http://kazing.fun:80/896279827795/572665170784/829734.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Mazzaropi 2
+http://kazing.fun:80/896279827795/572665170784/829735.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S01
+http://kazing.fun:80/896279827795/572665170784/829736.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S02
+http://kazing.fun:80/896279827795/572665170784/829737.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S03
+http://kazing.fun:80/896279827795/572665170784/829738.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S04
+http://kazing.fun:80/896279827795/572665170784/829739.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S05
+http://kazing.fun:80/896279827795/572665170784/829740.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S06
+http://kazing.fun:80/896279827795/572665170784/829741.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S07
+http://kazing.fun:80/896279827795/572665170784/829742.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S08
+http://kazing.fun:80/896279827795/572665170784/829743.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S09
+http://kazing.fun:80/896279827795/572665170784/829744.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S10
+http://kazing.fun:80/896279827795/572665170784/829745.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S11
+http://kazing.fun:80/896279827795/572665170784/829746.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S12
+http://kazing.fun:80/896279827795/572665170784/829747.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S13
+http://kazing.fun:80/896279827795/572665170784/829748.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S14
+http://kazing.fun:80/896279827795/572665170784/829749.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S15
+http://kazing.fun:80/896279827795/572665170784/829750.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S16
+http://kazing.fun:80/896279827795/572665170784/829751.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S17
+http://kazing.fun:80/896279827795/572665170784/829752.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S18
+http://kazing.fun:80/896279827795/572665170784/829753.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S19
+http://kazing.fun:80/896279827795/572665170784/829754.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S20
+http://kazing.fun:80/896279827795/572665170784/829755.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S21
+http://kazing.fun:80/896279827795/572665170784/829756.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S22
+http://kazing.fun:80/896279827795/572665170784/829757.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S23
+http://kazing.fun:80/896279827795/572665170784/829758.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S24
+http://kazing.fun:80/896279827795/572665170784/829759.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pokemon S25
+http://kazing.fun:80/896279827795/572665170784/829760.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Escolinha do Professor Raimundo - Nova Geração 1
+http://kazing.fun:80/896279827795/572665170784/829777.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Escolinha do Professor Raimundo - Nova Geração 2
+http://kazing.fun:80/896279827795/572665170784/829778.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S01
+http://kazing.fun:80/896279827795/572665170784/829779.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S02
+http://kazing.fun:80/896279827795/572665170784/829780.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 01
+http://kazing.fun:80/896279827795/572665170784/2295647.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 02
+http://kazing.fun:80/896279827795/572665170784/2295648.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 03
+http://kazing.fun:80/896279827795/572665170784/2295658.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 04
+http://kazing.fun:80/896279827795/572665170784/2295673.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 05
+http://kazing.fun:80/896279827795/572665170784/2295685.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 06
+http://kazing.fun:80/896279827795/572665170784/2295695.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 07
+http://kazing.fun:80/896279827795/572665170784/2295705.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 08
+http://kazing.fun:80/896279827795/572665170784/2295715.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 09
+http://kazing.fun:80/896279827795/572665170784/2295726.ts
+#EXTINF:-1 group-title="♦️Canais | CineSky",Cine SKY 10
+http://kazing.fun:80/896279827795/572665170784/2295737.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Playboy
+http://kazing.fun:80/896279827795/572665170784/2325878.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Sex Prive
+http://kazing.fun:80/896279827795/572665170784/2325887.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Sextreme
+http://kazing.fun:80/896279827795/572665170784/2325898.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Sexy Hot
+http://kazing.fun:80/896279827795/572665170784/2325908.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Venus
+http://kazing.fun:80/896279827795/572665170784/2325918.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Hardcore Erotic TV Online
+http://kazing.fun:80/896279827795/572665170784/2325996.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Hardcore Web Tv
+http://kazing.fun:80/896279827795/572665170784/2326006.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Hardcore Videos Non Stop
+http://kazing.fun:80/896279827795/572665170784/2326017.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Online POV
+http://kazing.fun:80/896279827795/572665170784/2326028.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Online Pornstar
+http://kazing.fun:80/896279827795/572665170784/2326038.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Online Milfs
+http://kazing.fun:80/896279827795/572665170784/2326049.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Live Cams
+http://kazing.fun:80/896279827795/572665170784/2326059.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Online Lesbian
+http://kazing.fun:80/896279827795/572665170784/2326070.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Online Latina
+http://kazing.fun:80/896279827795/572665170784/2326080.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult TV Online Interracial
+http://kazing.fun:80/896279827795/572665170784/2326090.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Live Adult TV Hardcore
+http://kazing.fun:80/896279827795/572665170784/2326101.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult IPTV Brunette
+http://kazing.fun:80/896279827795/572665170784/2326110.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",Adult IPTV Sexy Blondes
+http://kazing.fun:80/896279827795/572665170784/2326121.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Aparecida FHD
+http://kazing.fun:80/896279827795/572665170784/2525198.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Aparecida HD
+http://kazing.fun:80/896279827795/572665170784/2525199.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Aparecida SD
+http://kazing.fun:80/896279827795/572665170784/2525200.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Pai Eterno FHD
+http://kazing.fun:80/896279827795/572665170784/2525201.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Pai Eterno HD
+http://kazing.fun:80/896279827795/572665170784/2525202.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Pai Eterno SD
+http://kazing.fun:80/896279827795/572665170784/2525203.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Novo Tempo FHD
+http://kazing.fun:80/896279827795/572665170784/2525204.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Novo Tempo HD
+http://kazing.fun:80/896279827795/572665170784/2525205.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Novo Tempo SD
+http://kazing.fun:80/896279827795/572665170784/2525206.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Evangelizar FHD
+http://kazing.fun:80/896279827795/572665170784/2525207.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Evangelizar HD
+http://kazing.fun:80/896279827795/572665170784/2525208.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Evangelizar SD
+http://kazing.fun:80/896279827795/572665170784/2525209.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Canção Nova FHD
+http://kazing.fun:80/896279827795/572665170784/2525210.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Canção Nova HD
+http://kazing.fun:80/896279827795/572665170784/2525211.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",Canção Nova SD
+http://kazing.fun:80/896279827795/572665170784/2525212.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes Ação
+http://kazing.fun:80/896279827795/572665170784/2525213.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes AnimaÃ§Ã£o Infantil
+http://kazing.fun:80/896279827795/572665170784/2525214.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes Comédia
+http://kazing.fun:80/896279827795/572665170784/2525215.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes Drama
+http://kazing.fun:80/896279827795/572665170784/2525216.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes Romance
+http://kazing.fun:80/896279827795/572665170784/2525217.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes Suspense
+http://kazing.fun:80/896279827795/572665170784/2525218.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Filmes",24H Filmes Lancamentos
+http://kazing.fun:80/896279827795/572665170784/2525219.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S03
+http://kazing.fun:80/896279827795/572665170784/2526219.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S04
+http://kazing.fun:80/896279827795/572665170784/2526220.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S05
+http://kazing.fun:80/896279827795/572665170784/2526221.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S06
+http://kazing.fun:80/896279827795/572665170784/2526222.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S07
+http://kazing.fun:80/896279827795/572665170784/2526223.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S08
+http://kazing.fun:80/896279827795/572665170784/2526224.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S09
+http://kazing.fun:80/896279827795/572665170784/2526225.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Smallville - As Aventuras do Superboy S10
+http://kazing.fun:80/896279827795/572665170784/2526226.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As Aventuras de Jackie Chan S01
+http://kazing.fun:80/896279827795/572665170784/2526228.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As Aventuras de Jackie Chan S02
+http://kazing.fun:80/896279827795/572665170784/2526230.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As Aventuras de Jackie Chan S03
+http://kazing.fun:80/896279827795/572665170784/2526231.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As Aventuras de Jackie Chan S04
+http://kazing.fun:80/896279827795/572665170784/2526232.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",As Aventuras de Jackie Chan S05
+http://kazing.fun:80/896279827795/572665170784/2526233.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S01
+http://kazing.fun:80/896279827795/572665170784/2526234.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S02
+http://kazing.fun:80/896279827795/572665170784/2526235.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S03
+http://kazing.fun:80/896279827795/572665170784/2526236.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S04
+http://kazing.fun:80/896279827795/572665170784/2526237.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S05
+http://kazing.fun:80/896279827795/572665170784/2526238.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S06
+http://kazing.fun:80/896279827795/572665170784/2526239.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S07
+http://kazing.fun:80/896279827795/572665170784/2526240.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S08
+http://kazing.fun:80/896279827795/572665170784/2526241.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S09
+http://kazing.fun:80/896279827795/572665170784/2526242.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S10
+http://kazing.fun:80/896279827795/572665170784/2526243.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S11
+http://kazing.fun:80/896279827795/572665170784/2526244.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S12
+http://kazing.fun:80/896279827795/572665170784/2526245.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S13
+http://kazing.fun:80/896279827795/572665170784/2526246.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S14
+http://kazing.fun:80/896279827795/572665170784/2526247.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Bob Esponja Calca Quadrada S15
+http://kazing.fun:80/896279827795/572665170784/2526248.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Hentai 01
+http://kazing.fun:80/896279827795/572665170784/2527209.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",COMBATE FHD²
+http://kazing.fun:80/896279827795/572665170784/2527477.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",COMBATE HD²
+http://kazing.fun:80/896279827795/572665170784/2527478.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE",Combate SD²
+http://kazing.fun:80/896279827795/572665170784/2527479.ts
+#EXTINF:-1 group-title="♦️Canais | Rádio",Rádio FM O Dia 100.5
+http://kazing.fun:80/896279827795/572665170784/2527480.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 1 FHD²
+http://kazing.fun:80/896279827795/572665170784/2528473.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 1 HD²
+http://kazing.fun:80/896279827795/572665170784/2528474.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 1 SD²
+http://kazing.fun:80/896279827795/572665170784/2528475.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 2 FHD²
+http://kazing.fun:80/896279827795/572665170784/2528476.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 2 HD²
+http://kazing.fun:80/896279827795/572665170784/2528477.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 2 SD²
+http://kazing.fun:80/896279827795/572665170784/2528478.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 3 FHD²
+http://kazing.fun:80/896279827795/572665170784/2528479.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 3 HD²
+http://kazing.fun:80/896279827795/572665170784/2528480.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 3 SD²
+http://kazing.fun:80/896279827795/572665170784/2528481.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 4 FHD²
+http://kazing.fun:80/896279827795/572665170784/2528482.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 4 HD²
+http://kazing.fun:80/896279827795/572665170784/2528483.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 4 SD²
+http://kazing.fun:80/896279827795/572665170784/2528484.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 5 FHD²
+http://kazing.fun:80/896279827795/572665170784/2528485.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 5 HD²
+http://kazing.fun:80/896279827795/572665170784/2528486.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 5 SD²
+http://kazing.fun:80/896279827795/572665170784/2528487.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 6 FHD²
+http://kazing.fun:80/896279827795/572665170784/2528488.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 6 HD²
+http://kazing.fun:80/896279827795/572665170784/2528489.ts
+#EXTINF:-1 group-title="♦️Canais | ESPN",ESPN 6 SD²
+http://kazing.fun:80/896279827795/572665170784/2528490.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Hentai 02
+http://kazing.fun:80/896279827795/572665170784/2528504.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Hentai 03
+http://kazing.fun:80/896279827795/572665170784/2528505.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Hentai 04
+http://kazing.fun:80/896279827795/572665170784/2528509.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Hentai 05
+http://kazing.fun:80/896279827795/572665170784/2528510.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 01
+http://kazing.fun:80/896279827795/572665170784/2528801.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 02
+http://kazing.fun:80/896279827795/572665170784/2528802.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 03
+http://kazing.fun:80/896279827795/572665170784/2528803.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 04
+http://kazing.fun:80/896279827795/572665170784/2528804.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 05
+http://kazing.fun:80/896279827795/572665170784/2528805.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 06
+http://kazing.fun:80/896279827795/572665170784/2528806.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 07
+http://kazing.fun:80/896279827795/572665170784/2528807.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Musicas",24H Sertanejo
+http://kazing.fun:80/896279827795/572665170784/2531018.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 1 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531465.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 1 HD²
+http://kazing.fun:80/896279827795/572665170784/2531466.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 1 SD²
+http://kazing.fun:80/896279827795/572665170784/2531467.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 2 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531468.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 2 HD²
+http://kazing.fun:80/896279827795/572665170784/2531469.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 2 SD²
+http://kazing.fun:80/896279827795/572665170784/2531470.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 3 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531471.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 3 HD²
+http://kazing.fun:80/896279827795/572665170784/2531472.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 3 SD²
+http://kazing.fun:80/896279827795/572665170784/2531473.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 4 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531474.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 4 HD²
+http://kazing.fun:80/896279827795/572665170784/2531475.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 4 SD²
+http://kazing.fun:80/896279827795/572665170784/2531476.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 5 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531477.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 5 HD²
+http://kazing.fun:80/896279827795/572665170784/2531478.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 5 SD²
+http://kazing.fun:80/896279827795/572665170784/2531479.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 6 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531480.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 6 HD²
+http://kazing.fun:80/896279827795/572665170784/2531481.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 6 SD²
+http://kazing.fun:80/896279827795/572665170784/2531482.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 7 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531483.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 7 HD²
+http://kazing.fun:80/896279827795/572665170784/2531484.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 7 SD²
+http://kazing.fun:80/896279827795/572665170784/2531485.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 8 FHD²
+http://kazing.fun:80/896279827795/572665170784/2531486.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 8 HD²
+http://kazing.fun:80/896279827795/572665170784/2531487.ts
+#EXTINF:-1 group-title="♦️Canais | Premiere²",Premiere 8 SD²
+http://kazing.fun:80/896279827795/572665170784/2531488.ts
+#EXTINF:-1 group-title="♦️Canais | Notícias",C3 TV
+http://kazing.fun:80/896279827795/572665170784/2545918.ts
+#EXTINF:-1 group-title="♦️Canais | Infantis",Box Kids TV
+http://kazing.fun:80/896279827795/572665170784/2546497.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",Globo RBS Porto Alegre FHD
+http://kazing.fun:80/896279827795/572665170784/2547870.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",Globo RBS Porto Alegre HD
+http://kazing.fun:80/896279827795/572665170784/2547871.ts
+#EXTINF:-1 group-title="♦️Canais | Globos Regionais",Globo RBS Porto Alegre SD
+http://kazing.fun:80/896279827795/572665170784/2547872.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Brasileirão Série D 01
+http://kazing.fun:80/896279827795/572665170784/2547873.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Brasileirão Série D 02
+http://kazing.fun:80/896279827795/572665170784/2547874.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Brasileirão Série D 03
+http://kazing.fun:80/896279827795/572665170784/2547875.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Brasileirão Série D 04
+http://kazing.fun:80/896279827795/572665170784/2547876.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Brasileirão Série D 05
+http://kazing.fun:80/896279827795/572665170784/2547877.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",X Sports HD
+http://kazing.fun:80/896279827795/572665170784/2547878.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",X Sports FHD
+http://kazing.fun:80/896279827795/572665170784/2547879.ts
+#EXTINF:-1 group-title="♦️Canais | Abertos",Retrô Cartoon
+http://kazing.fun:80/896279827795/572665170784/2549706.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 1²
+http://kazing.fun:80/896279827795/572665170784/2550192.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 2²
+http://kazing.fun:80/896279827795/572665170784/2550193.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 3²
+http://kazing.fun:80/896279827795/572665170784/2550194.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +",Paramount+ 4²
+http://kazing.fun:80/896279827795/572665170784/2550195.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX As brasileirinhas 08
+http://kazing.fun:80/896279827795/572665170784/2550327.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Amador 01
+http://kazing.fun:80/896279827795/572665170784/2550328.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Brazzers 01
+http://kazing.fun:80/896279827795/572665170784/2550329.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Musicas",24H Eletronica
+http://kazing.fun:80/896279827795/572665170784/2550524.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Musicas",24H Rock
+http://kazing.fun:80/896279827795/572665170784/2550526.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Show de Tom e Jerry S01
+http://kazing.fun:80/896279827795/572665170784/2551092.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Show de Tom e Jerry S02
+http://kazing.fun:80/896279827795/572665170784/2551093.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Show de Tom e Jerry S03
+http://kazing.fun:80/896279827795/572665170784/2551094.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Show de Tom e Jerry S04
+http://kazing.fun:80/896279827795/572665170784/2551095.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",O Show de Tom e Jerry S05
+http://kazing.fun:80/896279827795/572665170784/2551096.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Tom e Jerry Era Hanna Barbera 1975
+http://kazing.fun:80/896279827795/572665170784/2551097.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Os Ursinhos Carinhos 1985
+http://kazing.fun:80/896279827795/572665170784/2551108.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",MasterChef Júnior S01
+http://kazing.fun:80/896279827795/572665170784/2551109.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",MasterChef Júnior S02
+http://kazing.fun:80/896279827795/572665170784/2551110.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pocoyo S01
+http://kazing.fun:80/896279827795/572665170784/2551111.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pocoyo S02
+http://kazing.fun:80/896279827795/572665170784/2551112.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pocoyo S03
+http://kazing.fun:80/896279827795/572665170784/2551113.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pocoyo S04
+http://kazing.fun:80/896279827795/572665170784/2551114.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",As Visões da Raven S01
+http://kazing.fun:80/896279827795/572665170784/2551116.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",As Visões da Raven S02
+http://kazing.fun:80/896279827795/572665170784/2551117.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",As Visões da Raven S03
+http://kazing.fun:80/896279827795/572665170784/2551118.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",As Visões da Raven S04
+http://kazing.fun:80/896279827795/572665170784/2551119.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Baby Looney Tunes
+http://kazing.fun:80/896279827795/572665170784/2551120.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Um Maluco no Pedaço S01
+http://kazing.fun:80/896279827795/572665170784/2551121.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Um Maluco no Pedaço S02
+http://kazing.fun:80/896279827795/572665170784/2551122.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Um Maluco no Pedaço S03
+http://kazing.fun:80/896279827795/572665170784/2551123.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Um Maluco no Pedaço S04
+http://kazing.fun:80/896279827795/572665170784/2551124.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Um Maluco no Pedaço S05
+http://kazing.fun:80/896279827795/572665170784/2551125.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Seriados",Um Maluco no Pedaço S06
+http://kazing.fun:80/896279827795/572665170784/2551126.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Musicas",24H Flashback
+http://kazing.fun:80/896279827795/572665170784/2551127.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",NFL TV
+http://kazing.fun:80/896279827795/572665170784/2586196.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV FHD
+http://kazing.fun:80/896279827795/572665170784/2587978.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV HD
+http://kazing.fun:80/896279827795/572665170784/2587979.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV SD
+http://kazing.fun:80/896279827795/572665170784/2587980.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 2 FHD
+http://kazing.fun:80/896279827795/572665170784/2587981.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 2 HD
+http://kazing.fun:80/896279827795/572665170784/2587982.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 2 SD
+http://kazing.fun:80/896279827795/572665170784/2587983.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 3 FHD
+http://kazing.fun:80/896279827795/572665170784/2587984.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 3 HD
+http://kazing.fun:80/896279827795/572665170784/2587985.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 3 SD
+http://kazing.fun:80/896279827795/572665170784/2587986.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 4 FHD
+http://kazing.fun:80/896279827795/572665170784/2587987.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 4 HD
+http://kazing.fun:80/896279827795/572665170784/2587988.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 4 SD
+http://kazing.fun:80/896279827795/572665170784/2587989.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",Sportv 5 Extra
+http://kazing.fun:80/896279827795/572665170784/2587990.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",Sportv 6 Extra
+http://kazing.fun:80/896279827795/572665170784/2587991.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",Sportv 7 Extra
+http://kazing.fun:80/896279827795/572665170784/2587992.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV FHD²
+http://kazing.fun:80/896279827795/572665170784/2587993.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV HD²
+http://kazing.fun:80/896279827795/572665170784/2587994.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV SD²
+http://kazing.fun:80/896279827795/572665170784/2587995.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 2 FHD²
+http://kazing.fun:80/896279827795/572665170784/2587996.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 2 HD²
+http://kazing.fun:80/896279827795/572665170784/2587997.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 2 SD²
+http://kazing.fun:80/896279827795/572665170784/2587998.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 3 FHD²
+http://kazing.fun:80/896279827795/572665170784/2587999.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 3 HD²
+http://kazing.fun:80/896279827795/572665170784/2588000.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 3 SD²
+http://kazing.fun:80/896279827795/572665170784/2588001.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 4 FHD²
+http://kazing.fun:80/896279827795/572665170784/2588002.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 4 HD²
+http://kazing.fun:80/896279827795/572665170784/2588003.ts
+#EXTINF:-1 group-title="♦️Canais | SporTV",SporTV 4 SD²
+http://kazing.fun:80/896279827795/572665170784/2588004.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Vazados 01
+http://kazing.fun:80/896279827795/572665170784/2588005.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Lesbicas 01
+http://kazing.fun:80/896279827795/572665170784/2589771.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX LegalPorn 01
+http://kazing.fun:80/896279827795/572665170784/2594929.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX LegalPorn 02
+http://kazing.fun:80/896279827795/572665170784/2594930.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX LegalPorn 03
+http://kazing.fun:80/896279827795/572665170784/2594934.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX PornHard 01
+http://kazing.fun:80/896279827795/572665170784/2594935.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX PornHard 02
+http://kazing.fun:80/896279827795/572665170784/2595881.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX PornHub 01
+http://kazing.fun:80/896279827795/572665170784/2595882.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX Porntube 01
+http://kazing.fun:80/896279827795/572665170784/2595883.ts
+#EXTINF:-1 group-title="♦️Canais | XXX Adultos",XXX XVideos 01
+http://kazing.fun:80/896279827795/572665170784/2595884.ts
+#EXTINF:-1 group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 01
+http://kazing.fun:80/896279827795/572665170784/2602063.ts
+#EXTINF:-1 group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 02
+http://kazing.fun:80/896279827795/572665170784/2602064.ts
+#EXTINF:-1 group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 03
+http://kazing.fun:80/896279827795/572665170784/2602065.ts
+#EXTINF:-1 group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 04
+http://kazing.fun:80/896279827795/572665170784/2602066.ts
+#EXTINF:-1 group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 05
+http://kazing.fun:80/896279827795/572665170784/2602067.ts
+#EXTINF:-1 group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 06
+http://kazing.fun:80/896279827795/572665170784/2602068.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Thundercats 1985 S01
+http://kazing.fun:80/896279827795/572665170784/2606993.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Thundercats 1985 S02
+http://kazing.fun:80/896279827795/572665170784/2606994.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Thundercats 1985 S03
+http://kazing.fun:80/896279827795/572665170784/2606995.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Thundercats 1985 S04
+http://kazing.fun:80/896279827795/572665170784/2606996.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Thundercats
+http://kazing.fun:80/896279827795/572665170784/2606997.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Thundercats Roar
+http://kazing.fun:80/896279827795/572665170784/2606998.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Capitão Caverna e as Panterinhas
+http://kazing.fun:80/896279827795/572665170784/2607836.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Caverna do Dragão S01
+http://kazing.fun:80/896279827795/572665170784/2607837.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Caverna do Dragão S02
+http://kazing.fun:80/896279827795/572665170784/2607838.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Caverna do Dragão S03
+http://kazing.fun:80/896279827795/572665170784/2607839.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Pinky e o Cérebro
+http://kazing.fun:80/896279827795/572665170784/2607845.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Teletubbies
+http://kazing.fun:80/896279827795/572665170784/2608928.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Yu-Gi-Oh!
+http://kazing.fun:80/896279827795/572665170784/2609380.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Yu-Gi-Oh! GX
+http://kazing.fun:80/896279827795/572665170784/2609381.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Yu Gi Oh Duel Monsters 2000
+http://kazing.fun:80/896279827795/572665170784/2609382.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Yu Gi Oh 5Ds 2008
+http://kazing.fun:80/896279827795/572665170784/2609383.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Yu Gi Oh VRAINS 2017
+http://kazing.fun:80/896279827795/572665170784/2609384.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Mr. Olympia 01
+http://kazing.fun:80/896279827795/572665170784/2744383.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",Mr. Olympia 02
+http://kazing.fun:80/896279827795/572665170784/2744384.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Hi Hi Puffy AmiYumi S01
+http://kazing.fun:80/896279827795/572665170784/2916771.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Hi Hi Puffy AmiYumi S02
+http://kazing.fun:80/896279827795/572665170784/2918948.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Hi Hi Puffy AmiYumi S03
+http://kazing.fun:80/896279827795/572665170784/2920474.ts
+#EXTINF:-1 group-title="♦️Canais | Record",Record MG SD
+http://kazing.fun:80/896279827795/572665170784/3392211.ts
+#EXTINF:-1 group-title="♦️Canais | Record",Record MG HD
+http://kazing.fun:80/896279827795/572665170784/3392212.ts
+#EXTINF:-1 group-title="♦️Canais | Record",Record MG FHD
+http://kazing.fun:80/896279827795/572665170784/3392213.ts
+#EXTINF:-1 group-title="♦️Canais | Esportes",GE TV
+http://kazing.fun:80/896279827795/572665170784/3653622.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 04²
+http://kazing.fun:80/896279827795/572665170784/3725212.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney +05²
+http://kazing.fun:80/896279827795/572665170784/3725213.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 06²
+http://kazing.fun:80/896279827795/572665170784/3725214.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 07²
+http://kazing.fun:80/896279827795/572665170784/3725215.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 08²
+http://kazing.fun:80/896279827795/572665170784/3725216.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 09²
+http://kazing.fun:80/896279827795/572665170784/3725217.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+",Disney+ 10²
+http://kazing.fun:80/896279827795/572665170784/3725219.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Padre Cícero FHD
+http://kazing.fun:80/896279827795/572665170784/3725220.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Padre Cícero HD
+http://kazing.fun:80/896279827795/572665170784/3725221.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Padre Cícero SD
+http://kazing.fun:80/896279827795/572665170784/3725222.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Plenitude FHD
+http://kazing.fun:80/896279827795/572665170784/3725223.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Plenitude HD
+http://kazing.fun:80/896279827795/572665170784/3725224.ts
+#EXTINF:-1 group-title="♦️Canais | Religiosos",TV Plenitude SD
+http://kazing.fun:80/896279827795/572665170784/3725225.ts
+#EXTINF:-1 group-title="♦️AREA DO CLIENTE♦️",Filmes Lançamentos da Semana
+http://kazing.fun:80/896279827795/572665170784/4019393.ts
+#EXTINF:-1 group-title="♦️AREA DO CLIENTE♦️",Séries Lançamentos da Semana
+http://kazing.fun:80/896279827795/572665170784/4019394.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S01
+http://kazing.fun:80/896279827795/572665170784/4022137.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S02
+http://kazing.fun:80/896279827795/572665170784/4022138.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S03
+http://kazing.fun:80/896279827795/572665170784/4022139.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S04
+http://kazing.fun:80/896279827795/572665170784/4022146.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S05
+http://kazing.fun:80/896279827795/572665170784/4022147.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S06
+http://kazing.fun:80/896279827795/572665170784/4022148.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S07
+http://kazing.fun:80/896279827795/572665170784/4022149.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S08
+http://kazing.fun:80/896279827795/572665170784/4022150.ts
+#EXTINF:-1 group-title="♦️Canais | 24H Animes&Desenhos",Peppa Pig S09
+http://kazing.fun:80/896279827795/572665170784/4022151.ts
+#EXTINF:-1 group-title="⚽ JOGOS DO DIA",Atlético-MG x Flamengo 21:30 (1)
+http://kazing.fun:80/896279827795/572665170784/4022475.ts
+#EXTINF:-1 group-title="⚽ JOGOS DO DIA",Atlético-MG x Flamengo 21:30 (2)
+http://kazing.fun:80/896279827795/572665170784/4022476.ts
+#EXTINF:-1 group-title="⚽ JOGOS DO DIA",Grêmio x Palmeiras 21:30 (1)
+http://kazing.fun:80/896279827795/572665170784/4022477.ts
+#EXTINF:-1 group-title="⚽ JOGOS DO DIA",Grêmio x Palmeiras 21:30 (2)
+http://kazing.fun:80/896279827795/572665170784/4022478.ts
+#EXTINF:-1 group-title="⚽ JOGOS DO DIA",Al-Hilal x Al-Shorta 15:15 (1)
+http://kazing.fun:80/896279827795/572665170784/4022479.ts
+#EXTINF:-1 group-title="⚽ JOGOS DO DIA",Al-Hilal x Al-Shorta 15:15 (2)
+http://kazing.fun:80/896279827795/572665170784/4022480.ts
