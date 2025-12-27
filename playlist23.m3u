@@ -1,1261 +1,763 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-
-#EXTINF:-1 group-title="Canais 24hrs",A Guarda do Leão 24H
-http://dnscine.top:80/419735964/798841240/202282.ts
-#EXTINF:-1 group-title="Canais 24hrs",A Turma do Pateta 24H
-http://dnscine.top:80/419735964/798841240/202290.ts
-#EXTINF:-1 group-title="Filmes e Series",A&E FHD
-http://dnscine.top:80/419735964/798841240/1.ts
-#EXTINF:-1 group-title="Filmes e Series",A&E FHD [H264]
-http://dnscine.top:80/419735964/798841240/733.ts
-#EXTINF:-1 group-title="Filmes e Series",A&E HD
-http://dnscine.top:80/419735964/798841240/2.ts
-#EXTINF:-1 group-title="Filmes e Series",A&E SD
-http://dnscine.top:80/419735964/798841240/522.ts
-#EXTINF:-1,AGRO BRASIL HD
-http://dnscine.top:80/419735964/798841240/232.ts
-#EXTINF:-1 group-title="Prime",Amazon Prime Video
-http://dnscine.top:80/419735964/798841240/202341.ts
-#EXTINF:-1 group-title="Prime",Amazon Prime Video 2
-http://dnscine.top:80/419735964/798841240/202342.ts
-#EXTINF:-1 group-title="Prime",Amazon Prime Video 3
-http://dnscine.top:80/419735964/798841240/202343.ts
-#EXTINF:-1 group-title="Prime",Amazon Prime Video 4
-http://dnscine.top:80/419735964/798841240/202344.ts
-#EXTINF:-1 group-title="Filmes e Series",AMC FHD
-http://dnscine.top:80/419735964/798841240/3.ts
-#EXTINF:-1 group-title="Filmes e Series",AMC FHD [H264]
-http://dnscine.top:80/419735964/798841240/793.ts
-#EXTINF:-1 group-title="Filmes e Series",AMC HD
-http://dnscine.top:80/419735964/798841240/197.ts
-#EXTINF:-1 group-title="Filmes e Series",AMC SD
-http://dnscine.top:80/419735964/798841240/624.ts
-#EXTINF:-1 group-title="Animal Planet",Animal Planet FHD
-http://dnscine.top:80/419735964/798841240/4.ts
-#EXTINF:-1 group-title="Animal Planet",Animal Planet FHD [H264]
-http://dnscine.top:80/419735964/798841240/380.ts
-#EXTINF:-1 group-title="Animal Planet",Animal Planet HD
-http://dnscine.top:80/419735964/798841240/5.ts
-#EXTINF:-1 group-title="Animal Planet",Animal Planet SD
-http://dnscine.top:80/419735964/798841240/626.ts
-#EXTINF:-1 group-title="Canais 24hrs",Anos Incríveis 24H
-http://dnscine.top:80/419735964/798841240/202267.ts
-#EXTINF:-1 group-title="Esportes",APPLE TV HD
-http://dnscine.top:80/419735964/798841240/410.ts
-#EXTINF:-1,ARTE 1 SD
-http://dnscine.top:80/419735964/798841240/532.ts
-#EXTINF:-1 group-title="Canais 24hrs",As Meninas Super Poderosas 24H
-http://dnscine.top:80/419735964/798841240/202281.ts
-#EXTINF:-1 group-title="Canais 24hrs",As Visões da Raven 24H
-http://dnscine.top:80/419735964/798841240/202253.ts
-#EXTINF:-1 group-title="Filmes e Series",AXN FHD
-http://dnscine.top:80/419735964/798841240/6.ts
-#EXTINF:-1 group-title="Filmes e Series",AXN FHD [H264]
-http://dnscine.top:80/419735964/798841240/734.ts
-#EXTINF:-1 group-title="Filmes e Series",AXN HD
-http://dnscine.top:80/419735964/798841240/7.ts
-#EXTINF:-1 group-title="Filmes e Series",AXN SD
-http://dnscine.top:80/419735964/798841240/625.ts
-#EXTINF:-1 group-title="Canais 24hrs",Baby Looney Tunes 24H
-http://dnscine.top:80/419735964/798841240/305883.ts
-#EXTINF:-1 group-title="Canais Band",BAND MG FHD
-http://dnscine.top:80/419735964/798841240/217.ts
-#EXTINF:-1 group-title="Canais Band",BAND MG HD
-http://dnscine.top:80/419735964/798841240/325.ts
-#EXTINF:-1 group-title="Canais Notícias",BAND NEWS FHD
-http://dnscine.top:80/419735964/798841240/11.ts
-#EXTINF:-1 group-title="Canais Notícias",BAND NEWS FHD [H264]
-http://dnscine.top:80/419735964/798841240/379.ts
-#EXTINF:-1 group-title="Canais Notícias",BAND NEWS HD
-http://dnscine.top:80/419735964/798841240/12.ts
-#EXTINF:-1 group-title="Canais Notícias",BAND NEWS SD
-http://dnscine.top:80/419735964/798841240/628.ts
-#EXTINF:-1 group-title="Esportes",BAND SPORTS 4K
-http://dnscine.top:80/419735964/798841240/357.ts
-#EXTINF:-1 group-title="Esportes",Band Sports FHD
-http://dnscine.top:80/419735964/798841240/10.ts
-#EXTINF:-1 group-title="Esportes",Band Sports HD
-http://dnscine.top:80/419735964/798841240/318.ts
-#EXTINF:-1 group-title="Esportes",BAND SPORTS SD
-http://dnscine.top:80/419735964/798841240/629.ts
-#EXTINF:-1 group-title="Esportes",BANDSPORTS FHD H264
-http://dnscine.top:80/419735964/798841240/735.ts
-#EXTINF:-1,Banner
-http://dnscine.top:80/419735964/798841240/346.ts
-#EXTINF:-1,BANNER-CARIOCA
-http://dnscine.top:80/419735964/798841240/393.ts
-#EXTINF:-1 group-title="Canais 24hrs",Ben 10  24H
-http://dnscine.top:80/419735964/798841240/202293.ts
-#EXTINF:-1,BIS HD
-http://dnscine.top:80/419735964/798841240/13.ts
-#EXTINF:-1,BIS SD
-http://dnscine.top:80/419735964/798841240/627.ts
-#EXTINF:-1,BISS FHD
-http://dnscine.top:80/419735964/798841240/214.ts
-#EXTINF:-1 group-title="Canais 24hrs",Black Kamen Rider 24H
-http://dnscine.top:80/419735964/798841240/202317.ts
-#EXTINF:-1 group-title="Infantis",BLOOMBERG TV HD
-http://dnscine.top:80/419735964/798841240/230.ts
-#EXTINF:-1 group-title="Canais 24hrs",Bob Esponja 24H
-http://dnscine.top:80/419735964/798841240/202309.ts
-#EXTINF:-1 group-title="Infantis",BOOMERANG SD
-http://dnscine.top:80/419735964/798841240/529.ts
-#EXTINF:-1 group-title="Esportes",BRTVMAX HD
-http://dnscine.top:80/419735964/798841240/437.ts
-#EXTINF:-1 group-title="Esportes",CAMPEONATO CARIOCA 01
-http://dnscine.top:80/419735964/798841240/394.ts
-#EXTINF:-1 group-title="Esportes",CAMPEONATO CARIOCA 02
-http://dnscine.top:80/419735964/798841240/395.ts
-#EXTINF:-1 group-title="Esportes",CAMPEONATO CARIOCA 03
-http://dnscine.top:80/419735964/798841240/396.ts
-#EXTINF:-1 group-title="Esportes",CAMPEONATO CARIOCA 04
-http://dnscine.top:80/419735964/798841240/397.ts
-#EXTINF:-1 group-title="Filmes e Series",Canal Brasil HD
-http://dnscine.top:80/419735964/798841240/14.ts
-#EXTINF:-1 group-title="Filmes e Series",Canal Brasil SD
-http://dnscine.top:80/419735964/798841240/535.ts
-#EXTINF:-1 group-title="Canais 24hrs",Canal CSI 24H
-http://dnscine.top:80/419735964/798841240/202269.ts
-#EXTINF:-1 group-title="Canais Abertos",CANAL DO BOI
-http://dnscine.top:80/419735964/798841240/536.ts
-#EXTINF:-1 group-title="Canais Abertos",CANAL GOAT
-http://dnscine.top:80/419735964/798841240/408.ts
-#EXTINF:-1 group-title="Canais Abertos",CANAL RURAL
-http://dnscine.top:80/419735964/798841240/528.ts
-#EXTINF:-1 group-title="Canais Abertos",CANÇÃO NOVA FHD
-http://dnscine.top:80/419735964/798841240/15.ts
-#EXTINF:-1 group-title="Canais Abertos",CANÇÃO NOVA SD
-http://dnscine.top:80/419735964/798841240/584.ts
-#EXTINF:-1 group-title="Infantis",Cartoon Network FHD
-http://dnscine.top:80/419735964/798841240/16.ts
-#EXTINF:-1 group-title="Infantis",Cartoon Network FHD [H264]
-http://dnscine.top:80/419735964/798841240/779.ts
-#EXTINF:-1 group-title="Infantis",Cartoon Network HD
-http://dnscine.top:80/419735964/798841240/17.ts
-#EXTINF:-1 group-title="Infantis",Cartoon Network SD
-http://dnscine.top:80/419735964/798841240/632.ts
-#EXTINF:-1 group-title="Infantis",Cartoonito FHD
-http://dnscine.top:80/419735964/798841240/295.ts
-#EXTINF:-1 group-title="Infantis",Cartoonito HD
-http://dnscine.top:80/419735964/798841240/275.ts
-#EXTINF:-1 group-title="Infantis",Cartoonito SD
-http://dnscine.top:80/419735964/798841240/607.ts
-#EXTINF:-1 group-title="Canais 24hrs",Caverna do Dragao  24H
-http://dnscine.top:80/419735964/798841240/202308.ts
-#EXTINF:-1 group-title="Esportes",CAZÉ TV
-http://dnscine.top:80/419735964/798841240/407.ts
-#EXTINF:-1 group-title="Esportes",Cazé TV * HD
-http://dnscine.top:80/419735964/798841240/202375.ts
-#EXTINF:-1 group-title="Esportes",Cazé TV 2 * HD
-http://dnscine.top:80/419735964/798841240/202377.ts
-#EXTINF:-1 group-title="Esportes",Cazé TV 2 HD
-http://dnscine.top:80/419735964/798841240/202376.ts
-#EXTINF:-1 group-title="Esportes",Cazé TV HD
-http://dnscine.top:80/419735964/798841240/202374.ts
-#EXTINF:-1 group-title="Canais 24hrs",CDZ Saga as Doze Casas 24H
-http://dnscine.top:80/419735964/798841240/202248.ts
-#EXTINF:-1 group-title="Canais 24hrs",Chapolin 24H
-http://dnscine.top:80/419735964/798841240/202250.ts
-#EXTINF:-1 group-title="Canais 24hrs",Chaves 24H
-http://dnscine.top:80/419735964/798841240/202304.ts
-#EXTINF:-1 group-title="Canais 24hrs",Chaves Desenho 24H
-http://dnscine.top:80/419735964/798841240/202302.ts
-#EXTINF:-1 group-title="Filmes e Series",Cine Aventura
-http://dnscine.top:80/419735964/798841240/202254.ts
-#EXTINF:-1 group-title="Filmes e Series",Cine Ação 24H HD
-http://dnscine.top:80/419735964/798841240/202277.ts
-#EXTINF:-1 group-title="Filmes e Series",CINE BRASIL HD
-http://dnscine.top:80/419735964/798841240/198.ts
-#EXTINF:-1 group-title="Filmes e Series",Cine Canal FHD [H264]
-http://dnscine.top:80/419735964/798841240/736.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Comedia 24H HD
-http://dnscine.top:80/419735964/798841240/202275.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Drama 24H HD
-http://dnscine.top:80/419735964/798841240/202255.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Family 24H HD
-http://dnscine.top:80/419735964/798841240/202276.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Faroeste 24H HD
-http://dnscine.top:80/419735964/798841240/202261.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Fiction 24H HD
-http://dnscine.top:80/419735964/798841240/202258.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Guerra 24H HD
-http://dnscine.top:80/419735964/798841240/202259.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine kids 24H HD
-http://dnscine.top:80/419735964/798841240/202274.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Nacionais 24H HD
-http://dnscine.top:80/419735964/798841240/202256.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cine Terror
-http://dnscine.top:80/419735964/798841240/202273.ts
-#EXTINF:-1 group-title="Filmes e Series",Cinemax FHD
-http://dnscine.top:80/419735964/798841240/18.ts
-#EXTINF:-1 group-title="Filmes e Series",Cinemax FHD [H264]
-http://dnscine.top:80/419735964/798841240/369.ts
-#EXTINF:-1 group-title="Filmes e Series",Cinemax HD
-http://dnscine.top:80/419735964/798841240/19.ts
-#EXTINF:-1 group-title="Filmes e Series",Cinemax SD
-http://dnscine.top:80/419735964/798841240/623.ts
-#EXTINF:-1 group-title="Canais Notícias",CNN BRASIL FHD
-http://dnscine.top:80/419735964/798841240/20.ts
-#EXTINF:-1 group-title="Canais Notícias",CNN BRASIL HD
-http://dnscine.top:80/419735964/798841240/21.ts
-#EXTINF:-1 group-title="Canais Notícias",CNN BRASIL SD
-http://dnscine.top:80/419735964/798841240/630.ts
-#EXTINF:-1 group-title="Canais Notícias",CNN FHD H264
-http://dnscine.top:80/419735964/798841240/770.ts
-#EXTINF:-1 group-title="Canais Notícias",CNN INTERNACIONAL HD
-http://dnscine.top:80/419735964/798841240/233.ts
-#EXTINF:-1 group-title="Canais Notícias",CNN INTERNACIONAL SD
-http://dnscine.top:80/419735964/798841240/578.ts
-#EXTINF:-1 group-title="Canais Notícias",CNT HD
-http://dnscine.top:80/419735964/798841240/234.ts
-#EXTINF:-1 group-title="Canais Notícias",CNT SD
-http://dnscine.top:80/419735964/798841240/534.ts
-#EXTINF:-1 group-title="Esportes",Combate FHD
-http://dnscine.top:80/419735964/798841240/22.ts
-#EXTINF:-1 group-title="Esportes",Combate FHD [H264]
-http://dnscine.top:80/419735964/798841240/788.ts
-#EXTINF:-1 group-title="Esportes",Combate HD
-http://dnscine.top:80/419735964/798841240/23.ts
-#EXTINF:-1 group-title="Esportes",Combate SD
-http://dnscine.top:80/419735964/798841240/633.ts
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://dnscine.top:80/419735964/798841240/24.ts
-#EXTINF:-1,COMEDY CENTRAL FHD H264
-http://dnscine.top:80/419735964/798841240/748.ts
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dnscine.top:80/419735964/798841240/25.ts
-#EXTINF:-1,COMEDY CENTRAL SD
-http://dnscine.top:80/419735964/798841240/634.ts
-#EXTINF:-1 group-title="Canais 24hrs",Como eu Conheci a Sua Mae  24H
-http://dnscine.top:80/419735964/798841240/202270.ts
-#EXTINF:-1 group-title="Canais 24hrs",Coragem o Cão Covarde 24H
-http://dnscine.top:80/419735964/798841240/202252.ts
-#EXTINF:-1,CURTA SD
-http://dnscine.top:80/419735964/798841240/537.ts
-#EXTINF:-1,CURTA! FHD
-http://dnscine.top:80/419735964/798841240/296.ts
-#EXTINF:-1 group-title="Canais 24hrs",Cybercop 24H
-http://dnscine.top:80/419735964/798841240/202315.ts
-#EXTINF:-1 group-title="Canais 24hrs",Daniel Tigre 24H
-http://dnscine.top:80/419735964/798841240/202297.ts
-#EXTINF:-1 group-title="Canais 24hrs",Daniel Tigre 24H
-http://dnscine.top:80/419735964/798841240/305879.ts
-#EXTINF:-1 group-title="Esportes",DAZN 1
-http://dnscine.top:80/419735964/798841240/202334.ts
-#EXTINF:-1 group-title="Esportes",DAZN 1* HD
-http://dnscine.top:80/419735964/798841240/301.ts
-#EXTINF:-1 group-title="Esportes",DAZN 2
-http://dnscine.top:80/419735964/798841240/202335.ts
-#EXTINF:-1 group-title="Esportes",DAZN 2* HD
-http://dnscine.top:80/419735964/798841240/302.ts
-#EXTINF:-1 group-title="Esportes",DAZN 3
-http://dnscine.top:80/419735964/798841240/202336.ts
-#EXTINF:-1 group-title="Esportes",DAZN 3* HD
-http://dnscine.top:80/419735964/798841240/303.ts
-#EXTINF:-1 group-title="Esportes",DAZN 4
-http://dnscine.top:80/419735964/798841240/202337.ts
-#EXTINF:-1 group-title="Esportes",DAZN 5
-http://dnscine.top:80/419735964/798841240/202338.ts
-#EXTINF:-1 group-title="Discovery",DISCOVERY CHANNEL 4K
-http://dnscine.top:80/419735964/798841240/211.ts
-#EXTINF:-1 group-title="Discovery",Discovery Channel FHD
-http://dnscine.top:80/419735964/798841240/26.ts
-#EXTINF:-1 group-title="Discovery",Discovery Channel FHD [H264]
-http://dnscine.top:80/419735964/798841240/758.ts
-#EXTINF:-1 group-title="Discovery",Discovery Channel HD
-http://dnscine.top:80/419735964/798841240/27.ts
-#EXTINF:-1 group-title="Discovery",Discovery Channel SD
-http://dnscine.top:80/419735964/798841240/672.ts
-#EXTINF:-1 group-title="Discovery",Discovery H&H FHD
-http://dnscine.top:80/419735964/798841240/28.ts
-#EXTINF:-1 group-title="Discovery",Discovery H&H FHD [H264]
-http://dnscine.top:80/419735964/798841240/815.ts
-#EXTINF:-1 group-title="Discovery",Discovery H&H HD
-http://dnscine.top:80/419735964/798841240/29.ts
-#EXTINF:-1 group-title="Discovery",Discovery H&H SD
-http://dnscine.top:80/419735964/798841240/635.ts
-#EXTINF:-1 group-title="Infantis",Discovery Kids FHD
-http://dnscine.top:80/419735964/798841240/30.ts
-#EXTINF:-1 group-title="Infantis",Discovery Kids FHD [H264]
-http://dnscine.top:80/419735964/798841240/884.ts
-#EXTINF:-1 group-title="Infantis",Discovery Kids HD
-http://dnscine.top:80/419735964/798841240/31.ts
-#EXTINF:-1 group-title="Infantis",Discovery Kids SD
-http://dnscine.top:80/419735964/798841240/581.ts
-#EXTINF:-1 group-title="Discovery",Discovery Science FHD
-http://dnscine.top:80/419735964/798841240/32.ts
-#EXTINF:-1 group-title="Discovery",Discovery Science HD
-http://dnscine.top:80/419735964/798841240/33.ts
-#EXTINF:-1 group-title="Discovery",Discovery Science SD
-http://dnscine.top:80/419735964/798841240/621.ts
-#EXTINF:-1 group-title="Discovery",Discovery Theater FHD
-http://dnscine.top:80/419735964/798841240/34.ts
-#EXTINF:-1 group-title="Discovery",Discovery Theater FHD [H264]
-http://dnscine.top:80/419735964/798841240/774.ts
-#EXTINF:-1 group-title="Discovery",Discovery Theater HD
-http://dnscine.top:80/419735964/798841240/386.ts
-#EXTINF:-1 group-title="Discovery",Discovery Turbo FHD
-http://dnscine.top:80/419735964/798841240/35.ts
-#EXTINF:-1 group-title="Discovery",Discovery Turbo HD
-http://dnscine.top:80/419735964/798841240/36.ts
-#EXTINF:-1 group-title="Discovery",Discovery Turbo SD
-http://dnscine.top:80/419735964/798841240/636.ts
-#EXTINF:-1 group-title="Discovery",Discovery World FHD
-http://dnscine.top:80/419735964/798841240/37.ts
-#EXTINF:-1 group-title="Discovery",Discovery World FHD [H264]
-http://dnscine.top:80/419735964/798841240/738.ts
-#EXTINF:-1 group-title="Discovery",Discovery World HD
-http://dnscine.top:80/419735964/798841240/387.ts
-#EXTINF:-1group-title="Infantis",Disney Channel SD
-http://dnscine.top:80/419735964/798841240/524.ts
-#EXTINF:-1 group-title="Esportes",Disney+
-http://dnscine.top:80/419735964/798841240/202345.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 2
-http://dnscine.top:80/419735964/798841240/202346.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 3
-http://dnscine.top:80/419735964/798841240/202347.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 4
-http://dnscine.top:80/419735964/798841240/202348.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 5
-http://dnscine.top:80/419735964/798841240/202349.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 6
-http://dnscine.top:80/419735964/798841240/202350.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 7
-http://dnscine.top:80/419735964/798841240/202351.ts
-#EXTINF:-1 group-title="Esportes",Disney+ 8
-http://dnscine.top:80/419735964/798841240/202352.ts
-#EXTINF:-1,DOG TV HD
-http://dnscine.top:80/419735964/798841240/341.ts
-#EXTINF:-1 group-title="Canais 24hrs",Doug 24H
-http://dnscine.top:80/419735964/798841240/202296.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dr. House 24H
-http://dnscine.top:80/419735964/798841240/202263.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dragon Ball GT 24H
-http://dnscine.top:80/419735964/798841240/202245.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dragon Ball Super 24H
-http://dnscine.top:80/419735964/798841240/202229.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dragon Ball X Freeza 24H
-http://dnscine.top:80/419735964/798841240/202231.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dragon Ball Z Androides 24H
-http://dnscine.top:80/419735964/798841240/202234.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dragon Ball Z Sayajins 24H
-http://dnscine.top:80/419735964/798841240/202236.ts
-#EXTINF:-1 group-title="Canais 24hrs",Dragões  24H
-http://dnscine.top:80/419735964/798841240/202300.ts
-#EXTINF:-1 group-title="Canais 24hrs",Ducktales 24H
-http://dnscine.top:80/419735964/798841240/202301.ts
-#EXTINF:-1 group-title="Esportes",DW FHD
-http://dnscine.top:80/419735964/798841240/201.ts
-#EXTINF:-1 group-title="Esportes",DW SD
-http://dnscine.top:80/419735964/798841240/576.ts
-#EXTINF:-1 group-title="Esportes",E! FHD
-http://dnscine.top:80/419735964/798841240/42.ts
-#EXTINF:-1 group-title="Esportes",E! FHD [H264]
-http://dnscine.top:80/419735964/798841240/755.ts
-#EXTINF:-1 group-title="Esportes",E! HD
-http://dnscine.top:80/419735964/798841240/40.ts
-#EXTINF:-1 group-title="Esportes",E! SD
-http://dnscine.top:80/419735964/798841240/637.ts
-#EXTINF:-1 group-title="Esportes",ESPN 2 FHD
-http://dnscine.top:80/419735964/798841240/43.ts
-#EXTINF:-1 group-title="Esportes",ESPN 2 FHD [H264]
-http://dnscine.top:80/419735964/798841240/684.ts
-#EXTINF:-1 group-title="Esportes",ESPN 2 HD
-http://dnscine.top:80/419735964/798841240/44.ts
-#EXTINF:-1 group-title="Esportes",ESPN 2 SD
-http://dnscine.top:80/419735964/798841240/638.ts
-#EXTINF:-1 group-title="Esportes",ESPN 2 SD H.265
-http://dnscine.top:80/419735964/798841240/207.ts
-#EXTINF:-1 group-title="Esportes",ESPN 3 FHD
-http://dnscine.top:80/419735964/798841240/45.ts
-#EXTINF:-1 group-title="Esportes",ESPN 3 FHD [H264]
-http://dnscine.top:80/419735964/798841240/685.ts
-#EXTINF:-1 group-title="Esportes",ESPN 3 HD
-http://dnscine.top:80/419735964/798841240/46.ts
-#EXTINF:-1 group-title="Esportes",ESPN 3 SD
-http://dnscine.top:80/419735964/798841240/640.ts
-#EXTINF:-1 group-title="Esportes",ESPN 4 FHD
-http://dnscine.top:80/419735964/798841240/61.ts
-#EXTINF:-1 group-title="Esportes",ESPN 4 FHD [H264]
-http://dnscine.top:80/419735964/798841240/686.ts
-#EXTINF:-1 group-title="Esportes",ESPN 4 HD
-http://dnscine.top:80/419735964/798841240/62.ts
-#EXTINF:-1 group-title="Esportes",ESPN 4 SD
-http://dnscine.top:80/419735964/798841240/644.ts
-#EXTINF:-1 group-title="Esportes",ESPN 4K
-http://dnscine.top:80/419735964/798841240/730.ts
-#EXTINF:-1 group-title="Esportes",ESPN 5 FHD
-http://dnscine.top:80/419735964/798841240/59.ts
-#EXTINF:-1 group-title="Esportes",ESPN 5 FHD [H264]
-http://dnscine.top:80/419735964/798841240/687.ts
-#EXTINF:-1 group-title="Esportes",ESPN 5 HD
-http://dnscine.top:80/419735964/798841240/60.ts
-#EXTINF:-1 group-title="Esportes",ESPN 5 SD
-http://dnscine.top:80/419735964/798841240/645.ts
-#EXTINF:-1 group-title="Esportes",ESPN 6 FHD
-http://dnscine.top:80/419735964/798841240/47.ts
-#EXTINF:-1 group-title="Esportes",ESPN 6 FHD [H264]
-http://dnscine.top:80/419735964/798841240/745.ts
-#EXTINF:-1 group-title="Esportes",ESPN 6 HD
-http://dnscine.top:80/419735964/798841240/48.ts
-#EXTINF:-1 group-title="Esportes",ESPN FHD
-http://dnscine.top:80/419735964/798841240/49.ts
-#EXTINF:-1 group-title="Esportes",ESPN FHD [H264]
-http://dnscine.top:80/419735964/798841240/683.ts
-#EXTINF:-1 group-title="Esportes",ESPN HD
-http://dnscine.top:80/419735964/798841240/50.ts
-#EXTINF:-1 group-title="Esportes",ESPN SD
-http://dnscine.top:80/419735964/798841240/639.ts
-#EXTINF:-1 group-title="Canais 24hrs",Eu a patroa e as crianças 24H HD
-http://dnscine.top:80/419735964/798841240/202249.ts
-#EXTINF:-1 group-title="Canais Notícias",EURONEWS ESPANHOL FHD
-http://dnscine.top:80/419735964/798841240/51.ts
-#EXTINF:-1 group-title="Canais Notícias",EURONEWS ESPANHOL HD
-http://dnscine.top:80/419735964/798841240/52.ts
-#EXTINF:-1 group-title="Canais Abertos",EVANGELIZAR HD
-http://dnscine.top:80/419735964/798841240/365.ts
-#EXTINF:-1 group-title="Esportes",F.SPORTS 01 HD
-http://dnscine.top:80/419735964/798841240/382.ts
-#EXTINF:-1 group-title="Esportes",F.SPORTS 02 HD
-http://dnscine.top:80/419735964/798841240/786.ts
-#EXTINF:-1 group-title="Esportes",F.SPORTS 03 HD
-http://dnscine.top:80/419735964/798841240/383.ts
-#EXTINF:-1 group-title="Esportes",F.SPORTS 04 HD
-http://dnscine.top:80/419735964/798841240/384.ts
-#EXTINF:-1 group-title="Canais 24hrs",Familia da Pesada 24H
-http://dnscine.top:80/419735964/798841240/202241.ts
-#EXTINF:-1 group-title="Canais 24hrs",Familia Dinossauro  24H
-http://dnscine.top:80/419735964/798841240/202238.ts
-#EXTINF:-1,FASHIONTV BRASIL FHD
-http://dnscine.top:80/419735964/798841240/53.ts
-#EXTINF:-1,FASHIONTV BRASIL HD
-http://dnscine.top:80/419735964/798841240/54.ts
-#EXTINF:-1 group-title="Filmes e Series",Film & Arts FHD
-http://dnscine.top:80/419735964/798841240/55.ts
-#EXTINF:-1 group-title="Filmes e Series",Film & Arts HD
-http://dnscine.top:80/419735964/798841240/56.ts
-#EXTINF:-1 group-title="Filmes e Series",Film & Arts SD
-http://dnscine.top:80/419735964/798841240/642.ts
-#EXTINF:-1,FISH SD
-http://dnscine.top:80/419735964/798841240/531.ts
-#EXTINF:-1,FISH TV HD
-http://dnscine.top:80/419735964/798841240/57.ts
-#EXTINF:-1,FOOD NETWORK FHD
-http://dnscine.top:80/419735964/798841240/58.ts
-#EXTINF:-1,FOOD NETWORK SD
-http://dnscine.top:80/419735964/798841240/643.ts
-#EXTINF:-1 group-title="Canais 24hrs",Friends 24H HD
-http://dnscine.top:80/419735964/798841240/202260.ts
-#EXTINF:-1 group-title="Filmes e Series",FUTSAL 01 HD
-http://dnscine.top:80/419735964/798841240/306.ts
-#EXTINF:-1 group-title="Filmes e Series",FUTSAL 02 HD
-http://dnscine.top:80/419735964/798841240/414.ts
-#EXTINF:-1 group-title="Filmes e Series",FUTSAL 03 HD
-http://dnscine.top:80/419735964/798841240/366.ts
-#EXTINF:-1 group-title="Filmes e Series",FUTSAL 04 HD
-http://dnscine.top:80/419735964/798841240/367.ts
-#EXTINF:-1 group-title="Canais Abertos",FUTURA SD
-http://dnscine.top:80/419735964/798841240/575.ts
-#EXTINF:-1 group-title="Canais 24hrs",Futurama 24H
-http://dnscine.top:80/419735964/798841240/202240.ts
-#EXTINF:-1 group-title="Canais 24hrs",Galinha Pintadinha 24H
-http://dnscine.top:80/419735964/798841240/305875.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO BH FHD
-http://dnscine.top:80/419735964/798841240/446.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO BH FHD H264
-http://dnscine.top:80/419735964/798841240/706.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO BH HD
-http://dnscine.top:80/419735964/798841240/447.ts
-#EXTINF:-1 group-title="Canais Globo",Globo Minas FHD
-http://dnscine.top:80/419735964/798841240/202393.ts
-#EXTINF:-1 group-title="Canais Globo",Globo Minas HD
-http://dnscine.top:80/419735964/798841240/202394.ts
-#EXTINF:-1 group-title="Canais Globo",Globo Minas SD
-http://dnscine.top:80/419735964/798841240/202395.ts
-#EXTINF:-1 group-title="Canais Notícias",GLOBO NEWS FHD
-http://dnscine.top:80/419735964/798841240/65.ts
-#EXTINF:-1 group-title="Canais Notícias",GLOBO NEWS HD
-http://dnscine.top:80/419735964/798841240/191.ts
-#EXTINF:-1 group-title="Canais Notícias",GLOBO NEWS SD
-http://dnscine.top:80/419735964/798841240/646.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO SP FHD
-http://dnscine.top:80/419735964/798841240/476.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO SP FHD H264
-http://dnscine.top:80/419735964/798841240/315.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO SP HD
-http://dnscine.top:80/419735964/798841240/477.ts
-#EXTINF:-1 group-title="Canais Globo",GLOBO SP SD
-http://dnscine.top:80/419735964/798841240/595.ts
-#EXTINF:-1 group-title="Infantis",Gloob FHD
-http://dnscine.top:80/419735964/798841240/66.ts
-#EXTINF:-1 group-title="Infantis",Gloob HD
-http://dnscine.top:80/419735964/798841240/67.ts
-#EXTINF:-1 group-title="Infantis",Gloob SD
-http://dnscine.top:80/419735964/798841240/647.ts
-#EXTINF:-1group-title="Infantis",Gloobinho FHD
-http://dnscine.top:80/419735964/798841240/272.ts
-#EXTINF:-1 group-title="Infantis",Gloobinho FHD
-http://dnscine.top:80/419735964/798841240/68.ts
-#EXTINF:-1 group-title="Infantis",Gloobinho HD
-http://dnscine.top:80/419735964/798841240/69.ts
-#EXTINF:-1 group-title="Infantis",Gloobinho SD
-http://dnscine.top:80/419735964/798841240/583.ts
-#EXTINF:-1,GNT FHD
-http://dnscine.top:80/419735964/798841240/70.ts
-#EXTINF:-1,GNT FHD H264
-http://dnscine.top:80/419735964/798841240/775.ts
-#EXTINF:-1,GNT HD
-http://dnscine.top:80/419735964/798841240/71.ts
-#EXTINF:-1,GNT SD
-http://dnscine.top:80/419735964/798841240/530.ts
-#EXTINF:-1,GOAT 01*
-http://dnscine.top:80/419735964/798841240/749455.ts
-#EXTINF:-1,GOAT 02
-http://dnscine.top:80/419735964/798841240/749456.ts
-#EXTINF:-1,GOAT 03
-http://dnscine.top:80/419735964/798841240/749457.ts
-#EXTINF:-1,Gospel Cartoon SD
-http://dnscine.top:80/419735964/798841240/288.ts
-#EXTINF:-1 group-title="Documentarios",H2 FHD
-http://dnscine.top:80/419735964/798841240/90.ts
-#EXTINF:-1 group-title="Documentarios",H2 FHD [H264]
-http://dnscine.top:80/419735964/798841240/743.ts
-#EXTINF:-1 group-title="Documentarios",H2 HD
-http://dnscine.top:80/419735964/798841240/91.ts
-#EXTINF:-1 group-title="Documentarios",H2 SD
-http://dnscine.top:80/419735964/798841240/654.ts
-#EXTINF:-1 group-title="Canais HBO",HBO 2 FHD
-http://dnscine.top:80/419735964/798841240/72.ts
-#EXTINF:-1 group-title="Canais HBO",HBO 2 FHD [H264]
-http://dnscine.top:80/419735964/798841240/695.ts
-#EXTINF:-1 group-title="Canais HBO",HBO 2 HD
-http://dnscine.top:80/419735964/798841240/73.ts
-#EXTINF:-1 group-title="Canais HBO",HBO 2 SD
-http://dnscine.top:80/419735964/798841240/653.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Family FHD
-http://dnscine.top:80/419735964/798841240/74.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Family FHD [H264]
-http://dnscine.top:80/419735964/798841240/696.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Family HD
-http://dnscine.top:80/419735964/798841240/75.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Family SD
-http://dnscine.top:80/419735964/798841240/538.ts
-#EXTINF:-1 group-title="Canais HBO",HBO FHD
-http://dnscine.top:80/419735964/798841240/76.ts
-#EXTINF:-1 group-title="Canais HBO",HBO FHD [H264]
-http://dnscine.top:80/419735964/798841240/697.ts
-#EXTINF:-1 group-title="Canais HBO",HBO HD
-http://dnscine.top:80/419735964/798841240/77.ts
-#EXTINF:-1group-title="Canais HBO",HBO Mundi FHD
-http://dnscine.top:80/419735964/798841240/78.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Mundi FHD [H264]
-http://dnscine.top:80/419735964/798841240/698.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Mundi HD
-http://dnscine.top:80/419735964/798841240/79.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Mundi SD
-http://dnscine.top:80/419735964/798841240/649.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Plus FHD
-http://dnscine.top:80/419735964/798841240/80.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Plus FHD [H264]
-http://dnscine.top:80/419735964/798841240/699.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Plus HD
-http://dnscine.top:80/419735964/798841240/81.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Plus SD
-http://dnscine.top:80/419735964/798841240/652.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Pop FHD
-http://dnscine.top:80/419735964/798841240/82.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Pop FHD [H264]
-http://dnscine.top:80/419735964/798841240/700.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Pop HD
-http://dnscine.top:80/419735964/798841240/83.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Pop SD
-http://dnscine.top:80/419735964/798841240/650.ts
-#EXTINF:-1 group-title="Canais HBO",HBO SD
-http://dnscine.top:80/419735964/798841240/648.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Signature FHD
-http://dnscine.top:80/419735964/798841240/84.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Signature FHD [H264]
-http://dnscine.top:80/419735964/798841240/701.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Signature HD
-http://dnscine.top:80/419735964/798841240/85.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Signature SD
-http://dnscine.top:80/419735964/798841240/651.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Xtreme FHD
-http://dnscine.top:80/419735964/798841240/86.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Xtreme FHD [H264]
-http://dnscine.top:80/419735964/798841240/702.ts
-#EXTINF:-1 group-title="Canais HBO",HBO Xtreme HD
-http://dnscine.top:80/419735964/798841240/87.ts
-#EXTINF:-1 group-title="Canais 24hrs",Hey Arnold 24H
-http://dnscine.top:80/419735964/798841240/202284.ts
-#EXTINF:-1 group-title="Documentarios",HGTV FHD
-http://dnscine.top:80/419735964/798841240/88.ts
-#EXTINF:-1 group-title="Documentarios",HGTV HD
-http://dnscine.top:80/419735964/798841240/89.ts
-#EXTINF:-1 group-title="Documentarios",History Channel FHD [H264]
-http://dnscine.top:80/419735964/798841240/742.ts
-#EXTINF:-1 group-title="Documentarios",History Channel HD
-http://dnscine.top:80/419735964/798841240/92.ts
-#EXTINF:-1 group-title="Documentarios",History Channel SD
-http://dnscine.top:80/419735964/798841240/580.ts
-#EXTINF:-1 group-title="Canais 24hrs",Homem-Aranha 24H
-http://dnscine.top:80/419735964/798841240/202227.ts
-#EXTINF:-1 group-title="Discovery",ID: Investigação Discovery FHD [H264]
-http://dnscine.top:80/419735964/798841240/732.ts
-#EXTINF:-1 group-title="Discovery",ID: Investigação Discovery HD
-http://dnscine.top:80/419735964/798841240/93.ts
-#EXTINF:-1 group-title="Discovery",ID: Investigação Discovery SD
-http://dnscine.top:80/419735964/798841240/655.ts
-#EXTINF:-1,IDEAL TV FHD
-http://dnscine.top:80/419735964/798841240/236.ts
-#EXTINF:-1 group-title="Canais 24hrs",Irmão do Jorel 24H
-http://dnscine.top:80/419735964/798841240/202289.ts
-#EXTINF:-1 group-title="Canais 24hrs",Jaspion 24H
-http://dnscine.top:80/419735964/798841240/202318.ts
-#EXTINF:-1 group-title="Canais 24hrs",JIBAN 24H
-http://dnscine.top:80/419735964/798841240/202316.ts
-#EXTINF:-1 group-title="Canais 24hrs",Jiraya  O Incrivel Ninja 24H
-http://dnscine.top:80/419735964/798841240/202319.ts
-#EXTINF:-1 group-title="Canais Notícias",JP NEWS 4K
-http://dnscine.top:80/419735964/798841240/598.ts
-#EXTINF:-1 group-title="Canais Notícias",JP NEWS FHD
-http://dnscine.top:80/419735964/798841240/204.ts
-#EXTINF:-1 group-title="Canais Notícias",JP NEWS FHD [H264]
-http://dnscine.top:80/419735964/798841240/721.ts
-#EXTINF:-1 group-title="Canais Notícias",JP NEWS HD
-http://dnscine.top:80/419735964/798841240/203.ts
-#EXTINF:-1,JP NEWS SD
-http://dnscine.top:80/419735964/798841240/331.ts
-#EXTINF:-1 group-title="Canais 24hrs",Kenan e Kell 24H
-http://dnscine.top:80/419735964/798841240/202247.ts
-#EXTINF:-1 group-title="Canais 24hrs",Kim Possible 24H
-http://dnscine.top:80/419735964/798841240/202280.ts
-#EXTINF:-1 group-title="Canais 24hrs",KND A Turma do Bairro 24H
-http://dnscine.top:80/419735964/798841240/202278.ts
-#EXTINF:-1 group-title="Canais 24hrs",Larva 24H
-http://dnscine.top:80/419735964/798841240/202312.ts
-#EXTINF:-1,Like HD
-http://dnscine.top:80/419735964/798841240/212.ts
-#EXTINF:-1 group-title="Canais 24hrs",Lion Man 24H
-http://dnscine.top:80/419735964/798841240/202314.ts
-#EXTINF:-1 group-title="Canais 24hrs",Little Baby Bum 24H
-http://dnscine.top:80/419735964/798841240/305881.ts
-#EXTINF:-1,LOADING SD
-http://dnscine.top:80/419735964/798841240/539.ts
-#EXTINF:-1 group-title="Canais 24hrs",Looney Tunnes 24H
-http://dnscine.top:80/419735964/798841240/202311.ts
-#EXTINF:-1 group-title="Canais 24hrs",Marvel & DC 24H
-http://dnscine.top:80/419735964/798841240/202257.ts
-#EXTINF:-1 group-title="Esportes",MAX 02 HD
-http://dnscine.top:80/419735964/798841240/333.ts
-#EXTINF:-1 group-title="Esportes",MAX 1
-http://dnscine.top:80/419735964/798841240/751316.ts
-#EXTINF:-1 group-title="Esportes",MAX 2
-http://dnscine.top:80/419735964/798841240/202370.ts
-#EXTINF:-1 group-title="Esportes",MAX 3
-http://dnscine.top:80/419735964/798841240/202371.ts
-#EXTINF:-1 group-title="Esportes",MAX 4
-http://dnscine.top:80/419735964/798841240/202372.ts
-#EXTINF:-1 group-title="Esportes",MAX 5
-http://dnscine.top:80/419735964/798841240/751312.ts
-#EXTINF:-1 group-title="Esportes",MAX 6
-http://dnscine.top:80/419735964/798841240/751313.ts
-#EXTINF:-1 group-title="Esportes",MAX 7
-http://dnscine.top:80/419735964/798841240/751314.ts
-#EXTINF:-1 group-title="Esportes",MAX 8
-http://dnscine.top:80/419735964/798841240/751315.ts
-#EXTINF:-1 group-title="Filmes e Series",Megapix FHD
-http://dnscine.top:80/419735964/798841240/96.ts
-#EXTINF:-1 group-title="Filmes e Series",Megapix FHD [H264]
-http://dnscine.top:80/419735964/798841240/754.ts
-#EXTINF:-1 group-title="Filmes e Series",MEGAPIX HD
-http://dnscine.top:80/419735964/798841240/97.ts
-#EXTINF:-1 group-title="Filmes e Series",MEGAPIX SD
-http://dnscine.top:80/419735964/798841240/579.ts
-#EXTINF:-1 group-title="Canais 24hrs",Meu Amigãozão 24H
-http://dnscine.top:80/419735964/798841240/305885.ts
-#EXTINF:-1 group-title="Canais 24hrs",Mickey e Donald 24H
-http://dnscine.top:80/419735964/798841240/202291.ts
-#EXTINF:-1 group-title="Canais 24hrs",Miraculous Lady Bug 24H
-http://dnscine.top:80/419735964/798841240/305880.ts
-#EXTINF:-1,MODO VIAGEM FHD
-http://dnscine.top:80/419735964/798841240/189.ts
-#EXTINF:-1,MODO VIAGEM HD
-http://dnscine.top:80/419735964/798841240/190.ts
-#EXTINF:-1,MODO VIAGEM SD
-http://dnscine.top:80/419735964/798841240/658.ts
-#EXTINF:-1 group-title="Canais 24hrs",MR. Bean 24H
-http://dnscine.top:80/419735964/798841240/202239.ts
-#EXTINF:-1 group-title="Canais 24hrs",MR. Bean Desenho 24H
-http://dnscine.top:80/419735964/798841240/202292.ts
-#EXTINF:-1,MTV 00S FHD
-http://dnscine.top:80/419735964/798841240/290.ts
-#EXTINF:-1,MTV 00S HD
-http://dnscine.top:80/419735964/798841240/289.ts
-#EXTINF:-1,MTV FHD H264
-http://dnscine.top:80/419735964/798841240/776.ts
-#EXTINF:-1,MTV HD
-http://dnscine.top:80/419735964/798841240/98.ts
-#EXTINF:-1,MTV LIVE FHD H264
-http://dnscine.top:80/419735964/798841240/777.ts
-#EXTINF:-1,MTV SD
-http://dnscine.top:80/419735964/798841240/657.ts
-#EXTINF:-1,MTV's 00 FHD H264
-http://dnscine.top:80/419735964/798841240/778.ts
-#EXTINF:-1,MULTISHOW FHD
-http://dnscine.top:80/419735964/798841240/99.ts
-#EXTINF:-1,MULTISHOW FHD H264
-http://dnscine.top:80/419735964/798841240/787.ts
-#EXTINF:-1,MULTISHOW HD
-http://dnscine.top:80/419735964/798841240/100.ts
-#EXTINF:-1,MULTISHOW SD
-http://dnscine.top:80/419735964/798841240/659.ts
-#EXTINF:-1 group-title="Canais 24hrs",Mundo de Gunball 24H
-http://dnscine.top:80/419735964/798841240/202237.ts
-#EXTINF:-1,MUSIC BOX BRASIL FHD
-http://dnscine.top:80/419735964/798841240/101.ts
-#EXTINF:-1,MUSIC BOX BRASIL HD
-http://dnscine.top:80/419735964/798841240/102.ts
-#EXTINF:-1,MUSIC BOX BRASIL SD
-http://dnscine.top:80/419735964/798841240/540.ts
-#EXTINF:-1 group-title="Canais 24hrs",Mutante Rex  24H
-http://dnscine.top:80/419735964/798841240/202294.ts
-#EXTINF:-1 group-title="Canais 24hrs",Naruto 24H
-http://dnscine.top:80/419735964/798841240/202235.ts
-#EXTINF:-1 group-title="Infantis",Nick Jr FHD
-http://dnscine.top:80/419735964/798841240/720.ts
-#EXTINF:-1 group-title="Infantis",Nick Jr HD
-http://dnscine.top:80/419735964/798841240/107.ts
-#EXTINF:-1 group-title="Infantis",Nick Jr SD
-http://dnscine.top:80/419735964/798841240/527.ts
-#EXTINF:-1 group-title="Infantis",Nickelodeon HD
-http://dnscine.top:80/419735964/798841240/108.ts
-#EXTINF:-1 group-title="Infantis",Nickelodeon SD
-http://dnscine.top:80/419735964/798841240/661.ts
-#EXTINF:-1 group-title="Canais 24hrs",O Laboratório do Dexter 24H
-http://dnscine.top:80/419735964/798841240/202251.ts
-#EXTINF:-1 group-title="Canais 24hrs",O Máskara 24H
-http://dnscine.top:80/419735964/798841240/202307.ts
-#EXTINF:-1 group-title="Canais 24hrs",O Pequeno Urso 24H
-http://dnscine.top:80/419735964/798841240/305884.ts
-#EXTINF:-1 group-title="Canais 24hrs",O Show do Zé Colmeia 24H
-http://dnscine.top:80/419735964/798841240/202285.ts
-#EXTINF:-1,OFF FHD
-http://dnscine.top:80/419735964/798841240/109.ts
-#EXTINF:-1,OFF FHD H264
-http://dnscine.top:80/419735964/798841240/780.ts
-#EXTINF:-1,OFF HD
-http://dnscine.top:80/419735964/798841240/110.ts
-#EXTINF:-1,OFF SD
-http://dnscine.top:80/419735964/798841240/662.ts
-#EXTINF:-1,ONE FOOTBALL HD
-http://dnscine.top:80/419735964/798841240/352.ts
-#EXTINF:-1 group-title="X-Adultos-X",ONLYFANS- Andressa Urach
-http://dnscine.top:80/419735964/798841240/439.ts
-#EXTINF:-1 group-title="Canais 24hrs",Operação Big Hero 24H
-http://dnscine.top:80/419735964/798841240/202283.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os 3 patetas 24H
-http://dnscine.top:80/419735964/798841240/202262.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os Flintstones 24H
-http://dnscine.top:80/419735964/798841240/202306.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os Jetsons 24H
-http://dnscine.top:80/419735964/798841240/202279.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os Simpsons 2 24H
-http://dnscine.top:80/419735964/798841240/202246.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os Simpsons 24H
-http://dnscine.top:80/419735964/798841240/202230.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os Simpsons 3 24H
-http://dnscine.top:80/419735964/798841240/202242.ts
-#EXTINF:-1 group-title="Canais 24hrs",Os Vingadores 24H
-http://dnscine.top:80/419735964/798841240/202228.ts
-#EXTINF:-1 group-title="Canais Abertos",PAI ETERNO SD
-http://dnscine.top:80/419735964/798841240/541.ts
-#EXTINF:-1 group-title="Canais 24hrs",Pantera Cor-de-Rosa 24H
-http://dnscine.top:80/419735964/798841240/202295.ts
-#EXTINF:-1 group-title="Filmes e Series",Paramount Network FHD [H264]
-http://dnscine.top:80/419735964/798841240/753.ts
-#EXTINF:-1 group-title="Filmes e Series",Paramount Network HD
-http://dnscine.top:80/419735964/798841240/111.ts
-#EXTINF:-1 group-title="Filmes e Series",Paramount Network SD
-http://dnscine.top:80/419735964/798841240/663.ts
-#EXTINF:-1 group-title="Filmes e Series",Paramount+
-http://dnscine.top:80/419735964/798841240/202353.ts
-#EXTINF:-1 group-title="Filmes e Series",Paramount+ *
-http://dnscine.top:80/419735964/798841240/202354.ts
-#EXTINF:-1 group-title="Canais 24hrs",Peppa Pig 24H
-http://dnscine.top:80/419735964/798841240/305874.ts
-#EXTINF:-1 group-title="Canais 24hrs" ,Perdidos no Espaço 24H
-http://dnscine.top:80/419735964/798841240/202264.ts
-#EXTINF:-1 group-title="Canais 24hrs",Pica Pau 24H
-http://dnscine.top:80/419735964/798841240/202305.ts
-#EXTINF:-1,PLAY TV HD
-http://dnscine.top:80/419735964/798841240/385.ts
-#EXTINF:-1 group-title="X-Adultos-X",PLAYBOY TV FHD
-http://dnscine.top:80/419735964/798841240/112.ts
-#EXTINF:-1 group-title="X-Adultos-X",PLAYBOY TV FHD H264
-http://dnscine.top:80/419735964/798841240/763.ts
-#EXTINF:-1 group-title="X-Adultos-X",PLAYBOY TV HD
-http://dnscine.top:80/419735964/798841240/113.ts
-#EXTINF:-1 group-title="X-Adultos-X",PLAYBOYTV  SD
-http://dnscine.top:80/419735964/798841240/664.ts
-#EXTINF:-1 group-title="Canais 24hrs",Pocoyo 24H
-http://dnscine.top:80/419735964/798841240/202303.ts
-#EXTINF:-1 group-title="Canais 24hrs",Pocoyo 24H
-http://dnscine.top:80/419735964/798841240/305878.ts
-#EXTINF:-1 group-title="Canais 24hrs",Pokemon 24H
-http://dnscine.top:80/419735964/798841240/202310.ts
-#EXTINF:-1,POLISHOP FHD
-http://dnscine.top:80/419735964/798841240/294.ts
-#EXTINF:-1,POLISHOP SD
-http://dnscine.top:80/419735964/798841240/574.ts
-#EXTINF:-1,POWER COUPLE CAM 01
-http://dnscine.top:80/419735964/798841240/768805.ts
-#EXTINF:-1,POWER COUPLE CAM 02
-http://dnscine.top:80/419735964/798841240/768806.ts
-#EXTINF:-1 group-title="Esportes",Premiere 2 FHD
-http://dnscine.top:80/419735964/798841240/114.ts
-#EXTINF:-1 group-title="Esportes",Premiere 2 FHD [H264]
-http://dnscine.top:80/419735964/798841240/674.ts
-#EXTINF:-1group-title="Esportes",Premiere 2 HD
-http://dnscine.top:80/419735964/798841240/115.ts
-#EXTINF:-1 group-title="Esportes",Premiere 2 SD
-http://dnscine.top:80/419735964/798841240/665.ts
-#EXTINF:-1 group-title="Esportes",Premiere 3 FHD
-http://dnscine.top:80/419735964/798841240/116.ts
-#EXTINF:-1 group-title="Esportes",Premiere 3 FHD [H264]
-http://dnscine.top:80/419735964/798841240/675.ts
-#EXTINF:-1 group-title="Esportes",Premiere 3 HD
-http://dnscine.top:80/419735964/798841240/117.ts
-#EXTINF:-1 group-title="Esportes",Premiere 3 SD
-http://dnscine.top:80/419735964/798841240/666.ts
-#EXTINF:-1group-title="Esportes",Premiere 4 FHD
-http://dnscine.top:80/419735964/798841240/118.ts
-#EXTINF:-1 group-title="Esportes",Premiere 4 FHD [H264]
-http://dnscine.top:80/419735964/798841240/676.ts
-#EXTINF:-1 group-title="Esportes",Premiere 4 HD
-http://dnscine.top:80/419735964/798841240/119.ts
-#EXTINF:-1 group-title="Esportes",Premiere 4 SD
-http://dnscine.top:80/419735964/798841240/523.ts
-#EXTINF:-1 group-title="Esportes",Premiere 5 FHD
-http://dnscine.top:80/419735964/798841240/120.ts
-#EXTINF:-1 group-title="Esportes",Premiere 5 FHD [H264]
-http://dnscine.top:80/419735964/798841240/677.ts
-#EXTINF:-1 group-title="Esportes",Premiere 5 HD
-http://dnscine.top:80/419735964/798841240/121.ts
-#EXTINF:-1 group-title="Esportes",Premiere 5 SD
-http://dnscine.top:80/419735964/798841240/667.ts
-#EXTINF:-1 group-title="Esportes",Premiere 6 FHD [H264]
-http://dnscine.top:80/419735964/798841240/678.ts
-#EXTINF:-1 group-title="Esportes",Premiere 6 HD
-http://dnscine.top:80/419735964/798841240/313.ts
-#EXTINF:-1 group-title="Esportes",Premiere 6 SD
-http://dnscine.top:80/419735964/798841240/668.ts
-#EXTINF:-1,Premiere 7 FHD [H264]
-http://dnscine.top:80/419735964/798841240/679.ts
-#EXTINF:-1 group-title="Esportes",Premiere 7 HD
-http://dnscine.top:80/419735964/798841240/314.ts
-#EXTINF:-1 group-title="Esportes",Premiere 7 SD
-http://dnscine.top:80/419735964/798841240/669.ts
-#EXTINF:-1 group-title="Esportes",Premiere 8 SD
-http://dnscine.top:80/419735964/798841240/670.ts
-#EXTINF:-1 group-title="Esportes",PREMIERE CLUBES 4K
-http://dnscine.top:80/419735964/798841240/210.ts
-#EXTINF:-1 group-title="Esportes",Premiere Clubes FHD
-http://dnscine.top:80/419735964/798841240/122.ts
-#EXTINF:-1 group-title="Esportes",Premiere Clubes FHD [H264]
-http://dnscine.top:80/419735964/798841240/673.ts
-#EXTINF:-1 group-title="Esportes",Premiere Clubes HD
-http://dnscine.top:80/419735964/798841240/123.ts
-#EXTINF:-1 group-title="Esportes",Premiere Clubes SD
-http://dnscine.top:80/419735964/798841240/671.ts
-#EXTINF:-1 group-title="Filmes e Series",PRIME BOX BRASIL FHD
-http://dnscine.top:80/419735964/798841240/124.ts
-#EXTINF:-1 group-title="Filmes e Series",PRIME BOX BRASIL HD
-http://dnscine.top:80/419735964/798841240/125.ts
-#EXTINF:-1 group-title="Filmes e Series",PRIME BOX BRASIL SD
-http://dnscine.top:80/419735964/798841240/542.ts
-#EXTINF:-1,RECEITAS FAST HD
-http://dnscine.top:80/419735964/798841240/816.ts
-#EXTINF:-1 group-title="Canais Record",RECORD MG FHD H264
-http://dnscine.top:80/419735964/798841240/391.ts
-#EXTINF:-1 group-title="Canais Record",RECORD MG HD
-http://dnscine.top:80/419735964/798841240/274.ts
-#EXTINF:-1 group-title="Canais Record",RECORD NACIONAL HD
-http://dnscine.top:80/419735964/798841240/309.ts
-#EXTINF:-1 group-title="Canais Notícias",RECORD NEWS FHD
-http://dnscine.top:80/419735964/798841240/128.ts
-#EXTINF:-1 group-title="Canais Notícias",RECORD NEWS FHD [H264]
-http://dnscine.top:80/419735964/798841240/723.ts
-#EXTINF:-1 group-title="Canais Notícias",RECORD NEWS HD
-http://dnscine.top:80/419735964/798841240/129.ts
-#EXTINF:-1 group-title="Canais Notícias",RECORD NEWS SD
-http://dnscine.top:80/419735964/798841240/520.ts
-#EXTINF:-1 group-title="Canais Record",RECORDTV MG HD
-http://dnscine.top:80/419735964/798841240/332.ts
-#EXTINF:-1,REDE SUPER FHD
-http://dnscine.top:80/419735964/798841240/219.ts
-#EXTINF:-1,REDE SUPER FHD H264
-http://dnscine.top:80/419735964/798841240/205.ts
-#EXTINF:-1,REDE SUPER HD
-http://dnscine.top:80/419735964/798841240/719.ts
-#EXTINF:-1,REDE SUPER SD
-http://dnscine.top:80/419735964/798841240/596.ts
-#EXTINF:-1,REDE SÉCULO 21 FHD
-http://dnscine.top:80/419735964/798841240/206.ts
-#EXTINF:-1 group-title="Canais Rede TV",REDE TV FHD
-http://dnscine.top:80/419735964/798841240/133.ts
-#EXTINF:-1 group-title="Canais Rede TV",REDE TV FHD H264
-http://dnscine.top:80/419735964/798841240/772.ts
-#EXTINF:-1 group-title="Canais Rede TV",REDE TV HD
-http://dnscine.top:80/419735964/798841240/134.ts
-#EXTINF:-1 group-title="Canais Rede TV",REDE TV SD
-http://dnscine.top:80/419735964/798841240/610.ts
-#EXTINF:-1 group-title="Canais Abertos",REDE VIDA FHD H264
-http://dnscine.top:80/419735964/798841240/135.ts
-#EXTINF:-1 group-title="Canais Abertos",REDE VIDA HD
-http://dnscine.top:80/419735964/798841240/300.ts
-#EXTINF:-1 group-title="Canais Abertos",REDE VIDA SD
-http://dnscine.top:80/419735964/798841240/544.ts
-#EXTINF:-1 group-title="Canais Rede TV",REDETV NACIONAL HD
-http://dnscine.top:80/419735964/798841240/326.ts
-#EXTINF:-1 group-title="Canais Abertos",RIT HD
-http://dnscine.top:80/419735964/798841240/392.ts
-#EXTINF:-1 group-title="Canais Abertos",RIT SD
-http://dnscine.top:80/419735964/798841240/573.ts
-#EXTINF:-1 group-title="Canais SBT",SBT SD
-http://dnscine.top:80/419735964/798841240/545.ts
-#EXTINF:-1 group-title="Canais SBT",SBT SP FHD
-http://dnscine.top:80/419735964/798841240/265.ts
-#EXTINF:-1 group-title="Canais SBT",SBT SP FHD H264
-http://dnscine.top:80/419735964/798841240/712.ts
-#EXTINF:-1 group-title="Canais SBT",SBT SP HD
-http://dnscine.top:80/419735964/798841240/266.ts
-#EXTINF:-1 group-title="X-Adultos-X",SEXTREME SD
-http://dnscine.top:80/419735964/798841240/548.ts
-#EXTINF:-1 group-title="X-Adultos-X",SEXY HOT FHD
-http://dnscine.top:80/419735964/798841240/139.ts
-#EXTINF:-1 group-title="X-Adultos-X",SEXY HOT FHD H264
-http://dnscine.top:80/419735964/798841240/764.ts
-#EXTINF:-1 group-title="X-Adultos-X",SEXY HOT HD
-http://dnscine.top:80/419735964/798841240/140.ts
-#EXTINF:-1 group-title="X-Adultos-X",SEXY HOT SD
-http://dnscine.top:80/419735964/798841240/549.ts
-#EXTINF:-1 group-title="Canais 24hrs",Shawn Carneiro 24H
-http://dnscine.top:80/419735964/798841240/305886.ts
-#EXTINF:-1, group-title="Canais 24hrs"Show da Luna 24H
-http://dnscine.top:80/419735964/798841240/305877.ts
-#EXTINF:-1 group-title="Filmes e Series",SIC
-http://dnscine.top:80/419735964/798841240/577.ts
-#EXTINF:-1 group-title="Filmes e Series",Sony Channel HD
-http://dnscine.top:80/419735964/798841240/141.ts
-#EXTINF:-1 group-title="Filmes e Series",Sony Channel SD
-http://dnscine.top:80/419735964/798841240/631.ts
-#EXTINF:-1 group-title="Canais 24hrs",South Park 24H
-http://dnscine.top:80/419735964/798841240/202244.ts
-#EXTINF:-1 group-title="Filmes e Series",Space FHD
-http://dnscine.top:80/419735964/798841240/142.ts
-#EXTINF:-1 group-title="Filmes e Series",Space FHD [H264]
-http://dnscine.top:80/419735964/798841240/747.ts
-#EXTINF:-1 group-title="Filmes e Series",Space HD
-http://dnscine.top:80/419735964/798841240/143.ts
-#EXTINF:-1 group-title="Filmes e Series",Space SD
-http://dnscine.top:80/419735964/798841240/550.ts
-#EXTINF:-1 group-title="Esportes",SporTV 2 FHD
-http://dnscine.top:80/419735964/798841240/144.ts
-#EXTINF:-1 group-title="Esportes",SporTV 2 FHD [H264]
-http://dnscine.top:80/419735964/798841240/681.ts
-#EXTINF:-1 group-title="Esportes",SporTV 2 HD
-http://dnscine.top:80/419735964/798841240/145.ts
-#EXTINF:-1 group-title="Esportes",SporTV 2 SD
-http://dnscine.top:80/419735964/798841240/519.ts
-#EXTINF:-1 group-title="Esportes",SporTV 3 FHD
-http://dnscine.top:80/419735964/798841240/146.ts
-#EXTINF:-1 group-title="Esportes",SporTV 3 FHD [H264]
-http://dnscine.top:80/419735964/798841240/682.ts
-#EXTINF:-1 group-title="Esportes",SporTV 3 HD
-http://dnscine.top:80/419735964/798841240/147.ts
-#EXTINF:-1 group-title="Esportes",SPORTV 4K
-http://dnscine.top:80/419735964/798841240/216.ts
-#EXTINF:-1 group-title="Esportes",SporTV FHD
-http://dnscine.top:80/419735964/798841240/148.ts
-#EXTINF:-1 group-title="Esportes",SporTV FHD [H264]
-http://dnscine.top:80/419735964/798841240/680.ts
-#EXTINF:-1 group-title="Esportes",SporTV HD
-http://dnscine.top:80/419735964/798841240/149.ts
-#EXTINF:-1 group-title="Esportes",SporTV SD
-http://dnscine.top:80/419735964/798841240/518.ts
-#EXTINF:-1 group-title="Filmes e Series",Studio Universal FHD
-http://dnscine.top:80/419735964/798841240/154.ts
-#EXTINF:-1 group-title="Filmes e Series",Studio Universal HD
-http://dnscine.top:80/419735964/798841240/155.ts
-#EXTINF:-1 group-title="Filmes e Series",Studio Universal SD
-http://dnscine.top:80/419735964/798841240/551.ts
-#EXTINF:-1 group-title="Canais 24hrs",Sítio do Pica Pau Amarelo 24H
-http://dnscine.top:80/419735964/798841240/202299.ts
-#EXTINF:-1 group-title="Canais 24hrs",Taz Mania 24H
-http://dnscine.top:80/419735964/798841240/202287.ts
-#EXTINF:-1 group-title="Filmes e Series",TBC HD
-http://dnscine.top:80/419735964/798841240/419.ts
-#EXTINF:-1 group-title="Filmes e Series",TCM FHD
-http://dnscine.top:80/419735964/798841240/159.ts
-#EXTINF:-1 group-title="Filmes e Series",TCM HD
-http://dnscine.top:80/419735964/798841240/196.ts
-#EXTINF:-1 group-title="Filmes e Series",TCM SD
-http://dnscine.top:80/419735964/798841240/552.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action FHD
-http://dnscine.top:80/419735964/798841240/160.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action FHD [H264]
-http://dnscine.top:80/419735964/798841240/689.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action FHD²
-http://dnscine.top:80/419735964/798841240/1628234.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action HD
-http://dnscine.top:80/419735964/798841240/161.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action HD²
-http://dnscine.top:80/419735964/798841240/1628235.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action SD
-http://dnscine.top:80/419735964/798841240/561.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Action SD²
-http://dnscine.top:80/419735964/798841240/1628236.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult FHD
-http://dnscine.top:80/419735964/798841240/162.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult FHD [H264]
-http://dnscine.top:80/419735964/798841240/690.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult FHD²
-http://dnscine.top:80/419735964/798841240/1628237.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult HD
-http://dnscine.top:80/419735964/798841240/163.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult HD²
-http://dnscine.top:80/419735964/798841240/1628238.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult SD
-http://dnscine.top:80/419735964/798841240/562.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Cult SD²
-http://dnscine.top:80/419735964/798841240/1628239.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun FHD
-http://dnscine.top:80/419735964/798841240/164.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun FHD [H264]
-http://dnscine.top:80/419735964/798841240/691.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun FHD²
-http://dnscine.top:80/419735964/798841240/1628240.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun HD
-http://dnscine.top:80/419735964/798841240/165.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun HD²
-http://dnscine.top:80/419735964/798841240/1628241.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun SD
-http://dnscine.top:80/419735964/798841240/563.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Fun SD²
-http://dnscine.top:80/419735964/798841240/1628242.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca FHD
-http://dnscine.top:80/419735964/798841240/166.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca FHD [H264]
-http://dnscine.top:80/419735964/798841240/692.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca FHD²
-http://dnscine.top:80/419735964/798841240/1628243.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca HD
-http://dnscine.top:80/419735964/798841240/167.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca HD²
-http://dnscine.top:80/419735964/798841240/1628244.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca SD
-http://dnscine.top:80/419735964/798841240/564.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Pipoca SD²
-http://dnscine.top:80/419735964/798841240/1628245.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium FHD
-http://dnscine.top:80/419735964/798841240/168.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium FHD [H264]
-http://dnscine.top:80/419735964/798841240/693.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium FHD²
-http://dnscine.top:80/419735964/798841240/1628246.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium HD
-http://dnscine.top:80/419735964/798841240/169.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium HD²
-http://dnscine.top:80/419735964/798841240/1628247.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium SD
-http://dnscine.top:80/419735964/798841240/565.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Premium SD²
-http://dnscine.top:80/419735964/798841240/1628248.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch FHD
-http://dnscine.top:80/419735964/798841240/170.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch FHD [H264]
-http://dnscine.top:80/419735964/798841240/694.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch FHD²
-http://dnscine.top:80/419735964/798841240/1628249.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch HD
-http://dnscine.top:80/419735964/798841240/171.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch HD²
-http://dnscine.top:80/419735964/798841240/1628250.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch SD
-http://dnscine.top:80/419735964/798841240/566.ts
-#EXTINF:-1 group-title="Filmes e Series",Telecine Touch SD²
-http://dnscine.top:80/419735964/798841240/1628251.ts
-#EXTINF:-1,Teletubbies 24H
-http://dnscine.top:80/419735964/798841240/305887.ts
-#EXTINF:-1 group-title="Canais 24hrs",Teletubbies Desenho 24H
-http://dnscine.top:80/419735964/798841240/305888.ts
-#EXTINF:-1,TENDA TV HD
-http://dnscine.top:80/419735964/798841240/411.ts
-#EXTINF:-1,TERRA VIVA FHD
-http://dnscine.top:80/419735964/798841240/172.ts
-#EXTINF:-1,TERRA VIVA HD
-http://dnscine.top:80/419735964/798841240/173.ts
-#EXTINF:-1,TERRA VIVA SD
-http://dnscine.top:80/419735964/798841240/525.ts
-#EXTINF:-1 group-title="Canais 24hrs",The Backyardigans 24H
-http://dnscine.top:80/419735964/798841240/305876.ts
-#EXTINF:-1 group-title="Canais 24hrs",The Big Bang Theory 24H
-http://dnscine.top:80/419735964/798841240/202272.ts
-#EXTINF:-1 group-title="Canais 24hrs",The Twilight Zone 24H
-http://dnscine.top:80/419735964/798841240/202265.ts
-#EXTINF:-1 group-title="Canais 24hrs",ThunderCats (2011) 24H HD
-http://dnscine.top:80/419735964/798841240/202298.ts
-#EXTINF:-1 group-title="Canais 24hrs",Timão e Pumba 24H
-http://dnscine.top:80/419735964/798841240/202288.ts
-#EXTINF:-1 group-title="Filmes e Series",TLC FHD
-http://dnscine.top:80/419735964/798841240/174.ts
-#EXTINF:-1 group-title="Filmes e Series",TLC FHD H264
-http://dnscine.top:80/419735964/798841240/339.ts
-#EXTINF:-1 group-title="Filmes e Series",TLC HD
-http://dnscine.top:80/419735964/798841240/175.ts
-#EXTINF:-1 group-title="Filmes e Series",TLC SD
-http://dnscine.top:80/419735964/798841240/606.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT 4K
-http://dnscine.top:80/419735964/798841240/381.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT FHD
-http://dnscine.top:80/419735964/798841240/176.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT FHD [H264]
-http://dnscine.top:80/419735964/798841240/688.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT HD
-http://dnscine.top:80/419735964/798841240/177.ts
-#EXTINF:-1,TNT Novelas FHD
-http://dnscine.top:80/419735964/798841240/157.ts
-#EXTINF:-1,TNT Novelas FHD [H264]
-http://dnscine.top:80/419735964/798841240/789.ts
-#EXTINF:-1,TNT Novelas HD
-http://dnscine.top:80/419735964/798841240/158.ts
-#EXTINF:-1,TNT Novelas SD
-http://dnscine.top:80/419735964/798841240/620.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT SD
-http://dnscine.top:80/419735964/798841240/553.ts
-#EXTINF:-1 group-title="Esportes",TNT SPORTS 01 HD
-http://dnscine.top:80/419735964/798841240/297.ts
-#EXTINF:-1 group-title="Esportes",TNT SPORTS 02 HD
-http://dnscine.top:80/419735964/798841240/298.ts
-#EXTINF:-1 group-title="Esportes",TNT SPORTS 03 HD
-http://dnscine.top:80/419735964/798841240/299.ts
-#EXTINF:-1 group-title="Filmes e Series" ,TNT Séries FHD
-http://dnscine.top:80/419735964/798841240/178.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT Séries FHD [H264]
-http://dnscine.top:80/419735964/798841240/752.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT Séries HD
-http://dnscine.top:80/419735964/798841240/179.ts
-#EXTINF:-1 group-title="Filmes e Series",TNT Séries SD
-http://dnscine.top:80/419735964/798841240/554.ts
-#EXTINF:-1 group-title="Canais 24hrs",Todo Mundo Odeia o Chris 24H
-http://dnscine.top:80/419735964/798841240/202232.ts
-#EXTINF:-1 group-title="Canais 24hrs",Tom & Jerry  24H
-http://dnscine.top:80/419735964/798841240/202313.ts
-#EXTINF:-1 group-title="Infantis",Tooncast HD
-http://dnscine.top:80/419735964/798841240/436.ts
-#EXTINF:-1,Trace Brazuca FHD H264
-http://dnscine.top:80/419735964/798841240/757.ts
-#EXTINF:-1,Trace Brazuca HD
-http://dnscine.top:80/419735964/798841240/727.ts
-#EXTINF:-1,TRAVEL BOX BRASIL FHD
-http://dnscine.top:80/419735964/798841240/180.ts
-#EXTINF:-1,TRAVEL BOX BRASIL FHD H264
-http://dnscine.top:80/419735964/798841240/749.ts
-#EXTINF:-1 group-title="Canais 24hrs",Turma da Mônica 24H
-http://dnscine.top:80/419735964/798841240/305889.ts
-#EXTINF:-1 group-title="Canais SBT",TV ALTEROSA SBT MG FHD
-http://dnscine.top:80/419735964/798841240/213.ts
-#EXTINF:-1 group-title="Canais SBT",TV ALTEROSA SBT MG HD
-http://dnscine.top:80/419735964/798841240/338.ts
-#EXTINF:-1 group-title="Canais Abertos",TV APARECIDA FHD
-http://dnscine.top:80/419735964/798841240/181.ts
-#EXTINF:-1 group-title="Canais Abertos" ,TV APARECIDA HD
-http://dnscine.top:80/419735964/798841240/763664.ts
-#EXTINF:-1 group-title="Canais Abertos",TV BRASIL 2 SD
-http://dnscine.top:80/419735964/798841240/555.ts
-#EXTINF:-1 group-title="Canais Abertos",TV BRASIL FHD
-http://dnscine.top:80/419735964/798841240/194.ts
-#EXTINF:-1 group-title="Canais Abertos",TV CULTURA
-http://dnscine.top:80/419735964/798841240/556.ts
-#EXTINF:-1 group-title="Canais Abertos",TV CULTURA FHD
-http://dnscine.top:80/419735964/798841240/195.ts
-#EXTINF:-1 group-title="Canais Abertos",TV CÂMERA SD
-http://dnscine.top:80/419735964/798841240/557.ts
-#EXTINF:-1 group-title="Canais Abertos",TV DIARIO HD
-http://dnscine.top:80/419735964/798841240/273.ts
-#EXTINF:-1 group-title="Canais Abertos",TV EDUCATIVA FHD
-http://dnscine.top:80/419735964/798841240/268.ts
-#EXTINF:-1 group-title="Canais Abertos",TV EVANGELIZAR FHD H264
-http://dnscine.top:80/419735964/798841240/722.ts
-#EXTINF:-1 group-title="Canais Abertos",TV GAZETA FHD H264
-http://dnscine.top:80/419735964/798841240/317.ts
-#EXTINF:-1 group-title="Canais Abertos",TV GAZETA HD
-http://dnscine.top:80/419735964/798841240/316.ts
-#EXTINF:-1 group-title="Canais Abertos",TV Rá Tim Bum HD
-http://dnscine.top:80/419735964/798841240/126.ts
-#EXTINF:-1 group-title="Canais Abertos",TV Rá Tim Bum SD
-http://dnscine.top:80/419735964/798841240/526.ts
-#EXTINF:-1 group-title="Canais Abertos",TV SENADO
-http://dnscine.top:80/419735964/798841240/558.ts
-#EXTINF:-1 group-title="Canais Abertos",TV TEM BAURU SD
-http://dnscine.top:80/419735964/798841240/593.ts
-#EXTINF:-1 group-title="Canais Abertos",TV UNIVERSAL SD
-http://dnscine.top:80/419735964/798841240/592.ts
-#EXTINF:-1 group-title="Canais Abertos",TV VERDADE HD
-http://dnscine.top:80/419735964/798841240/308.ts
-#EXTINF:-1 group-title="Filmes e Series",Universal TV FHD
-http://dnscine.top:80/419735964/798841240/183.ts
-#EXTINF:-1 group-title="Filmes e Series",Universal TV FHD [H264]
-http://dnscine.top:80/419735964/798841240/751.ts
-#EXTINF:-1 group-title="Filmes e Series",Universal TV HD
-http://dnscine.top:80/419735964/798841240/184.ts
-#EXTINF:-1 group-title="Filmes e Series",Universal TV SD
-http://dnscine.top:80/419735964/798841240/568.ts
-#EXTINF:-1,VIVA FHD
-http://dnscine.top:80/419735964/798841240/360.ts
-#EXTINF:-1,VIVA FHD H264
-http://dnscine.top:80/419735964/798841240/766.ts
-#EXTINF:-1,VIVA HD
-http://dnscine.top:80/419735964/798841240/185.ts
-#EXTINF:-1,VIVA SD
-http://dnscine.top:80/419735964/798841240/569.ts
-#EXTINF:-1 group-title="Filmes e Series",Warner Channel FHD
-http://dnscine.top:80/419735964/798841240/186.ts
-#EXTINF:-1 group-title="Filmes e Series",Warner Channel FHD [H264]
-http://dnscine.top:80/419735964/798841240/750.ts
-#EXTINF:-1 group-title="Filmes e Series",Warner Channel HD
-http://dnscine.top:80/419735964/798841240/187.ts
-#EXTINF:-1 group-title="Filmes e Series",Warner Channel SD
-http://dnscine.top:80/419735964/798841240/570.ts
-#EXTINF:-1 group-title="Infantis",WooHoo FHD
-http://dnscine.top:80/419735964/798841240/277.ts
-#EXTINF:-1 group-title="Infantis",WooHoo HD
-http://dnscine.top:80/419735964/798841240/276.ts
-#EXTINF:-1 group-title="Infantis",WooHoo SD
-http://dnscine.top:80/419735964/798841240/571.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century
-http://dnscine.top:80/419735964/798841240/279.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 2
-http://dnscine.top:80/419735964/798841240/280.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 3
-http://dnscine.top:80/419735964/798841240/281.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 4
-http://dnscine.top:80/419735964/798841240/283.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 5
-http://dnscine.top:80/419735964/798841240/282.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 6
-http://dnscine.top:80/419735964/798841240/284.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 7
-http://dnscine.top:80/419735964/798841240/285.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Century 8
-http://dnscine.top:80/419735964/798841240/286.ts
-#EXTINF:-1 group-title="X-Adultos-X",XXX Milf channel
-http://dnscine.top:80/419735964/798841240/287.ts
-#EXTINF:-1 group-title="Infantis",ZooMoo FHD
-http://dnscine.top:80/419735964/798841240/188.ts
-#EXTINF:-1 group-title="Infantis",ZooMoo HD
-http://dnscine.top:80/419735964/798841240/270.ts
-
-
+#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",24H SUPERNATURAL
+http://coneasy.lat:80/live/1020304050/1020304050/607004.ts
+#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",24h Uma família da pesada
+http://coneasy.lat:80/live/1020304050/1020304050/464998.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",A&E FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97219.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",A&E HD
+http://coneasy.lat:80/live/1020304050/1020304050/8139.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",A&E SD
+http://coneasy.lat:80/live/1020304050/1020304050/97221.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",ADULT SWIM FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1021971.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",ADULT SWIM HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021970.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",ADULT SWIM SD
+http://coneasy.lat:80/live/1020304050/1020304050/1021969.ts
+#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 01²
+http://coneasy.lat:80/live/1020304050/1020304050/1518346.ts
+#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 02
+http://coneasy.lat:80/live/1020304050/1020304050/601977.ts
+#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 03
+http://coneasy.lat:80/live/1020304050/1020304050/601978.ts
+#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 05
+http://coneasy.lat:80/live/1020304050/1020304050/601985.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AMC HD
+http://coneasy.lat:80/live/1020304050/1020304050/7691.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AMC SD
+http://coneasy.lat:80/live/1020304050/1020304050/20891.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET FHD
+http://coneasy.lat:80/live/1020304050/1020304050/129380.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET HD
+http://coneasy.lat:80/live/1020304050/1020304050/129378.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET SD
+http://coneasy.lat:80/live/1020304050/1020304050/129376.ts
+#EXTINF:-1 group-title="⚽APPLETV+",APPLE TV 2
+http://coneasy.lat:80/live/1020304050/1020304050/466224.ts
+#EXTINF:-1 group-title="⚽APPLETV+",APPLE TV 3
+http://coneasy.lat:80/live/1020304050/1020304050/466226.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",ARTE 1 HD
+http://coneasy.lat:80/live/1020304050/1020304050/644498.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",ARTE 1 SD
+http://coneasy.lat:80/live/1020304050/1020304050/644499.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AXN FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97225.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AXN HD
+http://coneasy.lat:80/live/1020304050/1020304050/60937.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AXN SD
+http://coneasy.lat:80/live/1020304050/1020304050/97227.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",BAND NEWS HD
+http://coneasy.lat:80/live/1020304050/1020304050/608065.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",BAND NEWS SD
+http://coneasy.lat:80/live/1020304050/1020304050/608063.ts
+#EXTINF:-1 group-title="⚽ESPORTE",BAND SPORTS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608060.ts
+#EXTINF:-1 group-title="⚽ESPORTE",BAND SPORTS HD
+http://coneasy.lat:80/live/1020304050/1020304050/608058.ts
+#EXTINF:-1 group-title="⚽ESPORTE",BAND SPORTS SD
+http://coneasy.lat:80/live/1020304050/1020304050/608056.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1485133.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV HD
+http://coneasy.lat:80/live/1020304050/1020304050/469455.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV MINAS
+http://coneasy.lat:80/live/1020304050/1020304050/604919.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV SD
+http://coneasy.lat:80/live/1020304050/1020304050/1485117.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",BIS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/604837.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",BIS HD
+http://coneasy.lat:80/live/1020304050/1020304050/604835.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",BIS SD
+http://coneasy.lat:80/live/1020304050/1020304050/604833.ts
+#EXTINF:-1 group-title="SERIE D",BR: Brasileirão Série D 01 HD
+http://coneasy.lat:80/live/1020304050/1020304050/2249257.ts
+#EXTINF:-1 group-title="SERIE D",BR: Brasileirão Série D 05 HD
+http://coneasy.lat:80/live/1020304050/1020304050/2249261.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",CANAL BRASIL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/75477.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",CANAL BRASIL HD
+http://coneasy.lat:80/live/1020304050/1020304050/61412.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",CANAL BRASIL SD
+http://coneasy.lat:80/live/1020304050/1020304050/6963.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",CANAL DO BOI
+http://coneasy.lat:80/live/1020304050/1020304050/672996.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",CARTOON NETWORK HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021727.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",CARTOONITO FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1021730.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",CARTOONITO HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021729.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",CAZE TV 1
+http://coneasy.lat:80/live/1020304050/1020304050/1988294.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",CAZE TV 4
+http://coneasy.lat:80/live/1020304050/1020304050/601518.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",CINEMAX FHD
+http://coneasy.lat:80/live/1020304050/1020304050/10993.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",CINEMAX HD
+http://coneasy.lat:80/live/1020304050/1020304050/7802.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",CINEMAX SD
+http://coneasy.lat:80/live/1020304050/1020304050/4393.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNBC BRASIL
+http://coneasy.lat:80/live/1020304050/1020304050/670709.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN BRASIL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/44724.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN BRASIL HD
+http://coneasy.lat:80/live/1020304050/1020304050/44723.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN BRASIL SD
+http://coneasy.lat:80/live/1020304050/1020304050/57528.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN INTERNACIONAL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608157.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN INTERNACIONAL HD
+http://coneasy.lat:80/live/1020304050/1020304050/608156.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN INTERNACIONAL SD
+http://coneasy.lat:80/live/1020304050/1020304050/608155.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN MONEY
+http://coneasy.lat:80/live/1020304050/1020304050/670706.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",CNN PORTUGAL
+http://coneasy.lat:80/live/1020304050/1020304050/670707.ts
+#EXTINF:-1 group-title="⚽ESPORTE",COMBATE FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608052.ts
+#EXTINF:-1 group-title="⚽ESPORTE",COMBATE HD
+http://coneasy.lat:80/live/1020304050/1020304050/608051.ts
+#EXTINF:-1 group-title="⚽ESPORTE",COMBATE SD
+http://coneasy.lat:80/live/1020304050/1020304050/608049.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",COMEDY CENTRAL 4K
+http://coneasy.lat:80/live/1020304050/1020304050/110991.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",COMEDY CENTRAL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61244.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",COMEDY CENTRAL HD
+http://coneasy.lat:80/live/1020304050/1020304050/10292.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",CURTA! FHD
+http://coneasy.lat:80/live/1020304050/1020304050/94115.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",CURTA! HD
+http://coneasy.lat:80/live/1020304050/1020304050/94114.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",CURTA! SD
+http://coneasy.lat:80/live/1020304050/1020304050/10291.ts
+#EXTINF:-1 group-title="⚽DAZN",DAZN 1
+http://coneasy.lat:80/live/1020304050/1020304050/652998.ts
+#EXTINF:-1 group-title="⚽DAZN",DAZN 2
+http://coneasy.lat:80/live/1020304050/1020304050/653000.ts
+#EXTINF:-1 group-title="⚽DAZN",DAZN 3
+http://coneasy.lat:80/live/1020304050/1020304050/653002.ts
+#EXTINF:-1 group-title="⚽DAZN",DAZN 4
+http://coneasy.lat:80/live/1020304050/1020304050/653004.ts
+#EXTINF:-1 group-title="⚽DAZN",DAZN 5
+http://coneasy.lat:80/live/1020304050/1020304050/653006.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",DISCOVERY CHANNEL 4K
+http://coneasy.lat:80/live/1020304050/1020304050/97171.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97172.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL HD
+http://coneasy.lat:80/live/1020304050/1020304050/97173.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL SD
+http://coneasy.lat:80/live/1020304050/1020304050/61074.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",DISCOVERY H&H 4K
+http://coneasy.lat:80/live/1020304050/1020304050/110990.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY H&H FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97175.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY H&H HD
+http://coneasy.lat:80/live/1020304050/1020304050/97176.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY H&H SD
+http://coneasy.lat:80/live/1020304050/1020304050/97177.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY ID FHD
+http://coneasy.lat:80/live/1020304050/1020304050/30696.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY ID HD
+http://coneasy.lat:80/live/1020304050/1020304050/6869.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY ID SD
+http://coneasy.lat:80/live/1020304050/1020304050/4360.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",DISCOVERY KIDS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1021733.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",DISCOVERY KIDS HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021732.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",DISCOVERY KIDS SD
+http://coneasy.lat:80/live/1020304050/1020304050/1021731.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61232.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE HD
+http://coneasy.lat:80/live/1020304050/1020304050/7861.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE SD
+http://coneasy.lat:80/live/1020304050/1020304050/13206.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY THEATHER FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97187.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY THEATHER HD
+http://coneasy.lat:80/live/1020304050/1020304050/97188.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY THEATHER SD
+http://coneasy.lat:80/live/1020304050/1020304050/61233.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",DISCOVERY TURBO 4K
+http://coneasy.lat:80/live/1020304050/1020304050/110989.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY TURBO FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97190.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY TURBO HD
+http://coneasy.lat:80/live/1020304050/1020304050/97191.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY TURBO SD
+http://coneasy.lat:80/live/1020304050/1020304050/97192.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY WORLD FHD
+http://coneasy.lat:80/live/1020304050/1020304050/643752.ts
+#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY WORLD SD
+http://coneasy.lat:80/live/1020304050/1020304050/97195.ts
+#EXTINF:-1 group-title="⚽DISNEY +",DISNEY+ 02 FHD
+http://coneasy.lat:80/live/1020304050/1020304050/2905301.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",E! FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61161.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",E! HD
+http://coneasy.lat:80/live/1020304050/1020304050/10285.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",E! SD
+http://coneasy.lat:80/live/1020304050/1020304050/4382.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 01
+http://coneasy.lat:80/live/1020304050/1020304050/469449.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 02
+http://coneasy.lat:80/live/1020304050/1020304050/469450.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 03
+http://coneasy.lat:80/live/1020304050/1020304050/469451.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 04
+http://coneasy.lat:80/live/1020304050/1020304050/469452.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 05
+http://coneasy.lat:80/live/1020304050/1020304050/469453.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",EURONEWS EN ENGLISH
+http://coneasy.lat:80/live/1020304050/1020304050/670701.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",EURONEWS EN ESPANOL
+http://coneasy.lat:80/live/1020304050/1020304050/670700.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",EURONEWS EN PORTUGUES
+http://coneasy.lat:80/live/1020304050/1020304050/670702.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FASHION TV
+http://coneasy.lat:80/live/1020304050/1020304050/75491.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FILM & ARTS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97599.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FILM & ARTS HD
+http://coneasy.lat:80/live/1020304050/1020304050/60963.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FILM & ARTS SD
+http://coneasy.lat:80/live/1020304050/1020304050/97600.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",FISH TV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/644596.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",FISH TV HD
+http://coneasy.lat:80/live/1020304050/1020304050/94117.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",FISH TV SD
+http://coneasy.lat:80/live/1020304050/1020304050/4377.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FOOD NETWORK FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61275.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FOOD NETWORK HD
+http://coneasy.lat:80/live/1020304050/1020304050/7534.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",FOOD NETWORK SD
+http://coneasy.lat:80/live/1020304050/1020304050/6959.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",FOX NEWS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/670703.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",FOX NEWS HD
+http://coneasy.lat:80/live/1020304050/1020304050/670704.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",FOX NEWS SD
+http://coneasy.lat:80/live/1020304050/1020304050/670705.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",FUTSAL 1
+http://coneasy.lat:80/live/1020304050/1020304050/1169662.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",FUTSAL 2
+http://coneasy.lat:80/live/1020304050/1020304050/1169663.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",FUTSAL 3
+http://coneasy.lat:80/live/1020304050/1020304050/1169664.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",FUTURA
+http://coneasy.lat:80/live/1020304050/1020304050/604842.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO MINAS UHD
+http://coneasy.lat:80/live/1020304050/1020304050/630326.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO NEWS 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100335.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",GLOBO NEWS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608143.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",GLOBO NEWS HD
+http://coneasy.lat:80/live/1020304050/1020304050/608141.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",GLOBO NEWS SD
+http://coneasy.lat:80/live/1020304050/1020304050/608139.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO RBS TV UHD
+http://coneasy.lat:80/live/1020304050/1020304050/630327.ts
+#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO FHD
+http://coneasy.lat:80/live/1020304050/1020304050/113824.ts
+#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO HD
+http://coneasy.lat:80/live/1020304050/1020304050/113820.ts
+#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO SD
+http://coneasy.lat:80/live/1020304050/1020304050/113818.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO SÃO PAULO UHD
+http://coneasy.lat:80/live/1020304050/1020304050/630329.ts
+#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO TV MINAS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/113844.ts
+#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO TV MINAS HD
+http://coneasy.lat:80/live/1020304050/1020304050/113842.ts
+#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO TV MINAS SD
+http://coneasy.lat:80/live/1020304050/1020304050/113840.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",GLOOB FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1011676.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",GLOOB HD
+http://coneasy.lat:80/live/1020304050/1020304050/1011558.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",GLOOB SD
+http://coneasy.lat:80/live/1020304050/1020304050/1011525.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",GLOOBINHO FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1014944.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",GLOOBINHO HD
+http://coneasy.lat:80/live/1020304050/1020304050/1014921.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GNT 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100334.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",GNT FHD
+http://coneasy.lat:80/live/1020304050/1020304050/604947.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",GNT HD
+http://coneasy.lat:80/live/1020304050/1020304050/604946.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",GNT SD
+http://coneasy.lat:80/live/1020304050/1020304050/604945.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",GOLF CHANNEL HD
+http://coneasy.lat:80/live/1020304050/1020304050/1083051.ts
+#EXTINF:-1 group-title="Área do cliente",GUIA DE LUTAS
+http://coneasy.lat:80/live/1020304050/1020304050/1486360.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO + PLUS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/13190.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO + PLUS HD
+http://coneasy.lat:80/live/1020304050/1020304050/6106.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO + PLUS SD
+http://coneasy.lat:80/live/1020304050/1020304050/4363.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",HBO 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100333.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO FHD
+http://coneasy.lat:80/live/1020304050/1020304050/11566.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO HD
+http://coneasy.lat:80/live/1020304050/1020304050/6108.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO 2 HD
+http://coneasy.lat:80/live/1020304050/1020304050/6110.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO 2 SD
+http://coneasy.lat:80/live/1020304050/1020304050/4365.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO FAMILY FHD
+http://coneasy.lat:80/live/1020304050/1020304050/63299.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO FAMILY HD
+http://coneasy.lat:80/live/1020304050/1020304050/6109.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO FAMILY SD
+http://coneasy.lat:80/live/1020304050/1020304050/4364.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO MUNDI FHD
+http://coneasy.lat:80/live/1020304050/1020304050/63301.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO MUNDI HD
+http://coneasy.lat:80/live/1020304050/1020304050/10266.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO MUNDI SD
+http://coneasy.lat:80/live/1020304050/1020304050/4358.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO POP FHD
+http://coneasy.lat:80/live/1020304050/1020304050/25015.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO POP HD
+http://coneasy.lat:80/live/1020304050/1020304050/10265.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO POP SD
+http://coneasy.lat:80/live/1020304050/1020304050/60988.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO SD
+http://coneasy.lat:80/live/1020304050/1020304050/4366.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO SIGNATURE FHD
+http://coneasy.lat:80/live/1020304050/1020304050/63300.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO SIGNATURE HD
+http://coneasy.lat:80/live/1020304050/1020304050/6105.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO SIGNATURE SD
+http://coneasy.lat:80/live/1020304050/1020304050/4361.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO XTREME FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61210.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO XTREME HD
+http://coneasy.lat:80/live/1020304050/1020304050/60986.ts
+#EXTINF:-1 group-title="⏺️ HBO",HBO XTREME SD
+http://coneasy.lat:80/live/1020304050/1020304050/62850.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HGTV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/644599.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HGTV HD
+http://coneasy.lat:80/live/1020304050/1020304050/7862.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HGTV SD
+http://coneasy.lat:80/live/1020304050/1020304050/10236.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY 2 FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608194.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY 2 HD
+http://coneasy.lat:80/live/1020304050/1020304050/6111.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY 2 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608192.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97243.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY HD
+http://coneasy.lat:80/live/1020304050/1020304050/97247.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",JOVEM PAN NEWS 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100332.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",JOVEM PAN NEWS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97766.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",JOVEM PAN NEWS HD
+http://coneasy.lat:80/live/1020304050/1020304050/97765.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",JOVEM PAN NEWS SD
+http://coneasy.lat:80/live/1020304050/1020304050/608178.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",LIFETIME FHD
+http://coneasy.lat:80/live/1020304050/1020304050/69157.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",LIFETIME HD
+http://coneasy.lat:80/live/1020304050/1020304050/7525.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",LIFETIME SD
+http://coneasy.lat:80/live/1020304050/1020304050/7876.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",LIKE FHD
+http://coneasy.lat:80/live/1020304050/1020304050/981704.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",LIKE HD
+http://coneasy.lat:80/live/1020304050/1020304050/981703.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",LIKE SD
+http://coneasy.lat:80/live/1020304050/1020304050/981702.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",MEGAPIX 4K
+http://coneasy.lat:80/live/1020304050/1020304050/97347.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",MEGAPIX FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97003.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",MEGAPIX HD
+http://coneasy.lat:80/live/1020304050/1020304050/6101.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",MEGAPIX SD
+http://coneasy.lat:80/live/1020304050/1020304050/4354.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MODO VIAGEM FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97643.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MODO VIAGEM HD
+http://coneasy.lat:80/live/1020304050/1020304050/97644.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MODO VIAGEM SD
+http://coneasy.lat:80/live/1020304050/1020304050/97645.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV 00´S FHD
+http://coneasy.lat:80/live/1020304050/1020304050/638361.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV 00´S HD
+http://coneasy.lat:80/live/1020304050/1020304050/638360.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/129389.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV HD
+http://coneasy.lat:80/live/1020304050/1020304050/129387.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV LIVE FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1984424.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV LIVE HD
+http://coneasy.lat:80/live/1020304050/1020304050/1984423.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV LIVE SD
+http://coneasy.lat:80/live/1020304050/1020304050/1984422.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV SD
+http://coneasy.lat:80/live/1020304050/1020304050/129385.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
+http://coneasy.lat:80/live/1020304050/1020304050/97615.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MULTISHOW FHD
+http://coneasy.lat:80/live/1020304050/1020304050/96571.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MULTISHOW HD
+http://coneasy.lat:80/live/1020304050/1020304050/96570.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",MULTISHOW SD
+http://coneasy.lat:80/live/1020304050/1020304050/96569.ts
+#EXTINF:-1 group-title="⏺️ NBA LEAGUE PASS / NFL GAME PASS ",NBA TV
+http://coneasy.lat:80/live/1020304050/1020304050/1519025.ts
+#EXTINF:-1 group-title="⏺️ NBA LEAGUE PASS / NFL GAME PASS ",NBA TV¹
+http://coneasy.lat:80/live/1020304050/1020304050/104727.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",NICK JR FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1010108.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",NICK JR HD
+http://coneasy.lat:80/live/1020304050/1020304050/1010051.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",NICK JR SD
+http://coneasy.lat:80/live/1020304050/1020304050/1010010.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",NICKELODEON FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1021961.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",NICKELODEON HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021960.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",NICKELODEON SD
+http://coneasy.lat:80/live/1020304050/1020304050/1021959.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",OFF FHD
+http://coneasy.lat:80/live/1020304050/1020304050/604848.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",OFF HD
+http://coneasy.lat:80/live/1020304050/1020304050/604846.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",OFF SD
+http://coneasy.lat:80/live/1020304050/1020304050/604844.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 01
+http://coneasy.lat:80/live/1020304050/1020304050/141924.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 02
+http://coneasy.lat:80/live/1020304050/1020304050/141925.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 03
+http://coneasy.lat:80/live/1020304050/1020304050/141926.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 04
+http://coneasy.lat:80/live/1020304050/1020304050/141927.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/13185.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://coneasy.lat:80/live/1020304050/1020304050/6945.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL SD
+http://coneasy.lat:80/live/1020304050/1020304050/6946.ts
+#EXTINF:-1 group-title="⚽PARAMOUNT +",PARAMOUNT+ 2
+http://coneasy.lat:80/live/1020304050/1020304050/131200.ts
+#EXTINF:-1 group-title="⚽PARAMOUNT +",PARAMOUNT+ 4
+http://coneasy.lat:80/live/1020304050/1020304050/131205.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE MOSAICO
+http://coneasy.lat:80/live/1020304050/1020304050/608075.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",PREMIERE CLUBES 4K
+http://coneasy.lat:80/live/1020304050/1020304050/97215.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE CLUBES FHD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608080.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE CLUBES HD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608078.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 2 FHD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608087.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 2 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608083.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",PREMIERE 2 UHD
+http://coneasy.lat:80/live/1020304050/1020304050/630331.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 3 FHD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608094.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 3 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608090.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 4 FHD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608101.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 4 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608097.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 5 FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608108.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 5 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608104.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 6 FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608121.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 6 HD
+http://coneasy.lat:80/live/1020304050/1020304050/608119.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 6 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608117.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 7 FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608128.ts
+#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 8
+http://coneasy.lat:80/live/1020304050/1020304050/608131.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",PRIME BOX BRAZIL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1984427.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",PRIME BOX BRAZIL HD
+http://coneasy.lat:80/live/1020304050/1020304050/1984426.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",PRIME BOX BRAZIL SD
+http://coneasy.lat:80/live/1020304050/1020304050/1984425.ts
+#EXTINF:-1 group-title="⏺️ RECORD TV",RECORD TV
+http://coneasy.lat:80/live/1020304050/1020304050/129824.ts
+#EXTINF:-1 group-title="⏺️ RECORD TV",RECORD TV MINAS
+http://coneasy.lat:80/live/1020304050/1020304050/129781.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",RECORD TV NEWS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/608150.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",RECORD TV NEWS HD
+http://coneasy.lat:80/live/1020304050/1020304050/608148.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA",RECORD TV NEWS SD
+http://coneasy.lat:80/live/1020304050/1020304050/608146.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",REDE BRASIL
+http://coneasy.lat:80/live/1020304050/1020304050/111117.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",REDE TV 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100331.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",REDE TV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/111212.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",REDE TV HD
+http://coneasy.lat:80/live/1020304050/1020304050/111210.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",REDE TV SD
+http://coneasy.lat:80/live/1020304050/1020304050/4420.ts
+#EXTINF:-1 group-title="⏺️ RUNTIME",RUNTIME CRIME
+http://coneasy.lat:80/live/1020304050/1020304050/1486981.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",SABOR & ARTE
+http://coneasy.lat:80/live/1020304050/1020304050/117977.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT HD
+http://coneasy.lat:80/live/1020304050/1020304050/469477.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT MG HD¹
+http://coneasy.lat:80/live/1020304050/1020304050/469486.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT MINAS
+http://coneasy.lat:80/live/1020304050/1020304050/1485126.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT+ NOVELAS
+http://coneasy.lat:80/live/1020304050/1020304050/644624.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT+ RAIZ
+http://coneasy.lat:80/live/1020304050/1020304050/644628.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT+ KIDS
+http://coneasy.lat:80/live/1020304050/1020304050/644629.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY FHD
+http://coneasy.lat:80/live/1020304050/1020304050/13202.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY HD
+http://coneasy.lat:80/live/1020304050/1020304050/6961.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY MOVIES HD
+http://coneasy.lat:80/live/1020304050/1020304050/725554.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY MOVIES SD
+http://coneasy.lat:80/live/1020304050/1020304050/725553.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY SD
+http://coneasy.lat:80/live/1020304050/1020304050/4395.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SPACE FHD
+http://coneasy.lat:80/live/1020304050/1020304050/33767.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SPACE HD
+http://coneasy.lat:80/live/1020304050/1020304050/6085.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SPACE SD
+http://coneasy.lat:80/live/1020304050/1020304050/4328.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",SPORTV 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100330.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV HD²
+http://coneasy.lat:80/live/1020304050/1020304050/1487664.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV HD¹
+http://coneasy.lat:80/live/1020304050/1020304050/1988293.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV SD
+http://coneasy.lat:80/live/1020304050/1020304050/608028.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV 2 FHD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608039.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV 2 HD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608037.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV 2 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608035.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",SPORTV 2 UHD
+http://coneasy.lat:80/live/1020304050/1020304050/630332.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV 3 FHD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608046.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV 3 HD¹
+http://coneasy.lat:80/live/1020304050/1020304050/608044.ts
+#EXTINF:-1 group-title="⚽SPORTV",SPORTV 3 SD
+http://coneasy.lat:80/live/1020304050/1020304050/608042.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",SPORTV 3 UHD
+http://coneasy.lat:80/live/1020304050/1020304050/644867.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 01
+http://coneasy.lat:80/live/1020304050/1020304050/129968.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 02
+http://coneasy.lat:80/live/1020304050/1020304050/129971.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 03
+http://coneasy.lat:80/live/1020304050/1020304050/129974.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 04
+http://coneasy.lat:80/live/1020304050/1020304050/129977.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61217.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL HD
+http://coneasy.lat:80/live/1020304050/1020304050/97155.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL SD
+http://coneasy.lat:80/live/1020304050/1020304050/97156.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC ACTION FHD
+http://coneasy.lat:80/live/1020304050/1020304050/8141.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC ACTION SD
+http://coneasy.lat:80/live/1020304050/1020304050/4320.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC CULT FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97305.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC CULT HD
+http://coneasy.lat:80/live/1020304050/1020304050/10247.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC CULT SD
+http://coneasy.lat:80/live/1020304050/1020304050/1487608.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC FUN FHD
+http://coneasy.lat:80/live/1020304050/1020304050/63294.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC FUN HD
+http://coneasy.lat:80/live/1020304050/1020304050/6079.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC FUN SD
+http://coneasy.lat:80/live/1020304050/1020304050/4318.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC PIPOCA FHD
+http://coneasy.lat:80/live/1020304050/1020304050/100570.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC PIPOCA HD
+http://coneasy.lat:80/live/1020304050/1020304050/100569.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC PIPOCA SD
+http://coneasy.lat:80/live/1020304050/1020304050/100567.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC PREMIUM FHD
+http://coneasy.lat:80/live/1020304050/1020304050/63290.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC PREMIUM HD
+http://coneasy.lat:80/live/1020304050/1020304050/6077.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC PREMIUM SD
+http://coneasy.lat:80/live/1020304050/1020304050/4316.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC TOUCH FHD
+http://coneasy.lat:80/live/1020304050/1020304050/100579.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC TOUCH HD
+http://coneasy.lat:80/live/1020304050/1020304050/100576.ts
+#EXTINF:-1 group-title="⏺️ TELECINE",TC TOUCH SD
+http://coneasy.lat:80/live/1020304050/1020304050/100574.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TCM FHD
+http://coneasy.lat:80/live/1020304050/1020304050/75486.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TCM HD
+http://coneasy.lat:80/live/1020304050/1020304050/61003.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TCM SD
+http://coneasy.lat:80/live/1020304050/1020304050/4321.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TELECINE ACTION 4K
+http://coneasy.lat:80/live/1020304050/1020304050/100328.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TELECINE PREMIUM 4K
+http://coneasy.lat:80/live/1020304050/1020304050/97588.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",TERRA VIVA
+http://coneasy.lat:80/live/1020304050/1020304050/601507.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",TLC FHD
+http://coneasy.lat:80/live/1020304050/1020304050/69149.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",TLC HD
+http://coneasy.lat:80/live/1020304050/1020304050/608202.ts
+#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",TLC SD
+http://coneasy.lat:80/live/1020304050/1020304050/608201.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TNT 4K
+http://coneasy.lat:80/live/1020304050/1020304050/654340.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1094432.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT HD
+http://coneasy.lat:80/live/1020304050/1020304050/1094431.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT NOVELAS FHD
+http://coneasy.lat:80/live/1020304050/1020304050/94154.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT NOVELAS HD
+http://coneasy.lat:80/live/1020304050/1020304050/7873.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT NOVELAS SD
+http://coneasy.lat:80/live/1020304050/1020304050/4322.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SD
+http://coneasy.lat:80/live/1020304050/1020304050/1094430.ts
+#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TNT SERIES 4K
+http://coneasy.lat:80/live/1020304050/1020304050/97254.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SERIES FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61226.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SERIES HD
+http://coneasy.lat:80/live/1020304050/1020304050/6073.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SERIES SD
+http://coneasy.lat:80/live/1020304050/1020304050/61019.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",Tooncast FHD
+http://coneasy.lat:80/live/1020304050/1020304050/2904747.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",Tooncast HD
+http://coneasy.lat:80/live/1020304050/1020304050/2904748.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",TRU TV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1984430.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",TRU TV HD
+http://coneasy.lat:80/live/1020304050/1020304050/1984429.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",TRU TV SD
+http://coneasy.lat:80/live/1020304050/1020304050/1984428.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV APARECIDA
+http://coneasy.lat:80/live/1020304050/1020304050/111114.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",TV BRASIL
+http://coneasy.lat:80/live/1020304050/1020304050/60906.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",TV CAMERA
+http://coneasy.lat:80/live/1020304050/1020304050/1983905.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",TV CULTURA
+http://coneasy.lat:80/live/1020304050/1020304050/69134.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV EVANGELIZAR
+http://coneasy.lat:80/live/1020304050/1020304050/97836.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV GIDEOES
+http://coneasy.lat:80/live/1020304050/1020304050/670693.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV NOVO TEMPO
+http://coneasy.lat:80/live/1020304050/1020304050/6948.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV PAI ETERNO
+http://coneasy.lat:80/live/1020304050/1020304050/45595.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",TV RA TIM BUM FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1021965.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",TV RA TIM BUM HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021964.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",TV RA TIM BUM SD
+http://coneasy.lat:80/live/1020304050/1020304050/1021962.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV REDE SUPER
+http://coneasy.lat:80/live/1020304050/1020304050/670690.ts
+#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV REDE VIDA
+http://coneasy.lat:80/live/1020304050/1020304050/6939.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",TV SENADO
+http://coneasy.lat:80/live/1020304050/1020304050/119930.ts
+#EXTINF:-1 group-title="⏺️ ABERTO",TVE BAHIA
+http://coneasy.lat:80/live/1020304050/1020304050/1182062.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",UNIVERSAL TV FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97592.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",UNIVERSAL TV HD
+http://coneasy.lat:80/live/1020304050/1020304050/5987.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",UNIVERSAL TV SD
+http://coneasy.lat:80/live/1020304050/1020304050/97594.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",USA NETWORK FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97131.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",USA NETWORK HD
+http://coneasy.lat:80/live/1020304050/1020304050/97130.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",USA NETWORK SD
+http://coneasy.lat:80/live/1020304050/1020304050/97129.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",VIVA FHD
+http://coneasy.lat:80/live/1020304050/1020304050/97295.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",VIVA HD
+http://coneasy.lat:80/live/1020304050/1020304050/97296.ts
+#EXTINF:-1 group-title="⛰️ VARIEDADES",VIVA SD
+http://coneasy.lat:80/live/1020304050/1020304050/6928.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",WARNER CHANNEL FHD
+http://coneasy.lat:80/live/1020304050/1020304050/61228.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",WARNER CHANNEL HD
+http://coneasy.lat:80/live/1020304050/1020304050/6072.ts
+#EXTINF:-1 group-title="⏺️ FILMES E SERIES",WARNER CHANNEL SD
+http://coneasy.lat:80/live/1020304050/1020304050/4307.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",X Sports FHD
+http://coneasy.lat:80/live/1020304050/1020304050/2249250.ts
+#EXTINF:-1 group-title="⚽ESPORTES PPV",X Sports HD
+http://coneasy.lat:80/live/1020304050/1020304050/2249249.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",ZOOMO FHD
+http://coneasy.lat:80/live/1020304050/1020304050/1021968.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",ZOOMO HD
+http://coneasy.lat:80/live/1020304050/1020304050/1021967.ts
+#EXTINF:-1 group-title="⛄ INFANTIS",ZOOMO SD
+http://coneasy.lat:80/live/1020304050/1020304050/1021966.ts
+#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] BIG BANG THEORY
+http://coneasy.lat:80/live/1020304050/1020304050/1486998.ts
+#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] LARGADOS E PELADOS A TRIBO
+http://coneasy.lat:80/live/1020304050/1020304050/469917.ts
+#EXTINF:-1 group-title="⏲️ 24H PEGADINHAS",[24H] PEGADINHAS JOAO KLEBER
+http://coneasy.lat:80/live/1020304050/1020304050/1503969.ts
+#EXTINF:-1 group-title="⏲️ 24H PEGADINHAS",[24H] PEGADINHAS SILVIO SANTOS
+http://coneasy.lat:80/live/1020304050/1020304050/1503971.ts
+#EXTINF:-1 group-title="⏲️ 24H PEGADINHAS",[24H] PEGADINHAS YOUTUBER
+http://coneasy.lat:80/live/1020304050/1020304050/1503970.ts
+#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] PORTA DOS FUNDOS
+http://coneasy.lat:80/live/1020304050/1020304050/1503964.ts
+#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] SMALLVILE
+http://coneasy.lat:80/live/1020304050/1020304050/1502581.ts
+#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT ALTEROSA MG FHD
+http://coneasy.lat:80/live/1020304050/1020304050/3236783.ts
