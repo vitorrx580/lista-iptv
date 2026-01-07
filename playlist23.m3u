@@ -1,763 +1,1483 @@
 #EXTM3U
-#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",24H SUPERNATURAL
-http://coneasy.lat:80/live/1020304050/1020304050/607004.ts
-#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",24h Uma família da pesada
-http://coneasy.lat:80/live/1020304050/1020304050/464998.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",A&E FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97219.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",A&E HD
-http://coneasy.lat:80/live/1020304050/1020304050/8139.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",A&E SD
-http://coneasy.lat:80/live/1020304050/1020304050/97221.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",ADULT SWIM FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1021971.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",ADULT SWIM HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021970.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",ADULT SWIM SD
-http://coneasy.lat:80/live/1020304050/1020304050/1021969.ts
-#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 01²
-http://coneasy.lat:80/live/1020304050/1020304050/1518346.ts
-#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 02
-http://coneasy.lat:80/live/1020304050/1020304050/601977.ts
-#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 03
-http://coneasy.lat:80/live/1020304050/1020304050/601978.ts
-#EXTINF:-1 group-title="⚽PRIME VIDEO",Amazon Prime Video 05
-http://coneasy.lat:80/live/1020304050/1020304050/601985.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AMC HD
-http://coneasy.lat:80/live/1020304050/1020304050/7691.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AMC SD
-http://coneasy.lat:80/live/1020304050/1020304050/20891.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET FHD
-http://coneasy.lat:80/live/1020304050/1020304050/129380.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET HD
-http://coneasy.lat:80/live/1020304050/1020304050/129378.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",ANIMAL PLANET SD
-http://coneasy.lat:80/live/1020304050/1020304050/129376.ts
-#EXTINF:-1 group-title="⚽APPLETV+",APPLE TV 2
-http://coneasy.lat:80/live/1020304050/1020304050/466224.ts
-#EXTINF:-1 group-title="⚽APPLETV+",APPLE TV 3
-http://coneasy.lat:80/live/1020304050/1020304050/466226.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",ARTE 1 HD
-http://coneasy.lat:80/live/1020304050/1020304050/644498.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",ARTE 1 SD
-http://coneasy.lat:80/live/1020304050/1020304050/644499.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AXN FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97225.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AXN HD
-http://coneasy.lat:80/live/1020304050/1020304050/60937.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",AXN SD
-http://coneasy.lat:80/live/1020304050/1020304050/97227.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",BAND NEWS HD
-http://coneasy.lat:80/live/1020304050/1020304050/608065.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",BAND NEWS SD
-http://coneasy.lat:80/live/1020304050/1020304050/608063.ts
-#EXTINF:-1 group-title="⚽ESPORTE",BAND SPORTS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608060.ts
-#EXTINF:-1 group-title="⚽ESPORTE",BAND SPORTS HD
-http://coneasy.lat:80/live/1020304050/1020304050/608058.ts
-#EXTINF:-1 group-title="⚽ESPORTE",BAND SPORTS SD
-http://coneasy.lat:80/live/1020304050/1020304050/608056.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1485133.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV HD
-http://coneasy.lat:80/live/1020304050/1020304050/469455.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV MINAS
-http://coneasy.lat:80/live/1020304050/1020304050/604919.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",BAND TV SD
-http://coneasy.lat:80/live/1020304050/1020304050/1485117.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",BIS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/604837.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",BIS HD
-http://coneasy.lat:80/live/1020304050/1020304050/604835.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",BIS SD
-http://coneasy.lat:80/live/1020304050/1020304050/604833.ts
-#EXTINF:-1 group-title="SERIE D",BR: Brasileirão Série D 01 HD
-http://coneasy.lat:80/live/1020304050/1020304050/2249257.ts
-#EXTINF:-1 group-title="SERIE D",BR: Brasileirão Série D 05 HD
-http://coneasy.lat:80/live/1020304050/1020304050/2249261.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",CANAL BRASIL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/75477.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",CANAL BRASIL HD
-http://coneasy.lat:80/live/1020304050/1020304050/61412.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",CANAL BRASIL SD
-http://coneasy.lat:80/live/1020304050/1020304050/6963.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",CANAL DO BOI
-http://coneasy.lat:80/live/1020304050/1020304050/672996.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",CARTOON NETWORK HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021727.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",CARTOONITO FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1021730.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",CARTOONITO HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021729.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",CAZE TV 1
-http://coneasy.lat:80/live/1020304050/1020304050/1988294.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",CAZE TV 4
-http://coneasy.lat:80/live/1020304050/1020304050/601518.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",CINEMAX FHD
-http://coneasy.lat:80/live/1020304050/1020304050/10993.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",CINEMAX HD
-http://coneasy.lat:80/live/1020304050/1020304050/7802.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",CINEMAX SD
-http://coneasy.lat:80/live/1020304050/1020304050/4393.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNBC BRASIL
-http://coneasy.lat:80/live/1020304050/1020304050/670709.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN BRASIL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/44724.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN BRASIL HD
-http://coneasy.lat:80/live/1020304050/1020304050/44723.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN BRASIL SD
-http://coneasy.lat:80/live/1020304050/1020304050/57528.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN INTERNACIONAL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608157.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN INTERNACIONAL HD
-http://coneasy.lat:80/live/1020304050/1020304050/608156.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN INTERNACIONAL SD
-http://coneasy.lat:80/live/1020304050/1020304050/608155.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN MONEY
-http://coneasy.lat:80/live/1020304050/1020304050/670706.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",CNN PORTUGAL
-http://coneasy.lat:80/live/1020304050/1020304050/670707.ts
-#EXTINF:-1 group-title="⚽ESPORTE",COMBATE FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608052.ts
-#EXTINF:-1 group-title="⚽ESPORTE",COMBATE HD
-http://coneasy.lat:80/live/1020304050/1020304050/608051.ts
-#EXTINF:-1 group-title="⚽ESPORTE",COMBATE SD
-http://coneasy.lat:80/live/1020304050/1020304050/608049.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",COMEDY CENTRAL 4K
-http://coneasy.lat:80/live/1020304050/1020304050/110991.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",COMEDY CENTRAL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61244.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",COMEDY CENTRAL HD
-http://coneasy.lat:80/live/1020304050/1020304050/10292.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",CURTA! FHD
-http://coneasy.lat:80/live/1020304050/1020304050/94115.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",CURTA! HD
-http://coneasy.lat:80/live/1020304050/1020304050/94114.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",CURTA! SD
-http://coneasy.lat:80/live/1020304050/1020304050/10291.ts
-#EXTINF:-1 group-title="⚽DAZN",DAZN 1
-http://coneasy.lat:80/live/1020304050/1020304050/652998.ts
-#EXTINF:-1 group-title="⚽DAZN",DAZN 2
-http://coneasy.lat:80/live/1020304050/1020304050/653000.ts
-#EXTINF:-1 group-title="⚽DAZN",DAZN 3
-http://coneasy.lat:80/live/1020304050/1020304050/653002.ts
-#EXTINF:-1 group-title="⚽DAZN",DAZN 4
-http://coneasy.lat:80/live/1020304050/1020304050/653004.ts
-#EXTINF:-1 group-title="⚽DAZN",DAZN 5
-http://coneasy.lat:80/live/1020304050/1020304050/653006.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",DISCOVERY CHANNEL 4K
-http://coneasy.lat:80/live/1020304050/1020304050/97171.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97172.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL HD
-http://coneasy.lat:80/live/1020304050/1020304050/97173.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY CHANNEL SD
-http://coneasy.lat:80/live/1020304050/1020304050/61074.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",DISCOVERY H&H 4K
-http://coneasy.lat:80/live/1020304050/1020304050/110990.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY H&H FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97175.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY H&H HD
-http://coneasy.lat:80/live/1020304050/1020304050/97176.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY H&H SD
-http://coneasy.lat:80/live/1020304050/1020304050/97177.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY ID FHD
-http://coneasy.lat:80/live/1020304050/1020304050/30696.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY ID HD
-http://coneasy.lat:80/live/1020304050/1020304050/6869.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY ID SD
-http://coneasy.lat:80/live/1020304050/1020304050/4360.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",DISCOVERY KIDS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1021733.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",DISCOVERY KIDS HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021732.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",DISCOVERY KIDS SD
-http://coneasy.lat:80/live/1020304050/1020304050/1021731.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61232.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE HD
-http://coneasy.lat:80/live/1020304050/1020304050/7861.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY SCIENCE SD
-http://coneasy.lat:80/live/1020304050/1020304050/13206.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY THEATHER FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97187.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY THEATHER HD
-http://coneasy.lat:80/live/1020304050/1020304050/97188.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY THEATHER SD
-http://coneasy.lat:80/live/1020304050/1020304050/61233.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",DISCOVERY TURBO 4K
-http://coneasy.lat:80/live/1020304050/1020304050/110989.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY TURBO FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97190.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY TURBO HD
-http://coneasy.lat:80/live/1020304050/1020304050/97191.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY TURBO SD
-http://coneasy.lat:80/live/1020304050/1020304050/97192.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY WORLD FHD
-http://coneasy.lat:80/live/1020304050/1020304050/643752.ts
-#EXTINF:-1 group-title="⏺️ DISCOVERY",DISCOVERY WORLD SD
-http://coneasy.lat:80/live/1020304050/1020304050/97195.ts
-#EXTINF:-1 group-title="⚽DISNEY +",DISNEY+ 02 FHD
-http://coneasy.lat:80/live/1020304050/1020304050/2905301.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",E! FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61161.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",E! HD
-http://coneasy.lat:80/live/1020304050/1020304050/10285.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",E! SD
-http://coneasy.lat:80/live/1020304050/1020304050/4382.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 01
-http://coneasy.lat:80/live/1020304050/1020304050/469449.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 02
-http://coneasy.lat:80/live/1020304050/1020304050/469450.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 03
-http://coneasy.lat:80/live/1020304050/1020304050/469451.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 04
-http://coneasy.lat:80/live/1020304050/1020304050/469452.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ELEVEN SPORTS 05
-http://coneasy.lat:80/live/1020304050/1020304050/469453.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",EURONEWS EN ENGLISH
-http://coneasy.lat:80/live/1020304050/1020304050/670701.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",EURONEWS EN ESPANOL
-http://coneasy.lat:80/live/1020304050/1020304050/670700.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",EURONEWS EN PORTUGUES
-http://coneasy.lat:80/live/1020304050/1020304050/670702.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FASHION TV
-http://coneasy.lat:80/live/1020304050/1020304050/75491.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FILM & ARTS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97599.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FILM & ARTS HD
-http://coneasy.lat:80/live/1020304050/1020304050/60963.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FILM & ARTS SD
-http://coneasy.lat:80/live/1020304050/1020304050/97600.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",FISH TV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/644596.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",FISH TV HD
-http://coneasy.lat:80/live/1020304050/1020304050/94117.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",FISH TV SD
-http://coneasy.lat:80/live/1020304050/1020304050/4377.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FOOD NETWORK FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61275.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FOOD NETWORK HD
-http://coneasy.lat:80/live/1020304050/1020304050/7534.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",FOOD NETWORK SD
-http://coneasy.lat:80/live/1020304050/1020304050/6959.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",FOX NEWS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/670703.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",FOX NEWS HD
-http://coneasy.lat:80/live/1020304050/1020304050/670704.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",FOX NEWS SD
-http://coneasy.lat:80/live/1020304050/1020304050/670705.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",FUTSAL 1
-http://coneasy.lat:80/live/1020304050/1020304050/1169662.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",FUTSAL 2
-http://coneasy.lat:80/live/1020304050/1020304050/1169663.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",FUTSAL 3
-http://coneasy.lat:80/live/1020304050/1020304050/1169664.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",FUTURA
-http://coneasy.lat:80/live/1020304050/1020304050/604842.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO MINAS UHD
-http://coneasy.lat:80/live/1020304050/1020304050/630326.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO NEWS 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100335.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",GLOBO NEWS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608143.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",GLOBO NEWS HD
-http://coneasy.lat:80/live/1020304050/1020304050/608141.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",GLOBO NEWS SD
-http://coneasy.lat:80/live/1020304050/1020304050/608139.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO RBS TV UHD
-http://coneasy.lat:80/live/1020304050/1020304050/630327.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO FHD
-http://coneasy.lat:80/live/1020304050/1020304050/113824.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO HD
-http://coneasy.lat:80/live/1020304050/1020304050/113820.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO SD
-http://coneasy.lat:80/live/1020304050/1020304050/113818.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GLOBO SÃO PAULO UHD
-http://coneasy.lat:80/live/1020304050/1020304050/630329.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO TV MINAS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/113844.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO TV MINAS HD
-http://coneasy.lat:80/live/1020304050/1020304050/113842.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (SUDESTE)",GLOBO TV MINAS SD
-http://coneasy.lat:80/live/1020304050/1020304050/113840.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",GLOOB FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1011676.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",GLOOB HD
-http://coneasy.lat:80/live/1020304050/1020304050/1011558.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",GLOOB SD
-http://coneasy.lat:80/live/1020304050/1020304050/1011525.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",GLOOBINHO FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1014944.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",GLOOBINHO HD
-http://coneasy.lat:80/live/1020304050/1020304050/1014921.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",GNT 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100334.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",GNT FHD
-http://coneasy.lat:80/live/1020304050/1020304050/604947.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",GNT HD
-http://coneasy.lat:80/live/1020304050/1020304050/604946.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",GNT SD
-http://coneasy.lat:80/live/1020304050/1020304050/604945.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",GOLF CHANNEL HD
-http://coneasy.lat:80/live/1020304050/1020304050/1083051.ts
-#EXTINF:-1 group-title="Área do cliente",GUIA DE LUTAS
-http://coneasy.lat:80/live/1020304050/1020304050/1486360.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO + PLUS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/13190.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO + PLUS HD
-http://coneasy.lat:80/live/1020304050/1020304050/6106.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO + PLUS SD
-http://coneasy.lat:80/live/1020304050/1020304050/4363.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",HBO 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100333.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO FHD
-http://coneasy.lat:80/live/1020304050/1020304050/11566.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO HD
-http://coneasy.lat:80/live/1020304050/1020304050/6108.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO 2 HD
-http://coneasy.lat:80/live/1020304050/1020304050/6110.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO 2 SD
-http://coneasy.lat:80/live/1020304050/1020304050/4365.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO FAMILY FHD
-http://coneasy.lat:80/live/1020304050/1020304050/63299.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO FAMILY HD
-http://coneasy.lat:80/live/1020304050/1020304050/6109.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO FAMILY SD
-http://coneasy.lat:80/live/1020304050/1020304050/4364.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO MUNDI FHD
-http://coneasy.lat:80/live/1020304050/1020304050/63301.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO MUNDI HD
-http://coneasy.lat:80/live/1020304050/1020304050/10266.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO MUNDI SD
-http://coneasy.lat:80/live/1020304050/1020304050/4358.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO POP FHD
-http://coneasy.lat:80/live/1020304050/1020304050/25015.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO POP HD
-http://coneasy.lat:80/live/1020304050/1020304050/10265.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO POP SD
-http://coneasy.lat:80/live/1020304050/1020304050/60988.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO SD
-http://coneasy.lat:80/live/1020304050/1020304050/4366.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO SIGNATURE FHD
-http://coneasy.lat:80/live/1020304050/1020304050/63300.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO SIGNATURE HD
-http://coneasy.lat:80/live/1020304050/1020304050/6105.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO SIGNATURE SD
-http://coneasy.lat:80/live/1020304050/1020304050/4361.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO XTREME FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61210.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO XTREME HD
-http://coneasy.lat:80/live/1020304050/1020304050/60986.ts
-#EXTINF:-1 group-title="⏺️ HBO",HBO XTREME SD
-http://coneasy.lat:80/live/1020304050/1020304050/62850.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HGTV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/644599.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HGTV HD
-http://coneasy.lat:80/live/1020304050/1020304050/7862.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HGTV SD
-http://coneasy.lat:80/live/1020304050/1020304050/10236.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY 2 FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608194.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY 2 HD
-http://coneasy.lat:80/live/1020304050/1020304050/6111.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY 2 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608192.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97243.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",HISTORY HD
-http://coneasy.lat:80/live/1020304050/1020304050/97247.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",JOVEM PAN NEWS 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100332.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",JOVEM PAN NEWS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97766.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",JOVEM PAN NEWS HD
-http://coneasy.lat:80/live/1020304050/1020304050/97765.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",JOVEM PAN NEWS SD
-http://coneasy.lat:80/live/1020304050/1020304050/608178.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",LIFETIME FHD
-http://coneasy.lat:80/live/1020304050/1020304050/69157.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",LIFETIME HD
-http://coneasy.lat:80/live/1020304050/1020304050/7525.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",LIFETIME SD
-http://coneasy.lat:80/live/1020304050/1020304050/7876.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",LIKE FHD
-http://coneasy.lat:80/live/1020304050/1020304050/981704.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",LIKE HD
-http://coneasy.lat:80/live/1020304050/1020304050/981703.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",LIKE SD
-http://coneasy.lat:80/live/1020304050/1020304050/981702.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",MEGAPIX 4K
-http://coneasy.lat:80/live/1020304050/1020304050/97347.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",MEGAPIX FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97003.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",MEGAPIX HD
-http://coneasy.lat:80/live/1020304050/1020304050/6101.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",MEGAPIX SD
-http://coneasy.lat:80/live/1020304050/1020304050/4354.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MODO VIAGEM FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97643.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MODO VIAGEM HD
-http://coneasy.lat:80/live/1020304050/1020304050/97644.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MODO VIAGEM SD
-http://coneasy.lat:80/live/1020304050/1020304050/97645.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV 00´S FHD
-http://coneasy.lat:80/live/1020304050/1020304050/638361.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV 00´S HD
-http://coneasy.lat:80/live/1020304050/1020304050/638360.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/129389.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV HD
-http://coneasy.lat:80/live/1020304050/1020304050/129387.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV LIVE FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1984424.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV LIVE HD
-http://coneasy.lat:80/live/1020304050/1020304050/1984423.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV LIVE SD
-http://coneasy.lat:80/live/1020304050/1020304050/1984422.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MTV SD
-http://coneasy.lat:80/live/1020304050/1020304050/129385.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
-http://coneasy.lat:80/live/1020304050/1020304050/97615.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MULTISHOW FHD
-http://coneasy.lat:80/live/1020304050/1020304050/96571.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MULTISHOW HD
-http://coneasy.lat:80/live/1020304050/1020304050/96570.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",MULTISHOW SD
-http://coneasy.lat:80/live/1020304050/1020304050/96569.ts
-#EXTINF:-1 group-title="⏺️ NBA LEAGUE PASS / NFL GAME PASS ",NBA TV
-http://coneasy.lat:80/live/1020304050/1020304050/1519025.ts
-#EXTINF:-1 group-title="⏺️ NBA LEAGUE PASS / NFL GAME PASS ",NBA TV¹
-http://coneasy.lat:80/live/1020304050/1020304050/104727.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",NICK JR FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1010108.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",NICK JR HD
-http://coneasy.lat:80/live/1020304050/1020304050/1010051.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",NICK JR SD
-http://coneasy.lat:80/live/1020304050/1020304050/1010010.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",NICKELODEON FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1021961.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",NICKELODEON HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021960.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",NICKELODEON SD
-http://coneasy.lat:80/live/1020304050/1020304050/1021959.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",OFF FHD
-http://coneasy.lat:80/live/1020304050/1020304050/604848.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",OFF HD
-http://coneasy.lat:80/live/1020304050/1020304050/604846.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",OFF SD
-http://coneasy.lat:80/live/1020304050/1020304050/604844.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 01
-http://coneasy.lat:80/live/1020304050/1020304050/141924.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 02
-http://coneasy.lat:80/live/1020304050/1020304050/141925.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 03
-http://coneasy.lat:80/live/1020304050/1020304050/141926.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",ONEFOOTBALL 04
-http://coneasy.lat:80/live/1020304050/1020304050/141927.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/13185.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://coneasy.lat:80/live/1020304050/1020304050/6945.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",PARAMOUNT CHANNEL SD
-http://coneasy.lat:80/live/1020304050/1020304050/6946.ts
-#EXTINF:-1 group-title="⚽PARAMOUNT +",PARAMOUNT+ 2
-http://coneasy.lat:80/live/1020304050/1020304050/131200.ts
-#EXTINF:-1 group-title="⚽PARAMOUNT +",PARAMOUNT+ 4
-http://coneasy.lat:80/live/1020304050/1020304050/131205.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE MOSAICO
-http://coneasy.lat:80/live/1020304050/1020304050/608075.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",PREMIERE CLUBES 4K
-http://coneasy.lat:80/live/1020304050/1020304050/97215.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE CLUBES FHD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608080.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE CLUBES HD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608078.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 2 FHD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608087.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 2 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608083.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",PREMIERE 2 UHD
-http://coneasy.lat:80/live/1020304050/1020304050/630331.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 3 FHD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608094.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 3 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608090.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 4 FHD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608101.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 4 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608097.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 5 FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608108.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 5 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608104.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 6 FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608121.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 6 HD
-http://coneasy.lat:80/live/1020304050/1020304050/608119.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 6 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608117.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 7 FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608128.ts
-#EXTINF:-1 group-title="⚽PREMIERE",PREMIERE 8
-http://coneasy.lat:80/live/1020304050/1020304050/608131.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",PRIME BOX BRAZIL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1984427.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",PRIME BOX BRAZIL HD
-http://coneasy.lat:80/live/1020304050/1020304050/1984426.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",PRIME BOX BRAZIL SD
-http://coneasy.lat:80/live/1020304050/1020304050/1984425.ts
-#EXTINF:-1 group-title="⏺️ RECORD TV",RECORD TV
-http://coneasy.lat:80/live/1020304050/1020304050/129824.ts
-#EXTINF:-1 group-title="⏺️ RECORD TV",RECORD TV MINAS
-http://coneasy.lat:80/live/1020304050/1020304050/129781.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",RECORD TV NEWS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/608150.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",RECORD TV NEWS HD
-http://coneasy.lat:80/live/1020304050/1020304050/608148.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA",RECORD TV NEWS SD
-http://coneasy.lat:80/live/1020304050/1020304050/608146.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",REDE BRASIL
-http://coneasy.lat:80/live/1020304050/1020304050/111117.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",REDE TV 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100331.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",REDE TV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/111212.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",REDE TV HD
-http://coneasy.lat:80/live/1020304050/1020304050/111210.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",REDE TV SD
-http://coneasy.lat:80/live/1020304050/1020304050/4420.ts
-#EXTINF:-1 group-title="⏺️ RUNTIME",RUNTIME CRIME
-http://coneasy.lat:80/live/1020304050/1020304050/1486981.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",SABOR & ARTE
-http://coneasy.lat:80/live/1020304050/1020304050/117977.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT HD
-http://coneasy.lat:80/live/1020304050/1020304050/469477.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT MG HD¹
-http://coneasy.lat:80/live/1020304050/1020304050/469486.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT MINAS
-http://coneasy.lat:80/live/1020304050/1020304050/1485126.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT+ NOVELAS
-http://coneasy.lat:80/live/1020304050/1020304050/644624.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT+ RAIZ
-http://coneasy.lat:80/live/1020304050/1020304050/644628.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT+ KIDS
-http://coneasy.lat:80/live/1020304050/1020304050/644629.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY FHD
-http://coneasy.lat:80/live/1020304050/1020304050/13202.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY HD
-http://coneasy.lat:80/live/1020304050/1020304050/6961.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY MOVIES HD
-http://coneasy.lat:80/live/1020304050/1020304050/725554.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY MOVIES SD
-http://coneasy.lat:80/live/1020304050/1020304050/725553.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SONY SD
-http://coneasy.lat:80/live/1020304050/1020304050/4395.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SPACE FHD
-http://coneasy.lat:80/live/1020304050/1020304050/33767.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SPACE HD
-http://coneasy.lat:80/live/1020304050/1020304050/6085.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",SPACE SD
-http://coneasy.lat:80/live/1020304050/1020304050/4328.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",SPORTV 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100330.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV HD²
-http://coneasy.lat:80/live/1020304050/1020304050/1487664.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV HD¹
-http://coneasy.lat:80/live/1020304050/1020304050/1988293.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV SD
-http://coneasy.lat:80/live/1020304050/1020304050/608028.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV 2 FHD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608039.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV 2 HD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608037.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV 2 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608035.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",SPORTV 2 UHD
-http://coneasy.lat:80/live/1020304050/1020304050/630332.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV 3 FHD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608046.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV 3 HD¹
-http://coneasy.lat:80/live/1020304050/1020304050/608044.ts
-#EXTINF:-1 group-title="⚽SPORTV",SPORTV 3 SD
-http://coneasy.lat:80/live/1020304050/1020304050/608042.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",SPORTV 3 UHD
-http://coneasy.lat:80/live/1020304050/1020304050/644867.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 01
-http://coneasy.lat:80/live/1020304050/1020304050/129968.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 02
-http://coneasy.lat:80/live/1020304050/1020304050/129971.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 03
-http://coneasy.lat:80/live/1020304050/1020304050/129974.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",SPORTYNET 04
-http://coneasy.lat:80/live/1020304050/1020304050/129977.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61217.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL HD
-http://coneasy.lat:80/live/1020304050/1020304050/97155.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",STUDIO UNIVERSAL SD
-http://coneasy.lat:80/live/1020304050/1020304050/97156.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC ACTION FHD
-http://coneasy.lat:80/live/1020304050/1020304050/8141.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC ACTION SD
-http://coneasy.lat:80/live/1020304050/1020304050/4320.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC CULT FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97305.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC CULT HD
-http://coneasy.lat:80/live/1020304050/1020304050/10247.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC CULT SD
-http://coneasy.lat:80/live/1020304050/1020304050/1487608.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC FUN FHD
-http://coneasy.lat:80/live/1020304050/1020304050/63294.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC FUN HD
-http://coneasy.lat:80/live/1020304050/1020304050/6079.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC FUN SD
-http://coneasy.lat:80/live/1020304050/1020304050/4318.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC PIPOCA FHD
-http://coneasy.lat:80/live/1020304050/1020304050/100570.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC PIPOCA HD
-http://coneasy.lat:80/live/1020304050/1020304050/100569.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC PIPOCA SD
-http://coneasy.lat:80/live/1020304050/1020304050/100567.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC PREMIUM FHD
-http://coneasy.lat:80/live/1020304050/1020304050/63290.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC PREMIUM HD
-http://coneasy.lat:80/live/1020304050/1020304050/6077.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC PREMIUM SD
-http://coneasy.lat:80/live/1020304050/1020304050/4316.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC TOUCH FHD
-http://coneasy.lat:80/live/1020304050/1020304050/100579.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC TOUCH HD
-http://coneasy.lat:80/live/1020304050/1020304050/100576.ts
-#EXTINF:-1 group-title="⏺️ TELECINE",TC TOUCH SD
-http://coneasy.lat:80/live/1020304050/1020304050/100574.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TCM FHD
-http://coneasy.lat:80/live/1020304050/1020304050/75486.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TCM HD
-http://coneasy.lat:80/live/1020304050/1020304050/61003.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TCM SD
-http://coneasy.lat:80/live/1020304050/1020304050/4321.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TELECINE ACTION 4K
-http://coneasy.lat:80/live/1020304050/1020304050/100328.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TELECINE PREMIUM 4K
-http://coneasy.lat:80/live/1020304050/1020304050/97588.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",TERRA VIVA
-http://coneasy.lat:80/live/1020304050/1020304050/601507.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",TLC FHD
-http://coneasy.lat:80/live/1020304050/1020304050/69149.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",TLC HD
-http://coneasy.lat:80/live/1020304050/1020304050/608202.ts
-#EXTINF:-1 group-title="⛰️ DOCUMENTARIO",TLC SD
-http://coneasy.lat:80/live/1020304050/1020304050/608201.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TNT 4K
-http://coneasy.lat:80/live/1020304050/1020304050/654340.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1094432.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT HD
-http://coneasy.lat:80/live/1020304050/1020304050/1094431.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT NOVELAS FHD
-http://coneasy.lat:80/live/1020304050/1020304050/94154.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT NOVELAS HD
-http://coneasy.lat:80/live/1020304050/1020304050/7873.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT NOVELAS SD
-http://coneasy.lat:80/live/1020304050/1020304050/4322.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SD
-http://coneasy.lat:80/live/1020304050/1020304050/1094430.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD | QHD",TNT SERIES 4K
-http://coneasy.lat:80/live/1020304050/1020304050/97254.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SERIES FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61226.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SERIES HD
-http://coneasy.lat:80/live/1020304050/1020304050/6073.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",TNT SERIES SD
-http://coneasy.lat:80/live/1020304050/1020304050/61019.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",Tooncast FHD
-http://coneasy.lat:80/live/1020304050/1020304050/2904747.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",Tooncast HD
-http://coneasy.lat:80/live/1020304050/1020304050/2904748.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",TRU TV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1984430.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",TRU TV HD
-http://coneasy.lat:80/live/1020304050/1020304050/1984429.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",TRU TV SD
-http://coneasy.lat:80/live/1020304050/1020304050/1984428.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV APARECIDA
-http://coneasy.lat:80/live/1020304050/1020304050/111114.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",TV BRASIL
-http://coneasy.lat:80/live/1020304050/1020304050/60906.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",TV CAMERA
-http://coneasy.lat:80/live/1020304050/1020304050/1983905.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",TV CULTURA
-http://coneasy.lat:80/live/1020304050/1020304050/69134.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV EVANGELIZAR
-http://coneasy.lat:80/live/1020304050/1020304050/97836.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV GIDEOES
-http://coneasy.lat:80/live/1020304050/1020304050/670693.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV NOVO TEMPO
-http://coneasy.lat:80/live/1020304050/1020304050/6948.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV PAI ETERNO
-http://coneasy.lat:80/live/1020304050/1020304050/45595.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",TV RA TIM BUM FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1021965.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",TV RA TIM BUM HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021964.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",TV RA TIM BUM SD
-http://coneasy.lat:80/live/1020304050/1020304050/1021962.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV REDE SUPER
-http://coneasy.lat:80/live/1020304050/1020304050/670690.ts
-#EXTINF:-1 group-title="✝️ RELIGIOSOS",TV REDE VIDA
-http://coneasy.lat:80/live/1020304050/1020304050/6939.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",TV SENADO
-http://coneasy.lat:80/live/1020304050/1020304050/119930.ts
-#EXTINF:-1 group-title="⏺️ ABERTO",TVE BAHIA
-http://coneasy.lat:80/live/1020304050/1020304050/1182062.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",UNIVERSAL TV FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97592.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",UNIVERSAL TV HD
-http://coneasy.lat:80/live/1020304050/1020304050/5987.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",UNIVERSAL TV SD
-http://coneasy.lat:80/live/1020304050/1020304050/97594.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",USA NETWORK FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97131.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",USA NETWORK HD
-http://coneasy.lat:80/live/1020304050/1020304050/97130.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",USA NETWORK SD
-http://coneasy.lat:80/live/1020304050/1020304050/97129.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",VIVA FHD
-http://coneasy.lat:80/live/1020304050/1020304050/97295.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",VIVA HD
-http://coneasy.lat:80/live/1020304050/1020304050/97296.ts
-#EXTINF:-1 group-title="⛰️ VARIEDADES",VIVA SD
-http://coneasy.lat:80/live/1020304050/1020304050/6928.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",WARNER CHANNEL FHD
-http://coneasy.lat:80/live/1020304050/1020304050/61228.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",WARNER CHANNEL HD
-http://coneasy.lat:80/live/1020304050/1020304050/6072.ts
-#EXTINF:-1 group-title="⏺️ FILMES E SERIES",WARNER CHANNEL SD
-http://coneasy.lat:80/live/1020304050/1020304050/4307.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",X Sports FHD
-http://coneasy.lat:80/live/1020304050/1020304050/2249250.ts
-#EXTINF:-1 group-title="⚽ESPORTES PPV",X Sports HD
-http://coneasy.lat:80/live/1020304050/1020304050/2249249.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",ZOOMO FHD
-http://coneasy.lat:80/live/1020304050/1020304050/1021968.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",ZOOMO HD
-http://coneasy.lat:80/live/1020304050/1020304050/1021967.ts
-#EXTINF:-1 group-title="⛄ INFANTIS",ZOOMO SD
-http://coneasy.lat:80/live/1020304050/1020304050/1021966.ts
-#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] BIG BANG THEORY
-http://coneasy.lat:80/live/1020304050/1020304050/1486998.ts
-#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] LARGADOS E PELADOS A TRIBO
-http://coneasy.lat:80/live/1020304050/1020304050/469917.ts
-#EXTINF:-1 group-title="⏲️ 24H PEGADINHAS",[24H] PEGADINHAS JOAO KLEBER
-http://coneasy.lat:80/live/1020304050/1020304050/1503969.ts
-#EXTINF:-1 group-title="⏲️ 24H PEGADINHAS",[24H] PEGADINHAS SILVIO SANTOS
-http://coneasy.lat:80/live/1020304050/1020304050/1503971.ts
-#EXTINF:-1 group-title="⏲️ 24H PEGADINHAS",[24H] PEGADINHAS YOUTUBER
-http://coneasy.lat:80/live/1020304050/1020304050/1503970.ts
-#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] PORTA DOS FUNDOS
-http://coneasy.lat:80/live/1020304050/1020304050/1503964.ts
-#EXTINF:-1 group-title="⏲️ 24H SERIES - PROGRAMAS",[24H] SMALLVILE
-http://coneasy.lat:80/live/1020304050/1020304050/1502581.ts
-#EXTINF:-1 group-title="⏺️ BAND - SBT",SBT ALTEROSA MG FHD
-http://coneasy.lat:80/live/1020304050/1020304050/3236783.ts
+#EXTINF:-1 group-title="Canais | Variedades",A&E FHD
+http://magixx99.com:80/41782245166/jho98765jho/139100
+#EXTINF:-1 group-title="Canais | Variedades",A&E FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147431
+#EXTINF:-1 group-title="Canais | 4K - H265",A&E FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83335
+#EXTINF:-1 group-title="Canais | Variedades",A&E HD
+http://magixx99.com:80/41782245166/jho98765jho/83185
+#EXTINF:-1 group-title="Canais | Variedades",A&E HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147432
+#EXTINF:-1 group-title="Canais | Variedades",A&E SD
+http://magixx99.com:80/41782245166/jho98765jho/83521
+#EXTINF:-1 group-title="Canais | Variedades",Adult Swim FHD
+http://magixx99.com:80/41782245166/jho98765jho/151003
+#EXTINF:-1 group-title="Canais | Variedades",Adult Swim HD
+http://magixx99.com:80/41782245166/jho98765jho/151004
+#EXTINF:-1 group-title="Canais | Variedades",Adult Swim SD
+http://magixx99.com:80/41782245166/jho98765jho/151005
+#EXTINF:-1 group-title="Canais | Abertos",Agro+ FHD
+http://magixx99.com:80/41782245166/jho98765jho/162557
+#EXTINF:-1 group-title="Canais | Abertos",Agro+ FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147461
+#EXTINF:-1 group-title="Canais | Abertos",Agro+ HD
+http://magixx99.com:80/41782245166/jho98765jho/152570
+#EXTINF:-1 group-title="Canais | Abertos",Agro+ HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/140815
+#EXTINF:-1 group-title="Canais | Abertos",Agro+ SD
+http://magixx99.com:80/41782245166/jho98765jho/162556
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Alexandre Pires e Seu Jorge [Live Irmãos]
+http://magixx99.com:80/41782245166/jho98765jho/136185
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Alexandre Pires [Live do Nego Véio]
+http://magixx99.com:80/41782245166/jho98765jho/136186
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AMC FHD
+http://magixx99.com:80/41782245166/jho98765jho/136797
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AMC FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/142161
+#EXTINF:-1 group-title="Canais | 4K - H265",AMC FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83336
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AMC HD
+http://magixx99.com:80/41782245166/jho98765jho/83186
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AMC HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/136814
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AMC SD
+http://magixx99.com:80/41782245166/jho98765jho/83522
+#EXTINF:-1 group-title="Canais | 4K - H265",Animal Planet 4K
+http://magixx99.com:80/41782245166/jho98765jho/151041
+#EXTINF:-1 group-title="Canais | Documentários",Animal Planet FHD
+http://magixx99.com:80/41782245166/jho98765jho/87312
+#EXTINF:-1 group-title="Canais | Documentários",Animal Planet FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147434
+#EXTINF:-1 group-title="Canais | 4K - H265",Animal Planet FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83368
+#EXTINF:-1 group-title="Canais | Documentários",Animal Planet HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147435
+#EXTINF:-1 group-title="Canais | Documentários",Animal Planet SD
+http://magixx99.com:80/41782245166/jho98765jho/83523
+#EXTINF:-1 group-title="Canais | Esportes PPV",AppleTV+ 1
+http://magixx99.com:80/41782245166/jho98765jho/164637
+#EXTINF:-1 group-title="Canais | Esportes PPV",AppleTV+ 2
+http://magixx99.com:80/41782245166/jho98765jho/164636
+#EXTINF:-1 group-title="Canais | Esportes PPV",AppleTV+ 3
+http://magixx99.com:80/41782245166/jho98765jho/164635
+#EXTINF:-1 group-title="Canais | Esportes PPV",AppleTV+ 4
+http://magixx99.com:80/41782245166/jho98765jho/164634
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1 FHD
+http://magixx99.com:80/41782245166/jho98765jho/147358
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147436
+#EXTINF:-1 group-title="Canais | 4K - H265",Arte 1 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/164576
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/150162
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147437
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1 SD
+http://magixx99.com:80/41782245166/jho98765jho/162558
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AXN FHD
+http://magixx99.com:80/41782245166/jho98765jho/136792
+#EXTINF:-1 group-title="Canais | 4K - H265",AXN FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83369
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AXN HD
+http://magixx99.com:80/41782245166/jho98765jho/83188
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AXN HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147439
+#EXTINF:-1 group-title="Canais | Filmes e Séries",AXN SD
+http://magixx99.com:80/41782245166/jho98765jho/83524
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",B&M + Wesley Safadão [Live 19-09-2020]
+http://magixx99.com:80/41782245166/jho98765jho/133622
+#EXTINF:-1 group-title="Canais | 4K - H265",BAND 4K
+http://magixx99.com:80/41782245166/jho98765jho/83435
+#EXTINF:-1 group-title="Canais | Abertos",BAND FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147442
+#EXTINF:-1 group-title="Canais | Abertos",BAND HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147443
+#EXTINF:-1 group-title="Canais | Abertos",BAND MG FHD
+http://magixx99.com:80/41782245166/jho98765jho/162945
+#EXTINF:-1 group-title="Canais | Abertos",BAND MG HD
+http://magixx99.com:80/41782245166/jho98765jho/260033
+#EXTINF:-1 group-title="Canais | Abertos",BAND MG SD
+http://magixx99.com:80/41782245166/jho98765jho/83591
+#EXTINF:-1 group-title="Canais | Esportes",BAND Sports FHD
+http://magixx99.com:80/41782245166/jho98765jho/83806
+#EXTINF:-1 group-title="Canais | Esportes",BAND Sports FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147446
+#EXTINF:-1 group-title="Canais | 4K - H265",BAND Sports FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83371
+#EXTINF:-1 group-title="Canais | Esportes",BAND Sports HD
+http://magixx99.com:80/41782245166/jho98765jho/83189
+#EXTINF:-1 group-title="Canais | Esportes",BAND Sports HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147447
+#EXTINF:-1 group-title="Canais | Esportes",BAND Sports SD
+http://magixx99.com:80/41782245166/jho98765jho/83529
+#EXTINF:-1 group-title="Canais | Abertos",BAND TV Tribuna Recife FHD
+http://magixx99.com:80/41782245166/jho98765jho/288605
+#EXTINF:-1 group-title="24 Horas | Premium",Batman - Trilogia
+http://magixx99.com:80/41782245166/jho98765jho/133415
+#EXTINF:-1 group-title="Canais | Variedades",BIS FHD
+http://magixx99.com:80/41782245166/jho98765jho/147363
+#EXTINF:-1 group-title="Canais | Variedades",BIS FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147449
+#EXTINF:-1 group-title="Canais | 4K - H265",BIS FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83337
+#EXTINF:-1 group-title="Canais | Variedades",BIS HD
+http://magixx99.com:80/41782245166/jho98765jho/83190
+#EXTINF:-1 group-title="Canais | Variedades",BIS HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147450
+#EXTINF:-1 group-title="Canais | Variedades",BIS SD
+http://magixx99.com:80/41782245166/jho98765jho/83530
+#EXTINF:-1 group-title="Canais | Esportes",BRTVMAX
+http://magixx99.com:80/41782245166/jho98765jho/350168
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://magixx99.com:80/41782245166/jho98765jho/147365
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Brasil FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147454
+#EXTINF:-1 group-title="Canais | 4K - H265",Canal Brasil FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83373
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://magixx99.com:80/41782245166/jho98765jho/150167
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Brasil HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147455
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://magixx99.com:80/41782245166/jho98765jho/83532
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi FHD
+http://magixx99.com:80/41782245166/jho98765jho/162811
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/140987
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi HD
+http://magixx99.com:80/41782245166/jho98765jho/162810
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/140939
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi SD
+http://magixx99.com:80/41782245166/jho98765jho/83533
+#EXTINF:-1 group-title="Canais | Esportes PPV",Canal GOAT 01
+http://magixx99.com:80/41782245166/jho98765jho/162946
+#EXTINF:-1 group-title="Canais | Esportes PPV",Canal GOAT 02
+http://magixx99.com:80/41782245166/jho98765jho/151320
+#EXTINF:-1 group-title="Canais | Variedades",Canal Malhação Fast HD
+http://magixx99.com:80/41782245166/jho98765jho/83214
+#EXTINF:-1 group-title="Canais | Abertos",Canal Rural HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/142027
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Sony FHD
+http://magixx99.com:80/41782245166/jho98765jho/136801
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Sony FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147680
+#EXTINF:-1 group-title="Canais | 4K - H265",Canal Sony FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83374
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Sony HD
+http://magixx99.com:80/41782245166/jho98765jho/83191
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Sony HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147681
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Sony SD
+http://magixx99.com:80/41782245166/jho98765jho/83534
+#EXTINF:-1 group-title="Canais | Religiosos",Canção Nova FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/83535
+#EXTINF:-1 group-title="Canais | Religiosos",Canção Nova HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/169526
+#EXTINF:-1 group-title="Canais | Religiosos",Canção Nova SD
+http://magixx99.com:80/41782245166/jho98765jho/147457
+#EXTINF:-1 group-title="Canais | 4K - H265",Cartoon Network 4K
+http://magixx99.com:80/41782245166/jho98765jho/151044
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network FHD
+http://magixx99.com:80/41782245166/jho98765jho/126105
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147458
+#EXTINF:-1 group-title="Canais | 4K - H265",Cartoon Network FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83375
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network HD
+http://magixx99.com:80/41782245166/jho98765jho/83192
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147459
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network SD
+http://magixx99.com:80/41782245166/jho98765jho/83536
+#EXTINF:-1 group-title="Canais | Infantil",Cartoonito FHD
+http://magixx99.com:80/41782245166/jho98765jho/126104
+#EXTINF:-1 group-title="Canais | Infantil",Cartoonito FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/169537
+#EXTINF:-1 group-title="Canais | 4K - H265",Cartoonito FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83372
+#EXTINF:-1 group-title="Canais | Infantil",Cartoonito HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/176172
+#EXTINF:-1 group-title="Canais | Infantil",Cartoonito SD
+http://magixx99.com:80/41782245166/jho98765jho/83531
+#EXTINF:-1 group-title="Canais | Esportes PPV",Cazé TV 1 FHD
+http://magixx99.com:80/41782245166/jho98765jho/164640
+#EXTINF:-1 group-title="Canais | Esportes PPV",Cazé TV 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/155270
+#EXTINF:-1 group-title="Canais | Esportes PPV",Cazé TV 1 SD
+http://magixx99.com:80/41782245166/jho98765jho/164641
+#EXTINF:-1 group-title="Canais | Esportes PPV",Cazé TV 2 HD
+http://magixx99.com:80/41782245166/jho98765jho/164639
+#EXTINF:-1 group-title="Canais | Esportes PPV",Cazé TV 3 HD
+http://magixx99.com:80/41782245166/jho98765jho/164638
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 01 [Gato de Botas 2: O Último Pedido]
+http://magixx99.com:80/41782245166/jho98765jho/83314
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 02 [Pantera Negra: Wakanda Para Sempre]
+http://magixx99.com:80/41782245166/jho98765jho/83315
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 03 [Alerta Máximo]
+http://magixx99.com:80/41782245166/jho98765jho/83316
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 04 [Irmãos de Honra]
+http://magixx99.com:80/41782245166/jho98765jho/83317
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 05 [Fantasma e CIA]
+http://magixx99.com:80/41782245166/jho98765jho/83318
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 06 [M3GAN]
+http://magixx99.com:80/41782245166/jho98765jho/83877
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 07 [Nada de Novo no Front]
+http://magixx99.com:80/41782245166/jho98765jho/84773
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 08 [Duro de Atuar]
+http://magixx99.com:80/41782245166/jho98765jho/84885
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 09 [Emancipation]
+http://magixx99.com:80/41782245166/jho98765jho/86437
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 10 [O Pálido Olho Azul]
+http://magixx99.com:80/41782245166/jho98765jho/86438
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 11 [O Pior Vizinho do Mundo]
+http://magixx99.com:80/41782245166/jho98765jho/86439
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 12 [Os Fabelmans]
+http://magixx99.com:80/41782245166/jho98765jho/86440
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 13 [A Baleia] [Legendado]
+http://magixx99.com:80/41782245166/jho98765jho/86441
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 14 [Babilônia] [Legendado]
+http://magixx99.com:80/41782245166/jho98765jho/86442
+#EXTINF:-1 group-title="Canais | Cine Sky",Cine Sky 15 [Batem à Porta] [Legendado]
+http://magixx99.com:80/41782245166/jho98765jho/86443
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cinemax FHD
+http://magixx99.com:80/41782245166/jho98765jho/136798
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cinemax FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147462
+#EXTINF:-1 group-title="Canais | 4K - H265",Cinemax FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83338
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cinemax HD
+http://magixx99.com:80/41782245166/jho98765jho/83193
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cinemax SD
+http://magixx99.com:80/41782245166/jho98765jho/83537
+#EXTINF:-1 group-title="Canais | Notícias",CNBC HD
+http://magixx99.com:80/41782245166/jho98765jho/342966
+#EXTINF:-1 group-title="Canais | Notícias",CNN Brasil FHD
+http://magixx99.com:80/41782245166/jho98765jho/83436
+#EXTINF:-1 group-title="Canais | Notícias",CNN Brasil FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147464
+#EXTINF:-1 group-title="Canais | 4K - H265",CNN Brasil FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/164573
+#EXTINF:-1 group-title="Canais | Notícias",CNN Brasil HD
+http://magixx99.com:80/41782245166/jho98765jho/83306
+#EXTINF:-1 group-title="Canais | Notícias",CNN Brasil SD
+http://magixx99.com:80/41782245166/jho98765jho/83669
+#EXTINF:-1 group-title="Canais | Notícias",CNNi FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147468
+#EXTINF:-1 group-title="Canais | Notícias",CNNi HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147469
+#EXTINF:-1 group-title="Canais | 4K - H265",Combate 4K
+http://magixx99.com:80/41782245166/jho98765jho/151035
+#EXTINF:-1 group-title="Canais | 4K - H265",Combate FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83376
+#EXTINF:-1 group-title="Canais | Esportes",Combate HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147472
+#EXTINF:-1 group-title="Canais | Esportes",Combate SD
+http://magixx99.com:80/41782245166/jho98765jho/83538
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
+http://magixx99.com:80/41782245166/jho98765jho/156746
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/83866
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
+http://magixx99.com:80/41782245166/jho98765jho/122541
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83706
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83869
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83705
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
+http://magixx99.com:80/41782245166/jho98765jho/86706
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
+http://magixx99.com:80/41782245166/jho98765jho/83711
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83715
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
+http://magixx99.com:80/41782245166/jho98765jho/165437
+#EXTINF:-1 group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
+http://magixx99.com:80/41782245166/jho98765jho/83714
+#EXTINF:-1 group-title="Canais | Documentários",Curta! FHD
+http://magixx99.com:80/41782245166/jho98765jho/162808
+#EXTINF:-1 group-title="Canais | Documentários",Curta! FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147499
+#EXTINF:-1 group-title="Canais | 4K - H265",Curta! FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/164571
+#EXTINF:-1 group-title="Canais | Documentários",Curta! HD
+http://magixx99.com:80/41782245166/jho98765jho/162809
+#EXTINF:-1 group-title="Canais | Documentários",Curta! HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147500
+#EXTINF:-1 group-title="Canais | Documentários",Curta! SD
+http://magixx99.com:80/41782245166/jho98765jho/83540
+#EXTINF:-1 group-title="Canais | Esportes PPV",DAZN 01 HD
+http://magixx99.com:80/41782245166/jho98765jho/83447
+#EXTINF:-1 group-title="Canais | Esportes PPV",DAZN 02 HD
+http://magixx99.com:80/41782245166/jho98765jho/151059
+#EXTINF:-1 group-title="24 Horas | Premium",DC Comics 01
+http://magixx99.com:80/41782245166/jho98765jho/83876
+#EXTINF:-1 group-title="24 Horas | Premium",DC Comics 02
+http://magixx99.com:80/41782245166/jho98765jho/83885
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Channel FHD
+http://magixx99.com:80/41782245166/jho98765jho/87316
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Channel FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147503
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery Channel FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83340
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Channel HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147504
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Channel SD
+http://magixx99.com:80/41782245166/jho98765jho/83541
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Home & Health FHD
+http://magixx99.com:80/41782245166/jho98765jho/87315
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Home & Health FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147505
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery Home & Health FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83341
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Home & Health HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147506
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Home & Health SD
+http://magixx99.com:80/41782245166/jho98765jho/83542
+#EXTINF:-1 group-title="Canais | Documentários",Discovery ID FHD
+http://magixx99.com:80/41782245166/jho98765jho/126101
+#EXTINF:-1 group-title="Canais | Documentários",Discovery ID FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147507
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery ID FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83355
+#EXTINF:-1 group-title="Canais | Documentários",Discovery ID HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147508
+#EXTINF:-1 group-title="Canais | Documentários",Discovery ID SD
+http://magixx99.com:80/41782245166/jho98765jho/83578
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids FHD
+http://magixx99.com:80/41782245166/jho98765jho/126106
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147509
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery Kids FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83378
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids HD
+http://magixx99.com:80/41782245166/jho98765jho/83199
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147510
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids SD
+http://magixx99.com:80/41782245166/jho98765jho/83543
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Science FHD
+http://magixx99.com:80/41782245166/jho98765jho/126102
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Science FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147511
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery Science FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83379
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Science HD
+http://magixx99.com:80/41782245166/jho98765jho/83200
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Science HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147512
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Science SD
+http://magixx99.com:80/41782245166/jho98765jho/162807
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Theater FHD
+http://magixx99.com:80/41782245166/jho98765jho/126103
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Theater FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147513
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery Theater FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83342
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Theater HD
+http://magixx99.com:80/41782245166/jho98765jho/83201
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Theater HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147514
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Theater SD
+http://magixx99.com:80/41782245166/jho98765jho/162806
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Turbo FHD
+http://magixx99.com:80/41782245166/jho98765jho/126100
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Turbo FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147515
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery Turbo FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83343
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Turbo HD
+http://magixx99.com:80/41782245166/jho98765jho/83202
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Turbo HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147516
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Turbo SD
+http://magixx99.com:80/41782245166/jho98765jho/83544
+#EXTINF:-1 group-title="Canais | Documentários",Discovery World FHD
+http://magixx99.com:80/41782245166/jho98765jho/87310
+#EXTINF:-1 group-title="Canais | Documentários",Discovery World FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147517
+#EXTINF:-1 group-title="Canais | 4K - H265",Discovery World FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83344
+#EXTINF:-1 group-title="Canais | Documentários",Discovery World HD
+http://magixx99.com:80/41782245166/jho98765jho/83203
+#EXTINF:-1 group-title="Canais | Documentários",Discovery World HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147518
+#EXTINF:-1 group-title="Canais | Documentários",Discovery World SD
+http://magixx99.com:80/41782245166/jho98765jho/162805
+#EXTINF:-1 group-title="24 Horas | Premium",Disney Clássico 01
+http://magixx99.com:80/41782245166/jho98765jho/89549
+#EXTINF:-1 group-title="24 Horas | Premium",Disney Clássico 02
+http://magixx99.com:80/41782245166/jho98765jho/89550
+#EXTINF:-1 group-title="Canais | Variedades",Dog TV FHD
+http://magixx99.com:80/41782245166/jho98765jho/162690
+#EXTINF:-1 group-title="Canais | Variedades",Dog TV HD
+http://magixx99.com:80/41782245166/jho98765jho/169512
+#EXTINF:-1 group-title="Canais | Variedades",E! FHD
+http://magixx99.com:80/41782245166/jho98765jho/139113
+#EXTINF:-1 group-title="Canais | Variedades",E! FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147525
+#EXTINF:-1 group-title="Canais | 4K - H265",E! FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83345
+#EXTINF:-1 group-title="Canais | Variedades",E! HD
+http://magixx99.com:80/41782245166/jho98765jho/83206
+#EXTINF:-1 group-title="Canais | Variedades",E! HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147526
+#EXTINF:-1 group-title="Canais | Variedades",E! SD
+http://magixx99.com:80/41782245166/jho98765jho/83548
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 1 4K
+http://magixx99.com:80/41782245166/jho98765jho/155420
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 1 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83809
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 1 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83385
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/83208
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83807
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 2 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147545
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 2 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83383
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83209
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 2 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147546
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83552
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 3 4K
+http://magixx99.com:80/41782245166/jho98765jho/151048
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 3 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83808
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 3 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147539
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 3 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83384
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 3 HD
+http://magixx99.com:80/41782245166/jho98765jho/83207
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 3 SD
+http://magixx99.com:80/41782245166/jho98765jho/83553
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 4 4K
+http://magixx99.com:80/41782245166/jho98765jho/151039
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 4 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83811
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 4 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147568
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 4 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83388
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 4 HD
+http://magixx99.com:80/41782245166/jho98765jho/83217
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 4 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147565
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 4 SD
+http://magixx99.com:80/41782245166/jho98765jho/83560
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 5 4K
+http://magixx99.com:80/41782245166/jho98765jho/151046
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 5 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83812
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 5 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83389
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 5 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147567
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 5 SD
+http://magixx99.com:80/41782245166/jho98765jho/83561
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 6 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83810
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 6 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147543
+#EXTINF:-1 group-title="Canais | 4K - H265",ESPN 6 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83382
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 6 HD
+http://magixx99.com:80/41782245166/jho98765jho/83210
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 6 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147544
+#EXTINF:-1 group-title="Canais | ESPN",ESPN 6 SD
+http://magixx99.com:80/41782245166/jho98765jho/162802
+#EXTINF:-1 group-title="Canais | Variedades",Eurochannel FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147548
+#EXTINF:-1 group-title="Canais | Variedades",Eurochannel HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147547
+#EXTINF:-1 group-title="Canais | Variedades",Fashion TV FHD
+http://magixx99.com:80/41782245166/jho98765jho/147356
+#EXTINF:-1 group-title="Canais | Variedades",Fashion TV FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147451
+#EXTINF:-1 group-title="Canais | Variedades",Fashion TV HD
+http://magixx99.com:80/41782245166/jho98765jho/150160
+#EXTINF:-1 group-title="Canais | Variedades",Fashion TV HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147409
+#EXTINF:-1 group-title="Canais | Variedades",Fashion TV SD
+http://magixx99.com:80/41782245166/jho98765jho/162801
+#EXTINF:-1 group-title="Canais | Variedades",Film & Arts FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147497
+#EXTINF:-1 group-title="Canais | Variedades",Film & Arts HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147492
+#EXTINF:-1 group-title="Canais | Variedades",Film & Arts SD
+http://magixx99.com:80/41782245166/jho98765jho/83646
+#EXTINF:-1 group-title="Canais | Variedades",Fish TV FHD
+http://magixx99.com:80/41782245166/jho98765jho/162799
+#EXTINF:-1 group-title="Canais | Variedades",Fish TV FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147550
+#EXTINF:-1 group-title="Canais | 4K - H265",Fish TV FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83386
+#EXTINF:-1 group-title="Canais | Variedades",Fish TV HD
+http://magixx99.com:80/41782245166/jho98765jho/162800
+#EXTINF:-1 group-title="Canais | Variedades",Fish TV HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147551
+#EXTINF:-1 group-title="Canais | Variedades",Fish TV SD
+http://magixx99.com:80/41782245166/jho98765jho/83556
+#EXTINF:-1 group-title="Canais | Variedades",Food Network FHD
+http://magixx99.com:80/41782245166/jho98765jho/139641
+#EXTINF:-1 group-title="Canais | Variedades",Food Network FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147553
+#EXTINF:-1 group-title="Canais | 4K - H265",Food Network FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83387
+#EXTINF:-1 group-title="Canais | Variedades",Food Network HD
+http://magixx99.com:80/41782245166/jho98765jho/83211
+#EXTINF:-1 group-title="Canais | Variedades",Food Network HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147554
+#EXTINF:-1 group-title="Canais | Variedades",Food Network SD
+http://magixx99.com:80/41782245166/jho98765jho/83557
+#EXTINF:-1 group-title="Canais | Notícias",France 24 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/140895
+#EXTINF:-1 group-title="Canais | Notícias",France 24 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147466
+#EXTINF:-1 group-title="Canais | Esportes PPV",Furacão Brasileirão HD
+http://magixx99.com:80/41782245166/jho98765jho/148195
+#EXTINF:-1 group-title="Canais | Abertos",Futura FHD
+http://magixx99.com:80/41782245166/jho98765jho/162794
+#EXTINF:-1 group-title="Canais | Abertos",Futura FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147569
+#EXTINF:-1 group-title="Canais | Abertos",Futura HD
+http://magixx99.com:80/41782245166/jho98765jho/162795
+#EXTINF:-1 group-title="Canais | Abertos",Futura HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147460
+#EXTINF:-1 group-title="Canais | Abertos",Futura SD
+http://magixx99.com:80/41782245166/jho98765jho/83562
+#EXTINF:-1 group-title="Canais | Globos",GB Minas HD
+http://magixx99.com:80/41782245166/jho98765jho/83491
+#EXTINF:-1 group-title="Canais | Globos",GB Minas HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147375
+#EXTINF:-1 group-title="Canais | Globos",GB Minas SD
+http://magixx99.com:80/41782245166/jho98765jho/83565
+#EXTINF:-1 group-title="Canais | Esportes PPV",GE TV HD
+http://magixx99.com:80/41782245166/jho98765jho/351370
+#EXTINF:-1 group-title="Canais | Notícias",Globo News FHD
+http://magixx99.com:80/41782245166/jho98765jho/139102
+#EXTINF:-1 group-title="Canais | 4K - H265",Globo News FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83391
+#EXTINF:-1 group-title="Canais | Notícias",Globo News HD
+http://magixx99.com:80/41782245166/jho98765jho/83219
+#EXTINF:-1 group-title="Canais | Notícias",Globo News HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147573
+#EXTINF:-1 group-title="Canais | Notícias",Globo News SD
+http://magixx99.com:80/41782245166/jho98765jho/83566
+#EXTINF:-1 group-title="Canais | Infantil",Gloob FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147574
+#EXTINF:-1 group-title="Canais | 4K - H265",Gloob FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83392
+#EXTINF:-1 group-title="Canais | Infantil",Gloob HD
+http://magixx99.com:80/41782245166/jho98765jho/83221
+#EXTINF:-1 group-title="Canais | Infantil",Gloob HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147575
+#EXTINF:-1 group-title="Canais | Infantil",Gloob SD
+http://magixx99.com:80/41782245166/jho98765jho/83570
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho FHD
+http://magixx99.com:80/41782245166/jho98765jho/126110
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147576
+#EXTINF:-1 group-title="Canais | 4K - H265",Gloobinho FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/148189
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho HD
+http://magixx99.com:80/41782245166/jho98765jho/83666
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147577
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho SD
+http://magixx99.com:80/41782245166/jho98765jho/162757
+#EXTINF:-1 group-title="Canais | Variedades",GNT FHD
+http://magixx99.com:80/41782245166/jho98765jho/139111
+#EXTINF:-1 group-title="Canais | Variedades",GNT FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147578
+#EXTINF:-1 group-title="Canais | 4K - H265",GNT FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/140812
+#EXTINF:-1 group-title="Canais | Variedades",GNT HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147579
+#EXTINF:-1 group-title="Canais | Variedades",GNT SD
+http://magixx99.com:80/41782245166/jho98765jho/83571
+#EXTINF:-1 group-title="Canais | Esportes",Golf Channel FHD
+http://magixx99.com:80/41782245166/jho98765jho/146910
+#EXTINF:-1 group-title="Canais | Esportes",Golf Channel HD
+http://magixx99.com:80/41782245166/jho98765jho/83618
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO 4K
+http://magixx99.com:80/41782245166/jho98765jho/151050
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO Familly FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83350
+#EXTINF:-1 group-title="Canais | HBO",HBO Family FHD
+http://magixx99.com:80/41782245166/jho98765jho/140710
+#EXTINF:-1 group-title="Canais | HBO",HBO Family FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147584
+#EXTINF:-1 group-title="Canais | HBO",HBO Family HD
+http://magixx99.com:80/41782245166/jho98765jho/83224
+#EXTINF:-1 group-title="Canais | HBO",HBO Family HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147585
+#EXTINF:-1 group-title="Canais | HBO",HBO Family SD
+http://magixx99.com:80/41782245166/jho98765jho/83573
+#EXTINF:-1 group-title="Canais | HBO",HBO Mundi FHD
+http://magixx99.com:80/41782245166/jho98765jho/140736
+#EXTINF:-1 group-title="Canais | HBO",HBO Mundi FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147588
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO Mundi FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83397
+#EXTINF:-1 group-title="Canais | HBO",HBO Mundi HD
+http://magixx99.com:80/41782245166/jho98765jho/83232
+#EXTINF:-1 group-title="Canais | HBO",HBO Mundi HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147589
+#EXTINF:-1 group-title="Canais | HBO",HBO Mundi SD
+http://magixx99.com:80/41782245166/jho98765jho/83582
+#EXTINF:-1 group-title="Canais | HBO",HBO Pop FHD
+http://magixx99.com:80/41782245166/jho98765jho/140737
+#EXTINF:-1 group-title="Canais | HBO",HBO Pop FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147592
+#EXTINF:-1 group-title="Canais | HBO",HBO Pop HD
+http://magixx99.com:80/41782245166/jho98765jho/83234
+#EXTINF:-1 group-title="Canais | HBO",HBO Pop HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147593
+#EXTINF:-1 group-title="Canais | HBO",HBO Pop SD
+http://magixx99.com:80/41782245166/jho98765jho/140948
+#EXTINF:-1 group-title="Canais | HBO",HBO Signature FHD
+http://magixx99.com:80/41782245166/jho98765jho/140735
+#EXTINF:-1 group-title="Canais | HBO",HBO Signature FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147594
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO Signature FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83353
+#EXTINF:-1 group-title="Canais | HBO",HBO Signature HD
+http://magixx99.com:80/41782245166/jho98765jho/83227
+#EXTINF:-1 group-title="Canais | HBO",HBO Signature HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147595
+#EXTINF:-1 group-title="Canais | HBO",HBO Signature SD
+http://magixx99.com:80/41782245166/jho98765jho/83575
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO Xtreme 4K
+http://magixx99.com:80/41782245166/jho98765jho/151055
+#EXTINF:-1 group-title="Canais | HBO",HBO Xtreme FHD
+http://magixx99.com:80/41782245166/jho98765jho/140732
+#EXTINF:-1 group-title="Canais | HBO",HBO Xtreme FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147596
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO Xtreme FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83398
+#EXTINF:-1 group-title="Canais | HBO",HBO Xtreme HD
+http://magixx99.com:80/41782245166/jho98765jho/83233
+#EXTINF:-1 group-title="Canais | HBO",HBO Xtreme HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147597
+#EXTINF:-1 group-title="Canais | HBO",HBO Xtreme SD
+http://magixx99.com:80/41782245166/jho98765jho/140947
+#EXTINF:-1 group-title="Canais | HBO",HBO+ FHD
+http://magixx99.com:80/41782245166/jho98765jho/140734
+#EXTINF:-1 group-title="Canais | HBO",HBO+ FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147590
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO+ FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83352
+#EXTINF:-1 group-title="Canais | HBO",HBO+ HD
+http://magixx99.com:80/41782245166/jho98765jho/83226
+#EXTINF:-1 group-title="Canais | HBO",HBO+ HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147591
+#EXTINF:-1 group-title="Canais | HBO",HBO+ SD
+http://magixx99.com:80/41782245166/jho98765jho/83574
+#EXTINF:-1 group-title="Canais | HBO",HBO1 FHD
+http://magixx99.com:80/41782245166/jho98765jho/140708
+#EXTINF:-1 group-title="Canais | HBO",HBO1 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147586
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO1 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83351
+#EXTINF:-1 group-title="Canais | HBO",HBO1 HD
+http://magixx99.com:80/41782245166/jho98765jho/83225
+#EXTINF:-1 group-title="Canais | HBO",HBO1 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147587
+#EXTINF:-1 group-title="Canais | HBO",HBO1 SD
+http://magixx99.com:80/41782245166/jho98765jho/83572
+#EXTINF:-1 group-title="Canais | HBO",HBO2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/140733
+#EXTINF:-1 group-title="Canais | HBO",HBO2 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147582
+#EXTINF:-1 group-title="Canais | 4K - H265",HBO2 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83354
+#EXTINF:-1 group-title="Canais | HBO",HBO2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83223
+#EXTINF:-1 group-title="Canais | HBO",HBO2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83576
+#EXTINF:-1 group-title="Canais | Variedades",HGTV FHD
+http://magixx99.com:80/41782245166/jho98765jho/139110
+#EXTINF:-1 group-title="Canais | Variedades",HGTV FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147598
+#EXTINF:-1 group-title="Canais | 4K - H265",HGTV FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83377
+#EXTINF:-1 group-title="Canais | Variedades",HGTV HD
+http://magixx99.com:80/41782245166/jho98765jho/83197
+#EXTINF:-1 group-title="Canais | Variedades",HGTV HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147599
+#EXTINF:-1 group-title="Canais | Variedades",HGTV SD
+http://magixx99.com:80/41782245166/jho98765jho/162786
+#EXTINF:-1 group-title="Canais | Documentários",History FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147711
+#EXTINF:-1 group-title="Canais | 4K - H265",History FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83393
+#EXTINF:-1 group-title="Canais | Documentários",History HD
+http://magixx99.com:80/41782245166/jho98765jho/83229
+#EXTINF:-1 group-title="Canais | Documentários",History HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147712
+#EXTINF:-1 group-title="Canais | Documentários",History SD
+http://magixx99.com:80/41782245166/jho98765jho/83663
+#EXTINF:-1 group-title="Canais | Documentários",History2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/87314
+#EXTINF:-1 group-title="Canais | Documentários",History2 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147580
+#EXTINF:-1 group-title="Canais | 4K - H265",History2 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83394
+#EXTINF:-1 group-title="Canais | Documentários",History2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83228
+#EXTINF:-1 group-title="Canais | Documentários",History2 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147581
+#EXTINF:-1 group-title="Canais | Documentários",History2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83577
+#EXTINF:-1 group-title="Canais | Religiosos",Igreja Mundial Poder de Deus HD
+http://magixx99.com:80/41782245166/jho98765jho/169524
+#EXTINF:-1 group-title="24 Horas | Premium",Jogos Mortais 01
+http://magixx99.com:80/41782245166/jho98765jho/123177
+#EXTINF:-1 group-title="24 Horas | Premium",Jogos Mortais 02
+http://magixx99.com:80/41782245166/jho98765jho/123178
+#EXTINF:-1 group-title="24 Horas | Premium",Jogos Vorazes - Quadrilogia
+http://magixx99.com:80/41782245166/jho98765jho/123179
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Jorge e Mateus [Na Praia Hotel]
+http://magixx99.com:80/41782245166/jho98765jho/136193
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Jorge e Mateus [Pelo Amor de Deus]
+http://magixx99.com:80/41782245166/jho98765jho/136194
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Jorge e Mateus [Sunset]
+http://magixx99.com:80/41782245166/jho98765jho/136195
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News FHD
+http://magixx99.com:80/41782245166/jho98765jho/152567
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/183592
+#EXTINF:-1 group-title="Canais | 4K - H265",Jovem Pan News FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/147559
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News HD
+http://magixx99.com:80/41782245166/jho98765jho/165441
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/183591
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News SD
+http://magixx99.com:80/41782245166/jho98765jho/147560
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime FHD
+http://magixx99.com:80/41782245166/jho98765jho/87309
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147602
+#EXTINF:-1 group-title="Canais | 4K - H265",Lifetime FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83395
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime HD
+http://magixx99.com:80/41782245166/jho98765jho/83231
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147603
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime SD
+http://magixx99.com:80/41782245166/jho98765jho/83580
+#EXTINF:-1 group-title="Canais | Variedades",Like FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147488
+#EXTINF:-1 group-title="Canais | Variedades",Like HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147486
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 1
+http://magixx99.com:80/41782245166/jho98765jho/126108
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 1 [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/164624
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 2
+http://magixx99.com:80/41782245166/jho98765jho/147521
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 2 [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/164623
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 3
+http://magixx99.com:80/41782245166/jho98765jho/152559
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 4
+http://magixx99.com:80/41782245166/jho98765jho/83801
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 5
+http://magixx99.com:80/41782245166/jho98765jho/162671
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 6
+http://magixx99.com:80/41782245166/jho98765jho/83448
+#EXTINF:-1 group-title="Canais | MAX e Disney+",MAX 7
+http://magixx99.com:80/41782245166/jho98765jho/162850
+#EXTINF:-1 group-title="24 Horas | Premium",Maze Runner - Trilogia
+http://magixx99.com:80/41782245166/jho98765jho/123180
+#EXTINF:-1 group-title="Canais | 4K - H265",MegaPix 4K
+http://magixx99.com:80/41782245166/jho98765jho/151045
+#EXTINF:-1 group-title="Canais | Filmes e Séries",MegaPix FHD
+http://magixx99.com:80/41782245166/jho98765jho/136800
+#EXTINF:-1 group-title="Canais | 4K - H265",MegaPix FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83399
+#EXTINF:-1 group-title="Canais | Filmes e Séries",MegaPix HD
+http://magixx99.com:80/41782245166/jho98765jho/83235
+#EXTINF:-1 group-title="Canais | Filmes e Séries",MegaPix HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147608
+#EXTINF:-1 group-title="Canais | Filmes e Séries",MegaPix SD
+http://magixx99.com:80/41782245166/jho98765jho/83585
+#EXTINF:-1 group-title="Canais | Variedades",Modo Viagem FHD
+http://magixx99.com:80/41782245166/jho98765jho/147364
+#EXTINF:-1 group-title="Canais | Variedades",Modo Viagem FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147605
+#EXTINF:-1 group-title="Canais | 4K - H265",Modo Viagem FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83396
+#EXTINF:-1 group-title="Canais | Variedades",Modo Viagem HD
+http://magixx99.com:80/41782245166/jho98765jho/83220
+#EXTINF:-1 group-title="Canais | Variedades",Modo Viagem HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147606
+#EXTINF:-1 group-title="Canais | Variedades",Modo Viagem SD
+http://magixx99.com:80/41782245166/jho98765jho/83581
+#EXTINF:-1 group-title="Canais | Esportes PPV",MR. Olympia PPV
+http://magixx99.com:80/41782245166/jho98765jho/163038
+#EXTINF:-1 group-title="Canais | 4K - H265",Multishow 4K
+http://magixx99.com:80/41782245166/jho98765jho/151043
+#EXTINF:-1 group-title="Canais | Variedades",Multishow FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147611
+#EXTINF:-1 group-title="Canais | 4K - H265",Multishow FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83358
+#EXTINF:-1 group-title="Canais | Variedades",Multishow HD
+http://magixx99.com:80/41782245166/jho98765jho/83237
+#EXTINF:-1 group-title="Canais | Variedades",Multishow HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147612
+#EXTINF:-1 group-title="Canais | Variedades",Multishow SD
+http://magixx99.com:80/41782245166/jho98765jho/83587
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brasil FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147613
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brasil HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147614
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil FHD
+http://magixx99.com:80/41782245166/jho98765jho/162735
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil HD
+http://magixx99.com:80/41782245166/jho98765jho/83589
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil SD
+http://magixx99.com:80/41782245166/jho98765jho/83588
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 05
+http://magixx99.com:80/41782245166/jho98765jho/164599
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 07
+http://magixx99.com:80/41782245166/jho98765jho/164601
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 08
+http://magixx99.com:80/41782245166/jho98765jho/164602
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 09
+http://magixx99.com:80/41782245166/jho98765jho/164603
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 10
+http://magixx99.com:80/41782245166/jho98765jho/164604
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 11
+http://magixx99.com:80/41782245166/jho98765jho/164605
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 12
+http://magixx99.com:80/41782245166/jho98765jho/164606
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 13
+http://magixx99.com:80/41782245166/jho98765jho/164607
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 14
+http://magixx99.com:80/41782245166/jho98765jho/164608
+#EXTINF:-1 group-title="Canais | NBA League Pass",NBA League Pass 15
+http://magixx99.com:80/41782245166/jho98765jho/164609
+#EXTINF:-1 group-title="Canais | Notícias",NHK Japão FHD
+http://magixx99.com:80/41782245166/jho98765jho/183761
+#EXTINF:-1 group-title="24 Horas | Premium",O Hobbit - Trilogia
+http://magixx99.com:80/41782245166/jho98765jho/123181
+#EXTINF:-1 group-title="24 Horas | Premium",O Senhor dos Aneis - Trilogia
+http://magixx99.com:80/41782245166/jho98765jho/123182
+#EXTINF:-1 group-title="Canais | Esportes",OFF FHD
+http://magixx99.com:80/41782245166/jho98765jho/139108
+#EXTINF:-1 group-title="Canais | Esportes",OFF FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147625
+#EXTINF:-1 group-title="Canais | 4K - H265",OFF FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83404
+#EXTINF:-1 group-title="Canais | Esportes",OFF HD
+http://magixx99.com:80/41782245166/jho98765jho/83243
+#EXTINF:-1 group-title="Canais | Esportes",OFF HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147626
+#EXTINF:-1 group-title="Canais | Esportes",OFF SD
+http://magixx99.com:80/41782245166/jho98765jho/83596
+#EXTINF:-1 group-title="Canais | Esportes PPV",OneFootball 1
+http://magixx99.com:80/41782245166/jho98765jho/139472
+#EXTINF:-1 group-title="Canais | Esportes PPV",OneFootball 3
+http://magixx99.com:80/41782245166/jho98765jho/151161
+#EXTINF:-1 group-title="Canais | Esportes PPV",OneFootball 4
+http://magixx99.com:80/41782245166/jho98765jho/151162
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://magixx99.com:80/41782245166/jho98765jho/136802
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Paramount Channel FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147627
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://magixx99.com:80/41782245166/jho98765jho/83244
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Paramount Channel HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147628
+#EXTINF:-1 group-title="Canais | Abertos",Polishop HD
+http://magixx99.com:80/41782245166/jho98765jho/164438
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
+http://magixx99.com:80/41782245166/jho98765jho/151037
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
+http://magixx99.com:80/41782245166/jho98765jho/83813
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83405
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 1 Clubes HD
+http://magixx99.com:80/41782245166/jho98765jho/83251
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/87323
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 2 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83406
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83245
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 2 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147636
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83602
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 3 FHD
+http://magixx99.com:80/41782245166/jho98765jho/87321
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 3 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83407
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 3 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147638
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 3 SD
+http://magixx99.com:80/41782245166/jho98765jho/83603
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 4 FHD
+http://magixx99.com:80/41782245166/jho98765jho/87320
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 4 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147639
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83408
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 4 HD
+http://magixx99.com:80/41782245166/jho98765jho/83247
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 4 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147640
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 4 SD
+http://magixx99.com:80/41782245166/jho98765jho/83604
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 5 FHD
+http://magixx99.com:80/41782245166/jho98765jho/152926
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 5 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83409
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 5 HD
+http://magixx99.com:80/41782245166/jho98765jho/83248
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 5 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147642
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 5 SD
+http://magixx99.com:80/41782245166/jho98765jho/83605
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 6 FHD
+http://magixx99.com:80/41782245166/jho98765jho/87319
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 6 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147643
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 6 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83410
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 6 HD
+http://magixx99.com:80/41782245166/jho98765jho/83249
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 6 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147644
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 6 SD
+http://magixx99.com:80/41782245166/jho98765jho/83606
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 7 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147645
+#EXTINF:-1 group-title="Canais | 4K - H265",Premiere 7 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83411
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 7 HD
+http://magixx99.com:80/41782245166/jho98765jho/83250
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 7 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147646
+#EXTINF:-1 group-title="Canais | Premiere FC",Premiere 7 SD
+http://magixx99.com:80/41782245166/jho98765jho/83607
+#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brasil FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147647
+#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brasil HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147648
+#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brazil FHD
+http://magixx99.com:80/41782245166/jho98765jho/162774
+#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brazil HD
+http://magixx99.com:80/41782245166/jho98765jho/162776
+#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brazil SD
+http://magixx99.com:80/41782245166/jho98765jho/83610
+#EXTINF:-1 group-title="Canais | Esportes PPV",Prime Esportes 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/83795
+#EXTINF:-1 group-title="Canais | Esportes PPV",Prime Esportes 2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83348
+#EXTINF:-1 group-title="Canais | Esportes PPV",Prime Esportes 2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83347
+#EXTINF:-1 group-title="Canais | Esportes PPV",Prime Esportes 3 FHD
+http://magixx99.com:80/41782245166/jho98765jho/169534
+#EXTINF:-1 group-title="Canais | Esportes PPV",Prime Esportes 3 HD
+http://magixx99.com:80/41782245166/jho98765jho/83790
+#EXTINF:-1 group-title="Canais | Esportes PPV",Prime Esportes 3 SD
+http://magixx99.com:80/41782245166/jho98765jho/83452
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Raça Negra e Alexandre Pires [Live Gigantes do Samba]
+http://magixx99.com:80/41782245166/jho98765jho/134985
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Raça Negra e Amigos em Casa [Live 21-04-2020]
+http://magixx99.com:80/41782245166/jho98765jho/134986
+#EXTINF:-1 group-title="Canais | Abertos",RBI FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147649
+#EXTINF:-1 group-title="Canais | Abertos",RBI HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/127908
+#EXTINF:-1 group-title="Canais | Record",Record Minas FHD
+http://magixx99.com:80/41782245166/jho98765jho/147652
+#EXTINF:-1 group-title="Canais | Record",Record Minas HD
+http://magixx99.com:80/41782245166/jho98765jho/169517
+#EXTINF:-1 group-title="Canais | Record",Record Minas HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147660
+#EXTINF:-1 group-title="Canais | Record",Record Minas SD
+http://magixx99.com:80/41782245166/jho98765jho/152650
+#EXTINF:-1 group-title="Canais | Notícias",Record News FHD
+http://magixx99.com:80/41782245166/jho98765jho/139116
+#EXTINF:-1 group-title="Canais | Notícias",Record News HD
+http://magixx99.com:80/41782245166/jho98765jho/83309
+#EXTINF:-1 group-title="Canais | Notícias",Record News SD
+http://magixx99.com:80/41782245166/jho98765jho/83612
+#EXTINF:-1 group-title="Canais | Esportes PPV",Red Bull TV HD
+http://magixx99.com:80/41782245166/jho98765jho/70206
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Boas Novas
+http://magixx99.com:80/41782245166/jho98765jho/163040
+#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil HD
+http://magixx99.com:80/41782245166/jho98765jho/163041
+#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil SD
+http://magixx99.com:80/41782245166/jho98765jho/165442
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Família FHD
+http://magixx99.com:80/41782245166/jho98765jho/162695
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel FHD
+http://magixx99.com:80/41782245166/jho98765jho/184543
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel HD
+http://magixx99.com:80/41782245166/jho98765jho/301489
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel SD
+http://magixx99.com:80/41782245166/jho98765jho/301490
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Super FHD
+http://magixx99.com:80/41782245166/jho98765jho/162677
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Super HD
+http://magixx99.com:80/41782245166/jho98765jho/162555
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Super SD
+http://magixx99.com:80/41782245166/jho98765jho/289013
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Século 21 FHD
+http://magixx99.com:80/41782245166/jho98765jho/152925
+#EXTINF:-1 group-title="Canais | 4K - H265",Rede TV 4K
+http://magixx99.com:80/41782245166/jho98765jho/151051
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV Brasília FHD
+http://magixx99.com:80/41782245166/jho98765jho/140896
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV Brasília HD
+http://magixx99.com:80/41782245166/jho98765jho/140897
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147673
+#EXTINF:-1 group-title="Canais | 4K - H265",Rede TV FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83413
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV HD
+http://magixx99.com:80/41782245166/jho98765jho/83253
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147674
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV SD
+http://magixx99.com:80/41782245166/jho98765jho/83616
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida FHD
+http://magixx99.com:80/41782245166/jho98765jho/162724
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/140898
+#EXTINF:-1 group-title="Canais | 4K - H265",Rede Vida FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/163280
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida HD
+http://magixx99.com:80/41782245166/jho98765jho/162725
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/83617
+#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida SD
+http://magixx99.com:80/41782245166/jho98765jho/162726
+#EXTINF:-1 group-title="Canais | Religiosos",RIT FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147675
+#EXTINF:-1 group-title="Canais | Variedades",Sabor e Arte HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147752
+#EXTINF:-1 group-title="Canais | Abertos",SBT TV Alterosa MG FHD
+http://magixx99.com:80/41782245166/jho98765jho/83495
+#EXTINF:-1 group-title="Canais | Abertos",SBT TV Alterosa MG HD
+http://magixx99.com:80/41782245166/jho98765jho/142101
+#EXTINF:-1 group-title="Canais | Abertos",SBT TV Alterosa MG SD
+http://magixx99.com:80/41782245166/jho98765jho/283909
+#EXTINF:-1 group-title="Canais | 4K - H265",Space 4K
+http://magixx99.com:80/41782245166/jho98765jho/151060
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Space FHD
+http://magixx99.com:80/41782245166/jho98765jho/136803
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Space FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147682
+#EXTINF:-1 group-title="Canais | 4K - H265",Space FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83361
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Space HD
+http://magixx99.com:80/41782245166/jho98765jho/83254
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Space HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147683
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Space SD
+http://magixx99.com:80/41782245166/jho98765jho/83622
+#EXTINF:-1 group-title="Canais | 4K - H265",SporTV 1 4K
+http://magixx99.com:80/41782245166/jho98765jho/151042
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 1 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83814
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 1 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147688
+#EXTINF:-1 group-title="Canais | 4K - H265",SporTV 1 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83416
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/83257
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 1 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147689
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 1 SD
+http://magixx99.com:80/41782245166/jho98765jho/83623
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 2 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83815
+#EXTINF:-1 group-title="Canais | 4K - H265",SporTV 2 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83414
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83255
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 2 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147685
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 2 SD
+http://magixx99.com:80/41782245166/jho98765jho/83624
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 3 FHD
+http://magixx99.com:80/41782245166/jho98765jho/83816
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 3 FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147686
+#EXTINF:-1 group-title="Canais | 4K - H265",SporTV 3 FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83415
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 3 HD
+http://magixx99.com:80/41782245166/jho98765jho/83256
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 3 HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147687
+#EXTINF:-1 group-title="Canais | SporTV",SporTV 3 SD
+http://magixx99.com:80/41782245166/jho98765jho/83625
+#EXTINF:-1 group-title="Canais | Esportes PPV",Sportynet 1
+http://magixx99.com:80/41782245166/jho98765jho/81094
+#EXTINF:-1 group-title="Canais | Esportes PPV",Sportynet 2
+http://magixx99.com:80/41782245166/jho98765jho/83215
+#EXTINF:-1 group-title="Canais | Esportes PPV",Sportynet 3
+http://magixx99.com:80/41782245166/jho98765jho/83239
+#EXTINF:-1 group-title="Canais | Esportes PPV",Sportynet 4
+http://magixx99.com:80/41782245166/jho98765jho/83297
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://magixx99.com:80/41782245166/jho98765jho/136804
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Studio Universal FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147690
+#EXTINF:-1 group-title="Canais | 4K - H265",Studio Universal FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83417
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Studio Universal HD
+http://magixx99.com:80/41782245166/jho98765jho/83258
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Studio Universal HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147691
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Studio Universal SD
+http://magixx99.com:80/41782245166/jho98765jho/83626
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TCM FHD
+http://magixx99.com:80/41782245166/jho98765jho/163289
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TCM HD
+http://magixx99.com:80/41782245166/jho98765jho/147709
+#EXTINF:-1 group-title="Canais | Abertos",TCM Play FHD
+http://magixx99.com:80/41782245166/jho98765jho/133315
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TCM SD
+http://magixx99.com:80/41782245166/jho98765jho/147708
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Action FHD
+http://magixx99.com:80/41782245166/jho98765jho/83824
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Action FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147696
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Action FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83420
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Action HD
+http://magixx99.com:80/41782245166/jho98765jho/83261
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Action HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147697
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Action SD
+http://magixx99.com:80/41782245166/jho98765jho/83630
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Cult FHD
+http://magixx99.com:80/41782245166/jho98765jho/83828
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Cult FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147698
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Cult FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83362
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Cult HD
+http://magixx99.com:80/41782245166/jho98765jho/83262
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Cult HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147699
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Cult SD
+http://magixx99.com:80/41782245166/jho98765jho/83631
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Fun FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147700
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Fun FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83363
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Fun HD
+http://magixx99.com:80/41782245166/jho98765jho/83263
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Fun HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147701
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Fun SD
+http://magixx99.com:80/41782245166/jho98765jho/83632
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Pipoca 4K
+http://magixx99.com:80/41782245166/jho98765jho/151056
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Pipoca FHD
+http://magixx99.com:80/41782245166/jho98765jho/83826
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Pipoca FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147702
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Pipoca FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83421
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Pipoca HD
+http://magixx99.com:80/41782245166/jho98765jho/83264
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Pipoca HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147703
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Pipoca SD
+http://magixx99.com:80/41782245166/jho98765jho/83633
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Premium 4K
+http://magixx99.com:80/41782245166/jho98765jho/151049
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Premium FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83364
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Premium HD
+http://magixx99.com:80/41782245166/jho98765jho/83265
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Premium HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147705
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Premium SD
+http://magixx99.com:80/41782245166/jho98765jho/83634
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Touch FHD
+http://magixx99.com:80/41782245166/jho98765jho/83825
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Touch FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147706
+#EXTINF:-1 group-title="Canais | 4K - H265",Telecine Touch FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83365
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Touch HD
+http://magixx99.com:80/41782245166/jho98765jho/83266
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Touch HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147707
+#EXTINF:-1 group-title="Canais | Telecine",Telecine Touch SD
+http://magixx99.com:80/41782245166/jho98765jho/83635
+#EXTINF:-1 group-title="Canais | Abertos",Terra Viva HD
+http://magixx99.com:80/41782245166/jho98765jho/162693
+#EXTINF:-1 group-title="Canais | Abertos",Terra Viva SD
+http://magixx99.com:80/41782245166/jho98765jho/147710
+#EXTINF:-1 group-title="Canais | Variedades",TLC FHD
+http://magixx99.com:80/41782245166/jho98765jho/87317
+#EXTINF:-1 group-title="Canais | Variedades",TLC FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147713
+#EXTINF:-1 group-title="Canais | 4K - H265",TLC FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83422
+#EXTINF:-1 group-title="Canais | Variedades",TLC HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147714
+#EXTINF:-1 group-title="Canais | Variedades",TLC SD
+http://magixx99.com:80/41782245166/jho98765jho/83637
+#EXTINF:-1 group-title="Canais | 4K - H265",TNT 4K
+http://magixx99.com:80/41782245166/jho98765jho/151053
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT FHD
+http://magixx99.com:80/41782245166/jho98765jho/83822
+#EXTINF:-1 group-title="Canais | 4K - H265",TNT FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83423
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT HD
+http://magixx99.com:80/41782245166/jho98765jho/83268
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147716
+#EXTINF:-1 group-title="Canais | Variedades",TNT Novelas FHD
+http://magixx99.com:80/41782245166/jho98765jho/299474
+#EXTINF:-1 group-title="Canais | Variedades",TNT Novelas FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/83260
+#EXTINF:-1 group-title="Canais | Variedades",TNT Novelas HD
+http://magixx99.com:80/41782245166/jho98765jho/299475
+#EXTINF:-1 group-title="Canais | Variedades",TNT Novelas HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/83628
+#EXTINF:-1 group-title="Canais | Variedades",TNT Novelas SD
+http://magixx99.com:80/41782245166/jho98765jho/299476
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT SD
+http://magixx99.com:80/41782245166/jho98765jho/83638
+#EXTINF:-1 group-title="Canais | 4K - H265",TNT Series 4K
+http://magixx99.com:80/41782245166/jho98765jho/151054
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT Series FHD
+http://magixx99.com:80/41782245166/jho98765jho/136806
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT Series FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147717
+#EXTINF:-1 group-title="Canais | 4K - H265",TNT Series FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83366
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT Series HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147718
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT Series SD
+http://magixx99.com:80/41782245166/jho98765jho/83639
+#EXTINF:-1 group-title="Canais | Infantil",Tooncast FHD
+http://magixx99.com:80/41782245166/jho98765jho/149345
+#EXTINF:-1 group-title="Canais | Infantil",Tooncast HD
+http://magixx99.com:80/41782245166/jho98765jho/147719
+#EXTINF:-1 group-title="Canais | Infantil",Tooncast SD
+http://magixx99.com:80/41782245166/jho98765jho/147720
+#EXTINF:-1 group-title="Canais | Variedades",Trace Brasil FHD
+http://magixx99.com:80/41782245166/jho98765jho/162662
+#EXTINF:-1 group-title="Canais | 4K - H265",Trace Brasil FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/163283
+#EXTINF:-1 group-title="Canais | Variedades",Trace Brasil HD
+http://magixx99.com:80/41782245166/jho98765jho/147999
+#EXTINF:-1 group-title="Canais | Variedades",Trace Brasil HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147470
+#EXTINF:-1 group-title="Canais | Variedades",Trace Brasil SD
+http://magixx99.com:80/41782245166/jho98765jho/162660
+#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brasil FHD
+http://magixx99.com:80/41782245166/jho98765jho/147366
+#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brasil FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147721
+#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brasil HD
+http://magixx99.com:80/41782245166/jho98765jho/150168
+#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brasil HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147456
+#EXTINF:-1 group-title="Canais | 4K - H265",Travel Box Brazil FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/163284
+#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brazil SD
+http://magixx99.com:80/41782245166/jho98765jho/162758
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+http://magixx99.com:80/41782245166/jho98765jho/136594
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Trio Parada Dura [A Última Live - Especial Parrerito]
+http://magixx99.com:80/41782245166/jho98765jho/136595
+#EXTINF:-1 group-title="Canais | Abertos",TV A Crítica HD
+http://magixx99.com:80/41782245166/jho98765jho/287470
+#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida FHD
+http://magixx99.com:80/41782245166/jho98765jho/162756
+#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/165429
+#EXTINF:-1 group-title="Canais | 4K - H265",TV Aparecida FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83698
+#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida HD
+http://magixx99.com:80/41782245166/jho98765jho/162755
+#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147467
+#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida SD
+http://magixx99.com:80/41782245166/jho98765jho/83643
+#EXTINF:-1 group-title="Canais | Abertos",TV Brasil FHD
+http://magixx99.com:80/41782245166/jho98765jho/162753
+#EXTINF:-1 group-title="Canais | Abertos",TV Brasil FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147724
+#EXTINF:-1 group-title="Canais | Abertos",TV Brasil HD
+http://magixx99.com:80/41782245166/jho98765jho/132026
+#EXTINF:-1 group-title="Canais | Abertos",TV Brasil HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147725
+#EXTINF:-1 group-title="Canais | Abertos",TV Brasil SD
+http://magixx99.com:80/41782245166/jho98765jho/162754
+#EXTINF:-1 group-title="Canais | Abertos",TV Camara FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147727
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura FHD
+http://magixx99.com:80/41782245166/jho98765jho/162747
+#EXTINF:-1 group-title="Canais | 4K - H265",TV Cultura FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/164572
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura HD
+http://magixx99.com:80/41782245166/jho98765jho/162748
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/151038
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura SD
+http://magixx99.com:80/41782245166/jho98765jho/83647
+#EXTINF:-1 group-title="Canais | Abertos",TV Diario CE FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147730
+#EXTINF:-1 group-title="Canais | Abertos",TV Diario CE HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147731
+#EXTINF:-1 group-title="Canais | Abertos",TV Escola FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147732
+#EXTINF:-1 group-title="Canais | Abertos",TV Escola SD
+http://magixx99.com:80/41782245166/jho98765jho/165443
+#EXTINF:-1 group-title="Canais | Religiosos",TV Evangelizar SD
+http://magixx99.com:80/41782245166/jho98765jho/83673
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta FHD
+http://magixx99.com:80/41782245166/jho98765jho/151052
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/151034
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta HD SP
+http://magixx99.com:80/41782245166/jho98765jho/83454
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/164697
+#EXTINF:-1 group-title="Canais | Abertos",TV Justiça HD
+http://magixx99.com:80/41782245166/jho98765jho/183762
+#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo FHD
+http://magixx99.com:80/41782245166/jho98765jho/162780
+#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147734
+#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo HD
+http://magixx99.com:80/41782245166/jho98765jho/83311
+#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/7009
+#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo SD
+http://magixx99.com:80/41782245166/jho98765jho/83665
+#EXTINF:-1 group-title="Canais | Esportes PPV",TV NSports 1 HD
+http://magixx99.com:80/41782245166/jho98765jho/83716
+#EXTINF:-1 group-title="Canais | Esportes PPV",TV NSports 2 HD
+http://magixx99.com:80/41782245166/jho98765jho/83717
+#EXTINF:-1 group-title="Canais | Esportes PPV",TV NSports 3 HD
+http://magixx99.com:80/41782245166/jho98765jho/169539
+#EXTINF:-1 group-title="Canais | Esportes PPV",TV NSports 4 HD
+http://magixx99.com:80/41782245166/jho98765jho/272
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno FHD
+http://magixx99.com:80/41782245166/jho98765jho/162727
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147735
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/163290
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno HD
+http://magixx99.com:80/41782245166/jho98765jho/162728
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/83473
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno SD
+http://magixx99.com:80/41782245166/jho98765jho/162729
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum FHD
+http://magixx99.com:80/41782245166/jho98765jho/162738
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147736
+#EXTINF:-1 group-title="Canais | 4K - H265",TV Ra Tim Bum FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/163278
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum HD
+http://magixx99.com:80/41782245166/jho98765jho/83272
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147737
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum SD
+http://magixx99.com:80/41782245166/jho98765jho/83650
+#EXTINF:-1 group-title="Canais | Abertos",TV Senado HD
+http://magixx99.com:80/41782245166/jho98765jho/149353
+#EXTINF:-1 group-title="Canais | Abertos",TV Senado SD
+http://magixx99.com:80/41782245166/jho98765jho/195183
+#EXTINF:-1 group-title="Canais | Abertos",TV Senado SD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147738
+#EXTINF:-1 group-title="Canais | Abertos",TVE Bahia FHD
+http://magixx99.com:80/41782245166/jho98765jho/284491
+#EXTINF:-1 group-title="Canais | Abertos",TVE Bahia HD
+http://magixx99.com:80/41782245166/jho98765jho/283910
+#EXTINF:-1 group-title="Canais | Abertos",TVE Bahia SD
+http://magixx99.com:80/41782245166/jho98765jho/284492
+#EXTINF:-1 group-title="Canais | Abertos",TVE Brasil SD
+http://magixx99.com:80/41782245166/jho98765jho/169516
+#EXTINF:-1 group-title="Canais | 4K - H265",Universal Channel TV FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83427
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Universal Channel TV HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147741
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Universal Channel TV SD
+http://magixx99.com:80/41782245166/jho98765jho/83664
+#EXTINF:-1 group-title="Canais | Filmes e Séries",USA FHD
+http://magixx99.com:80/41782245166/jho98765jho/139106
+#EXTINF:-1 group-title="Canais | Filmes e Séries",USA FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147666
+#EXTINF:-1 group-title="Canais | 4K - H265",USA FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83418
+#EXTINF:-1 group-title="Canais | Filmes e Séries",USA HD
+http://magixx99.com:80/41782245166/jho98765jho/83259
+#EXTINF:-1 group-title="Canais | Filmes e Séries",USA HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147653
+#EXTINF:-1 group-title="Canais | Filmes e Séries",USA SD
+http://magixx99.com:80/41782245166/jho98765jho/83627
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",VillaMix em Casa [Só Modão]
+http://magixx99.com:80/41782245166/jho98765jho/136593
+#EXTINF:-1 group-title="Canais | Variedades",Viva FHD
+http://magixx99.com:80/41782245166/jho98765jho/139114
+#EXTINF:-1 group-title="Canais | 4K - H265",Viva FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/163277
+#EXTINF:-1 group-title="Canais | Variedades",Viva HD
+http://magixx99.com:80/41782245166/jho98765jho/83276
+#EXTINF:-1 group-title="Canais | Variedades",Viva HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147745
+#EXTINF:-1 group-title="Canais | Variedades",Viva SD
+http://magixx99.com:80/41782245166/jho98765jho/83659
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://magixx99.com:80/41782245166/jho98765jho/136807
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Warner Channel FHD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147746
+#EXTINF:-1 group-title="Canais | 4K - H265",Warner Channel FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/83428
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Warner Channel HD
+http://magixx99.com:80/41782245166/jho98765jho/83277
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Warner Channel HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/147747
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Warner Channel SD
+http://magixx99.com:80/41782245166/jho98765jho/83660
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Wesley Safadão e Raça Negra [Skol Sunset]
+http://magixx99.com:80/41782245166/jho98765jho/136182
+#EXTINF:-1 group-title="Canais | Variedades",WooHoo FHD
+http://magixx99.com:80/41782245166/jho98765jho/147357
+#EXTINF:-1 group-title="Canais | Variedades",Woohoo HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/142028
+#EXTINF:-1 group-title="Canais | Variedades",WooHoo SD
+http://magixx99.com:80/41782245166/jho98765jho/83661
+#EXTINF:-1 group-title="Canais | Abertos",X Sports FHD
+http://magixx99.com:80/41782245166/jho98765jho/164613
+#EXTINF:-1 group-title="Canais | 4K - H265",X Sports FHD [H265]
+http://magixx99.com:80/41782245166/jho98765jho/164614
+#EXTINF:-1 group-title="Canais | Abertos",X Sports SD
+http://magixx99.com:80/41782245166/jho98765jho/164611
+#EXTINF:-1 group-title="24 Horas | Premium",X-Men 02
+http://magixx99.com:80/41782245166/jho98765jho/133417
+#EXTINF:-1 group-title="24 Horas | Lives/Shows",Xand Avião e os Barões da Pisadinha [Live Oficial]
+http://magixx99.com:80/41782245166/jho98765jho/136181
+#EXTINF:-1 group-title="Canais | Infantil",Zoomoo HD [Alt]
+http://magixx99.com:80/41782245166/jho98765jho/83526
