@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tv generator-info-name="ProjectXTV">
+  <channel id="placeholder">
+    <display-name>Canal Geral</display-name>
+  </channel>
+  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="placeholder">
+    <title>Programacao ProjectXTV</title>
+    <desc>Assista aos seus canais favoritos.</desc>
+  </programme>
+</tv>
